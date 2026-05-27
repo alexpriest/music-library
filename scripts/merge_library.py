@@ -67,15 +67,18 @@ for f in reshoot_files:
     if not b:
         print(f"WARN: reshoot override for unknown book id {o['id']}")
         continue
-    new_songs = o.get("songs", [])
-    if o.get("mode") == "merge":
-        seen = {_norm_title(s["title"]) for s in b.get("songs", [])}
-        b["songs"] = b.get("songs", []) + [s for s in new_songs if _norm_title(s["title"]) not in seen]
-    else:  # replace
-        b["songs"] = new_songs
+    if "songs" in o:  # title-only overrides omit "songs" and leave the list untouched
+        new_songs = o["songs"]
+        if o.get("mode") == "merge":
+            seen = {_norm_title(s["title"]) for s in b.get("songs", [])}
+            b["songs"] = b.get("songs", []) + [s for s in new_songs if _norm_title(s["title"]) not in seen]
+        else:  # replace
+            b["songs"] = new_songs
     for fld in ("title", "title_confidence", "identification_note", "title_suggestion"):
         if o.get(fld):
             b[fld] = o[fld]
+    if o.get("title"):  # title resolved -> drop any now-stale suggestion
+        b.pop("title_suggestion", None)
     if o.get("clear_flags"):
         b["flags"] = []
     b["reshot"] = True

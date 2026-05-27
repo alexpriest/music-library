@@ -13,27 +13,12 @@ These books have incomplete data or an unconfirmed title. Everything else is sol
 |------|-------|
 | **Bach: Two- and Three-Part Inventions (Schirmer, Vol. 813)** | Cover only. Canonical 15 Inventions + 15 Sinfonias filled in enrichment. |
 | **Debussy: Clair de Lune (Alfred / Palmer)** | RESOLVED: This Alfred Masterwork Edition (Alfred #2160, ISBN 9780739012925) is the single standalone piece 'Clair de lune' (3rd movement of Suite bergamasque), NOT the complete suite. |
-| **Debussy: Piano Collection (Japanese Edition)** | Japanese-edition Debussy collection; exact title not captured. |
-| **Elton John (Songbook)** | Only back-cover song list seen; specific book title unknown. |
 | **Field: Eighteen Nocturnes for the Piano** | Cover only; no contents captured. Canonical 18 nocturnes filled in enrichment from IMSLP / Schirmer edition. Page numbers unknown (null). |
-| **Grieg: Album of Selected Piano Works** | Alphabetical-index page; exact edition/title unknown. All-Grieg (Lyric Pieces, Peer Gynt, etc.). |
-| **Hall of Fame: Artists & Their Hits** | Cover (5655) + contents/artist-index (5656) grouped as one book. |
 | **J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)** | Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment. |
 | **J.S. Bach: Two-Part Inventions (Alfred / Palmer)** | Cover only. Canonical 15 Two-Part Inventions (BWV 772–786) filled in enrichment. Page numbers unknown (null). |
-| **James Bond: 26 Songs from 24 Films** | Back-cover header; exact book title not captured. |
-| **John Denver (Songbook)** | Only back-cover song list seen; specific book title unknown. |
 | **Liszt: Liebesträume — Drei Notturnos (Henle Urtext)** | Cover only. Three Liebesträume to be filled in enrichment. |
-| **O Brother, Where Art Thou? (Soundtrack)** | Identified from song list; no title text on page. |
-| **Queen (Songbook)** | Only back-cover song list seen; specific book title unknown. No page numbers. |
-| **Raffi Songbook** | Title inferred from facing book (likely a Raffi collection). No page numbers. Confirm title.; Song list spans Raffi's entire discography (Baby Beluga 1980 through Bananaphone/Let's Play era), NOT the 1980 'Raffi Singable Songbook' (which contains Aikendrum, Anansi, Baa Baa Black Sheep, etc., none present here). The matching 51-song count is coincidental. Best fit is a comprehensive cross-album Raffi anthology; exact edition unconfirmed. |
-| **Ravel: Piano Masterpieces (Collection)** | Dover-style collection; exact title not captured. Contents low-res. |
-| **Satie: Piano Works (Collection)** | Comprehensive Satie collection; exact edition/title not captured. |
 | **Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142** | Cover only. Canonical 6 Moments Musicaux + 8 Impromptus to be filled in enrichment. |
-| **Star Wars (Trilogy Songbook)** | Back cover groups themes by film; specific book title not captured. |
-| **Taylor Swift: Midnights** | Identified from tracklist; no title text on page. |
-| **The Phantom of the Opera (Songbook)** | Identified from cover artwork; no title text on page. No page numbers. |
 | **The Shins: Wincing the Night Away** | Identified by tracklist; back-cover list, no page numbers. |
-| **The Singer's Musical Theatre Anthology — (Volume Unconfirmed)** | Contents page from an SMTA volume; which voice type/volume unconfirmed (may continue Vol. 2). |
 | **Yann Tiersen: Kerber** | Identified by tracklist. |
 
 ### Suggested title identifications
@@ -43,26 +28,8 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 | Current title | Suggested actual edition |
 |------|------|
 | Birds | **Birds, Book 1 — A Suite of Eight Impressionistic Studies (Seymour Bernstein, G. Schirmer)** |
-| Debussy: Piano Collection (Japanese Edition) | **Likely Zen-On Piano Library 'Debussy: Piano Album, Vol. 1' (ドビュッシー ピアノ・アルバム 1).** |
-| Eagles Complete | **Eagles Complete (Warner Bros. Publications, Piano/Vocal/Guitar)** |
-| Elton John (Songbook) | **Elton John — Greatest Hits 1970-2002 (Hal Leonard, Piano/Vocal/Guitar)** |
 | Encanto | **Encanto: Music from the Motion Picture Soundtrack (Piano/Vocal/Guitar)** |
-| Grieg: Album of Selected Piano Works | **Grieg: Selected Piano Compositions (e.g. Schirmer's Library Vol. 920 / Album of Selected Works)** |
-| Hall of Fame: Artists & Their Hits | **Hall of Fame: Artists & Their Hits — Armed Forces Song Folio Music Book, Volume XXVIII** |
-| James Bond: 26 Songs from 24 Films | **The James Bond Collection (Hal Leonard, P/V/G)** |
-| John Denver (Songbook) | **John Denver Songbook: Guitar Songbook Edition (Alfred)** |
-| O Brother, Where Art Thou? (Soundtrack) | **O Brother, Where Art Thou? — Music from the Motion Picture Soundtrack (Hal Leonard, PVG)** |
-| Queen (Songbook) | **Queen: Note-for-Note Keyboard Transcriptions (Hal Leonard, HL00141589)** |
-| Raffi Songbook | **Likely a comprehensive Raffi anthology / 'best of' songbook (PVG with guitar chord boxes), not 'The Raffi Singable Songbook' (1980).** |
-| Ravel: Piano Masterpieces (Collection) | **Piano Masterpieces of Maurice Ravel (Dover Publications)** |
-| Satie: Piano Works (Collection) | **Gymnopédies, Gnossiennes and Other Works for Piano (Dover Publications)** |
-| Star Wars (Trilogy Songbook) | **Music from the Star Wars Trilogy: Special Edition (John Williams), International Music Publications / Warner Bros. Publications, Piano-Vocal-Guitar** |
-| Super Mario Series for Piano (Intermediate–Advanced Edition) | **Super Mario Series for Piano (Alfred 00-38600 / Koji Kondo) — intermediate-advanced note-for-note transcriptions** |
-| Taylor Swift: Midnights | **Taylor Swift — Midnights (3am Edition), Piano/Vocal/Guitar** |
-| The Hoagy Carmichael Songbook | **The Hoagy Carmichael Songbook (Hal Leonard, Piano/Vocal/Guitar)** |
 | The Library of Piano Favorites | **The Library of Piano Favorites (Amsco Publications / Music Sales; dist. Hal Leonard #14019052)** |
-| The Phantom of the Opera (Songbook) | **The Phantom of the Opera — Vocal Selections (Andrew Lloyd Webber)** |
-| The Singer's Musical Theatre Anthology — (Volume Unconfirmed) | **The Singer's Musical Theatre Anthology — Volume 2, Mezzo-Soprano/Belter** |
 | The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 1 | **The Singer's Musical Theatre Anthology — Volume 1: Mezzo-Soprano/Belter (ed. Richard Walters, Hal Leonard)** |
 | The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 2 | **The Singer's Musical Theatre Anthology – Volume 2: Mezzo-Soprano/Belter (Hal Leonard Vocal Library, ed. Richard Walters)** |
 
@@ -75,7 +42,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ### Children's
 
-- **Raffi Songbook** _(uncertain)_ — 51 songs  · easy-to-play piano arrangements with guitar chord boxes
+- **Raffi: Children's Favorites** — 51 songs  · easy-to-play piano arrangements with guitar chord boxes
 - **The Great Big Book of Children's Songs** — 74 songs  · PIANO - VOCAL - GUITAR
 - **The Sesame Street Songbook** — 40 songs  · Sesame Street · piano, guitar, and voice
 
@@ -92,12 +59,12 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Chopin: Complete Nocturnes (Schirmer's Library)** — 19 songs  · Frédéric Chopin · Schirmer's Library of Musical Classics · piano
 - **Debussy: Children's Corner (Alfred / Hinson)** — 6 songs  · Claude Debussy · An Alfred Masterwork Edition · Piano
 - **Debussy: Clair de Lune (Alfred / Palmer)** — 1 songs  · Claude Debussy · An Alfred Masterwork Edition · piano
-- **Debussy: Piano Collection (Japanese Edition)** _(probable)_ — 22 songs  · Claude Debussy
+- **Debussy: Piano-Œuvres, Vol. 1 (Shunjūsha Edition, ed. Motonari Iguchi)** — 22 songs  · Claude Debussy
 - **Debussy: Selected Favorites for the Piano (Alfred)** — 15 songs  · Claude Debussy · Piano
 - **Field: Eighteen Nocturnes for the Piano** — 18 songs  · John Field · Schirmer's Library of Musical Classics, Vol. 42 · Piano
 - **Franz Liszt: Selected Intermediate to Early Advanced Piano Solos** — 28 songs  · Franz Liszt · Piano
 - **Granados: Valses Poéticos** — 14 songs  · Enrique Granados
-- **Grieg: Album of Selected Piano Works** _(uncertain)_ — 44 songs  · Edvard Grieg
+- **Grieg: Selected Works for the Piano (Alfred Masterwork, ed. Henry Levine)** — 44 songs  · Edvard Grieg
 - **J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)** — 30 songs  · J.S. Bach · A Kalmus Classic Edition · FOR PIANO
 - **J.S. Bach: Two-Part Inventions (Alfred / Palmer)** — 15 songs  · J.S. Bach · An Alfred Masterwork Edition
 - **John Cage: Piano Works 1935–48, Volume 3** — 8 songs  · John Cage · Piano
@@ -106,9 +73,9 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Mendelssohn: Songs Without Words (Complete, Alfred / Hinson)** — 48 songs  · Felix Mendelssohn · An Alfred Masterwork Edition · Piano
 - **Mozart: 21 of His Most Popular Pieces** — 22 songs  · W.A. Mozart · Piano
 - **Na corda da viola (Nº 43)** 〔loose sheet〕 — 1 songs  · Heitor Villa-Lobos · GUIA PRÁTICO · PIANO
-- **Ravel: Piano Masterpieces (Collection)** _(probable)_ — 7 songs  · Maurice Ravel
+- **Piano Masterpieces of Maurice Ravel (Dover)** — 7 songs  · Maurice Ravel
 - **Rhapsody in Blue** — 1 songs  · George Gershwin · piano solo
-- **Satie: Piano Works (Collection)** _(uncertain)_ — 17 songs  · Erik Satie
+- **Satie: Gymnopédies, Gnossiennes and Other Works for Piano (Dover)** — 17 songs  · Erik Satie
 - **Scarlatti: Selected Sonatas for the Piano (Alfred / Hinson)** — 20 songs  · Domenico Scarlatti · An Alfred Masterwork Edition · Piano
 - **Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142** — 14 songs  · Franz Schubert · Masterwork Edition · piano
 - **Schumann: Scenes from Childhood, Op. 15** — 13 songs  · Robert Schumann · Piano
@@ -117,17 +84,17 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ### Country
 
-- **O Brother, Where Art Thou? (Soundtrack)** _(probable)_ — 11 songs
+- **O Brother, Where Art Thou?: Music from the Motion Picture** — 11 songs
 
 ### Film/TV Score
 
 - **Cowboy Bebop (Piano Score)** — 17 songs  · Piano Solo / Vocal & Piano / Piano Duet (Four Hands)
 - **Disney Recital Suites (The Phillip Keveren Series)** — 20 songs  · THE PHILLIP KEVEREN SERIES · PIANO SOLO
 - **Encanto** — 9 songs
-- **James Bond: 26 Songs from 24 Films** _(probable)_ — 25 songs  · Piano/Vocal/Guitar
+- **Music from the Star Wars Trilogy: Special Edition** — 8 songs
 - **Philip Glass: The Piano Collection** — 18 songs  · Philip Glass · Piano
 - **Soul (Disney·Pixar)** — 13 songs  · Piano/Vocal/Guitar
-- **Star Wars (Trilogy Songbook)** _(probable)_ — 8 songs
+- **The James Bond Collection** _(probable)_ — 25 songs  · Piano/Vocal/Guitar
 - **The Library of Disney Songs** — 57 songs  · The Library of · Piano, Voice and Guitar
 - **The Rainbow Connection** 〔loose sheet〕 — 1 songs
 
@@ -152,10 +119,10 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 - **Hamilton** — 17 songs
 - **Memory (from Cats)** 〔loose sheet〕 — 1 songs  · CATS · PIANO/VOCAL/GUITAR
-- **The Phantom of the Opera (Songbook)** _(probable)_ — 9 songs  · The Phantom of the Opera
-- **The Singer's Musical Theatre Anthology — (Volume Unconfirmed)** _(uncertain)_ — 41 songs
+- **The Phantom of the Opera: Vocal Selections** — 9 songs  · The Phantom of the Opera
 - **The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 1** _(probable)_ — 39 songs  · The Singer's Musical Theatre Anthology · Mezzo-Soprano/Belter (voice)
 - **The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 2** _(probable)_ — 37 songs  · The Singer's Musical Theatre Anthology · Mezzo-Soprano/Belter (voice)
+- **The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 2 (contents cont.)** _(probable)_ — 41 songs
 
 ### New Age/Minimalist
 
@@ -167,9 +134,9 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ### Pop
 
-- **Elton John (Songbook)** _(uncertain)_ — 34 songs  · Elton John
+- **Elton John: Greatest Hits 1970–2002** — 34 songs  · Elton John
 - **Raindrops Keep Fallin' on My Head** 〔loose sheet〕 — 1 songs
-- **Taylor Swift: Midnights** _(probable)_ — 20 songs  · Taylor Swift
+- **Taylor Swift: Midnights (3am Edition)** — 20 songs  · Taylor Swift
 - **The Best Love Songs Ever** — 69 songs  · PIANO - VOCAL - GUITAR
 
 ### R&B/Soul
@@ -188,13 +155,13 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 ### Rock
 
 - **Eagles Complete** — 67 songs  · Eagles
-- **Hall of Fame: Artists & Their Hits** _(probable)_ — 44 songs  · Armed Forces Song Folio Music Book
-- **Queen (Songbook)** _(uncertain)_ — 13 songs
+- **Hall of Fame: Artists & Their Hits (Armed Forces Song Folio, Vol. XXVIII)** — 44 songs  · Armed Forces Song Folio Music Book
+- **Queen: Note-for-Note Keyboard Transcriptions** — 13 songs
 - **The Shins: Wincing the Night Away** — 11 songs  · The Shins
 
 ### Singer-Songwriter
 
-- **John Denver (Songbook)** _(uncertain)_ — 21 songs  · John Denver
+- **John Denver Songbook (Guitar Songbook Edition)** — 21 songs  · John Denver
 - **Randy Newman Anthology** — 35 songs  · Piano/Vocal/Chords
 
 ### Video Game

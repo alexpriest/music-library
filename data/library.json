@@ -10625,8 +10625,8 @@
     },
     {
       "id": "debussy-japanese-collection",
-      "title": "Debussy: Piano Collection (Japanese Edition)",
-      "title_confidence": "probable",
+      "title": "Debussy: Piano-Œuvres, Vol. 1 (Shunjūsha Edition, ed. Motonari Iguchi)",
+      "title_confidence": "confident",
       "composer": "Claude Debussy",
       "series": null,
       "volume": null,
@@ -10639,11 +10639,8 @@
       "source_photos": [
         "IMG_5638.jpeg"
       ],
-      "flags": [
-        "Japanese-edition Debussy collection; exact title not captured."
-      ],
-      "title_suggestion": "Likely Zen-On Piano Library 'Debussy: Piano Album, Vol. 1' (ドビュッシー ピアノ・アルバム 1).",
-      "identification_note": "Contents and ordering (Deux Arabesques, Suite Bergamasque, Pour le Piano, Ballade, Reverie, Valse romantique, Nocturne, Danse, Mazurka, D'un cahier d'esquisses, Masques, Hommage a Haydn, La plus que lente, Berceuse heroique) match the standard Zen-On Piano Library single-volume Debussy album of shorter/early works. Vol./publisher inferred, not confirmed from the photo.",
+      "flags": [],
+      "identification_note": "Cover confirmed: Shunjūsha (春秋社) edition, ed. 井口基成 (Motonari Iguchi).",
       "songs": [
         {
           "title": "1 ) Deux Arabesques",
@@ -11254,6 +11251,7 @@
         }
       ],
       "song_count_captured": 22,
+      "reshot": true,
       "song_count": 22
     },
     {
@@ -12214,7 +12212,6 @@
         "IMG_5599.jpeg"
       ],
       "flags": [],
-      "title_suggestion": "Eagles Complete (Warner Bros. Publications, Piano/Vocal/Guitar)",
       "identification_note": "The 53-song contents include deep album cuts and rarities (Is It True?, Journey of the Sorcerer, The Greeks Don't Want No Freaks, Take the Devil, Tryin', Twenty One, Too Many Hands, Good Day in Hell) plus later tracks (Get Over It, Love Will Keep Us Alive), matching the comprehensive 'Eagles Complete' folio rather than a hits collection.",
       "songs": [
         {
@@ -14017,8 +14014,8 @@
     },
     {
       "id": "elton-john-songbook",
-      "title": "Elton John (Songbook)",
-      "title_confidence": "uncertain",
+      "title": "Elton John: Greatest Hits 1970–2002",
+      "title_confidence": "confident",
       "composer": "Elton John",
       "series": null,
       "volume": null,
@@ -14032,11 +14029,8 @@
         "IMG_5596.jpeg",
         "IMG_5597.jpeg"
       ],
-      "flags": [
-        "Only back-cover song list seen; specific book title unknown."
-      ],
-      "title_suggestion": "Elton John — Greatest Hits 1970-2002 (Hal Leonard, Piano/Vocal/Guitar)",
-      "identification_note": "ISBN 978-0-634-08373-0 (0-634-08373-2) is the Hal Leonard Piano/Vocal/Guitar folio 'Elton John - Greatest Hits 1970-2002' (2004). The captured 34-song back-cover list matches that edition exactly, including the closing tracks 'I Want Love' and 'This Train Don't Stop There Anymore'. Music written by Elton John with lyrics by Bernie Taupin except where noted (e.g. 'Don't Go Breaking My Heart' lyric by Ann Orson/Carte Blanche; 'Candle in the Wind' Taupin; 'Can You Feel the Love Tonight' / 'Circle of Life' lyrics by Tim Rice).",
+      "flags": [],
+      "identification_note": "Hal Leonard PVG; exact 34-song back-cover list match (ISBN 978-0-634-08373-0).",
       "songs": [
         {
           "title": "YOUR SONG",
@@ -14937,6 +14931,7 @@
         }
       ],
       "song_count_captured": 34,
+      "reshot": true,
       "song_count": 34
     },
     {
@@ -16851,8 +16846,8 @@
     },
     {
       "id": "grieg-album",
-      "title": "Grieg: Album of Selected Piano Works",
-      "title_confidence": "uncertain",
+      "title": "Grieg: Selected Works for the Piano (Alfred Masterwork, ed. Henry Levine)",
+      "title_confidence": "confident",
       "composer": "Edvard Grieg",
       "series": null,
       "volume": null,
@@ -16865,11 +16860,8 @@
       "source_photos": [
         "IMG_5613.jpeg"
       ],
-      "flags": [
-        "Alphabetical-index page; exact edition/title unknown. All-Grieg (Lyric Pieces, Peer Gynt, etc.)."
-      ],
-      "title_suggestion": "Grieg: Selected Piano Compositions (e.g. Schirmer's Library Vol. 920 / Album of Selected Works)",
-      "identification_note": "Alphabetical-index page lists Lyric Pieces (Opp. 12, 38, 43, 47, 54, 65, 68, 71), both Peer Gynt suite movements, Norwegian Dances, and the I Love Thee transcription. This contents profile matches a single-volume Grieg piano anthology in the mold of Schirmer's Library of Musical Classics (e.g. Vol. 920) or a comparable 'Selected Works' album. Title left as captured per instruction; edition not confirmable from the index page alone.",
+      "flags": [],
+      "identification_note": "Cover confirmed: Alfred Masterwork Edition #641, Henry Levine editor.",
       "songs": [
         {
           "title": "Album-Leaf, Op. 12, No. 7",
@@ -18017,12 +18009,13 @@
         }
       ],
       "song_count_captured": 44,
+      "reshot": true,
       "song_count": 44
     },
     {
       "id": "hall-of-fame-artists-hits",
-      "title": "Hall of Fame: Artists & Their Hits",
-      "title_confidence": "probable",
+      "title": "Hall of Fame: Artists & Their Hits (Armed Forces Song Folio, Vol. XXVIII)",
+      "title_confidence": "confident",
       "series": "Armed Forces Song Folio Music Book",
       "volume": null,
       "publisher": null,
@@ -18035,11 +18028,8 @@
         "IMG_5655.jpeg",
         "IMG_5656.jpeg"
       ],
-      "flags": [
-        "Cover (5655) + contents/artist-index (5656) grouped as one book."
-      ],
-      "title_suggestion": "Hall of Fame: Artists & Their Hits — Armed Forces Song Folio Music Book, Volume XXVIII",
-      "identification_note": "Multi-artist U.S. Army Special Services 'Armed Forces Song Folio' compilation. Contents are an early-1970s mix of The Beatles, George Harrison (solo), Creedence Clearwater Revival, Neil Diamond, Chicago, and Burt Bacharach/Hal David hits. Several captured titles ('Tweetin' Up The Country', 'Features Green', '(Trip) Best Thing') appear to be OCR/scan garbling and could not be matched to a definitive song; kept verbatim and flagged.",
+      "flags": [],
+      "identification_note": "US Army song folio; multi-artist early-'70s compilation.",
       "songs": [
         {
           "title": "All Things Must Pass",
@@ -19213,6 +19203,7 @@
         }
       ],
       "song_count_captured": 44,
+      "reshot": true,
       "song_count": 44
     },
     {
@@ -19694,7 +19685,6 @@
         "IMG_5395.jpeg"
       ],
       "flags": [],
-      "title_suggestion": "The Hoagy Carmichael Songbook (Hal Leonard, Piano/Vocal/Guitar)",
       "identification_note": "Partial song list (Georgia on My Mind, Heart and Soul, Stardust, Skylark, The Nearness of You, In the Cool, Cool, Cool of the Evening, Lazy River, Winter Moon) matches Hal Leonard's 'The Hoagy Carmichael Songbook' (ISBN 0-7935-8659-3), a 35-song PVG collection. Identification is high-confidence; 'The Whole Song' appears to be an OCR/section artifact rather than an actual title.",
       "songs": [
         {
@@ -22462,7 +22452,7 @@
     },
     {
       "id": "james-bond-songbook",
-      "title": "James Bond: 26 Songs from 24 Films",
+      "title": "The James Bond Collection",
       "title_confidence": "probable",
       "series": null,
       "volume": null,
@@ -22475,11 +22465,8 @@
       "source_photos": [
         "IMG_5610.jpeg"
       ],
-      "flags": [
-        "Back-cover header; exact book title not captured."
-      ],
-      "title_suggestion": "The James Bond Collection (Hal Leonard, P/V/G)",
-      "identification_note": "Song list runs Dr. No (1962) through Spectre (2015) and includes the two OHMSS entries plus 'You Know My Name', 'Another Way to Die', and 'Writing's on the Wall'. This matches Hal Leonard's James Bond P/V/G collection covering the films through Spectre. Captured count is 25 titles though the header reads '26 songs'; likely one omitted in capture (possibly an additional incidental theme). Title left as captured per instruction.",
+      "flags": [],
+      "identification_note": "Hal Leonard James Bond PVG collection (Dr. No → Spectre); exact folio title not seen.",
       "songs": [
         {
           "title": "The James Bond Theme",
@@ -23133,6 +23120,7 @@
         }
       ],
       "song_count_captured": 25,
+      "reshot": true,
       "song_count": 25
     },
     {
@@ -23369,8 +23357,8 @@
     },
     {
       "id": "john-denver-songbook",
-      "title": "John Denver (Songbook)",
-      "title_confidence": "uncertain",
+      "title": "John Denver Songbook (Guitar Songbook Edition)",
+      "title_confidence": "confident",
       "composer": "John Denver",
       "series": null,
       "volume": null,
@@ -23383,11 +23371,8 @@
       "source_photos": [
         "IMG_5598.jpeg"
       ],
-      "flags": [
-        "Only back-cover song list seen; specific book title unknown."
-      ],
-      "title_suggestion": "John Denver Songbook: Guitar Songbook Edition (Alfred)",
-      "identification_note": "ISBN 0-7579-7897-5 (9780757978975) maps to Alfred's 'John Denver Songbook: Guitar Songbook Edition.' Despite the 'guitar' label, difficulty is estimated for an intermediate piano arrangement per schema and confidence set to medium.",
+      "flags": [],
+      "identification_note": "Alfred, ISBN 0-7579-7897-5.",
       "songs": [
         {
           "title": "ANNIE'S SONG",
@@ -23930,6 +23915,7 @@
         }
       ],
       "song_count_captured": 21,
+      "reshot": true,
       "song_count": 21
     },
     {
@@ -26427,8 +26413,8 @@
     },
     {
       "id": "o-brother-where-art-thou",
-      "title": "O Brother, Where Art Thou? (Soundtrack)",
-      "title_confidence": "probable",
+      "title": "O Brother, Where Art Thou?: Music from the Motion Picture",
+      "title_confidence": "confident",
       "series": null,
       "volume": null,
       "publisher": "Hal Leonard",
@@ -26440,11 +26426,8 @@
       "source_photos": [
         "IMG_5607.jpeg"
       ],
-      "flags": [
-        "Identified from song list; no title text on page."
-      ],
-      "title_suggestion": "O Brother, Where Art Thou? — Music from the Motion Picture Soundtrack (Hal Leonard, PVG)",
-      "identification_note": "Track list and performer attributions match the 2000 T Bone Burnett-produced soundtrack exactly. The captured 'from' fields are the recording artists, retained as printed; the underlying film is O Brother, Where Art Thou?",
+      "flags": [],
+      "identification_note": "Hal Leonard soundtrack folio; tracklist matches the 2000 T Bone Burnett soundtrack.",
       "songs": [
         {
           "title": "\"BIG ROCK CANDY MOUNTAIN\"",
@@ -26733,6 +26716,7 @@
         }
       ],
       "song_count_captured": 11,
+      "reshot": true,
       "song_count": 11
     },
     {
@@ -28041,8 +28025,8 @@
     },
     {
       "id": "queen-songbook",
-      "title": "Queen (Songbook)",
-      "title_confidence": "uncertain",
+      "title": "Queen: Note-for-Note Keyboard Transcriptions",
+      "title_confidence": "confident",
       "series": null,
       "volume": null,
       "publisher": "EMI Music Publishing / Hal Leonard",
@@ -28054,11 +28038,8 @@
       "source_photos": [
         "IMG_5585.jpeg"
       ],
-      "flags": [
-        "Only back-cover song list seen; specific book title unknown. No page numbers."
-      ],
-      "title_suggestion": "Queen: Note-for-Note Keyboard Transcriptions (Hal Leonard, HL00141589)",
-      "identification_note": "The exact 13-song list (Bohemian Rhapsody, Death on Two Legs, Don't Stop Me Now, Good Old-Fashioned Lover Boy, Killer Queen, Lazing on a Sunday Afternoon, Love of My Life, Nevermore, Play the Game, Seven Seas of Rhye, Somebody to Love, We Are the Champions, You're My Best Friend) matches Hal Leonard's 'Queen: Note-for-Note Keyboard Transcriptions' (00141589) exactly. These are advanced note-for-note keyboard transcriptions from the original recordings.",
+      "flags": [],
+      "identification_note": "Hal Leonard HL00141589; 13-song list matches exactly.",
       "songs": [
         {
           "title": "BOHEMIAN RHAPSODY",
@@ -28402,12 +28383,13 @@
         }
       ],
       "song_count_captured": 13,
+      "reshot": true,
       "song_count": 13
     },
     {
       "id": "raffi-songbook",
-      "title": "Raffi Songbook",
-      "title_confidence": "uncertain",
+      "title": "Raffi: Children's Favorites",
+      "title_confidence": "confident",
       "series": null,
       "volume": null,
       "publisher": null,
@@ -28419,12 +28401,8 @@
       "source_photos": [
         "IMG_5584.jpeg"
       ],
-      "flags": [
-        "Title inferred from facing book (likely a Raffi collection). No page numbers. Confirm title.",
-        "Song list spans Raffi's entire discography (Baby Beluga 1980 through Bananaphone/Let's Play era), NOT the 1980 'Raffi Singable Songbook' (which contains Aikendrum, Anansi, Baa Baa Black Sheep, etc., none present here). The matching 51-song count is coincidental. Best fit is a comprehensive cross-album Raffi anthology; exact edition unconfirmed."
-      ],
-      "title_suggestion": "Likely a comprehensive Raffi anthology / 'best of' songbook (PVG with guitar chord boxes), not 'The Raffi Singable Songbook' (1980).",
-      "identification_note": "Tracks draw from Baby Beluga, Rise and Shine, One Light One Sun, Everything Grows, Raffi's Christmas Album, Bananaphone, Let's Play and others — a career-spanning collection rather than a single-era book. Edition/publisher not verifiable from the captured data.",
+      "flags": [],
+      "identification_note": "Music Sales/Amsco; cover: 'Over 50 songs written or adapted by Raffi… complete lyrics and guitar chord boxes.' A different book than the 'Singable Songbook'.",
       "songs": [
         {
           "title": "All I Really Need",
@@ -29758,6 +29736,7 @@
         }
       ],
       "song_count_captured": 51,
+      "reshot": true,
       "song_count": 51
     },
     {
@@ -30774,8 +30753,8 @@
     },
     {
       "id": "ravel-piano-masterpieces",
-      "title": "Ravel: Piano Masterpieces (Collection)",
-      "title_confidence": "probable",
+      "title": "Piano Masterpieces of Maurice Ravel (Dover)",
+      "title_confidence": "confident",
       "composer": "Maurice Ravel",
       "series": null,
       "volume": null,
@@ -30788,11 +30767,8 @@
       "source_photos": [
         "IMG_5631.jpeg"
       ],
-      "flags": [
-        "Dover-style collection; exact title not captured. Contents low-res."
-      ],
-      "title_suggestion": "Piano Masterpieces of Maurice Ravel (Dover Publications)",
-      "identification_note": "Contents and dedications match Dover's 'Piano Masterpieces of Maurice Ravel' (canonical ISBN 9780486251370). Several captured entries contain OCR garbling — notably 'Gaspard de la nuit (Aspild Dodger of the Night)', which should read 'Gaspard de la nuit'.",
+      "flags": [],
+      "identification_note": "Cover confirmed (Dover). Captured song list is partial (major works only); page numbers not catalogued.",
       "songs": [
         {
           "title": "Menuet antique (Old Minuet), composed 1895, dedicated to Ricardo Viñes",
@@ -30984,6 +30960,7 @@
         }
       ],
       "song_count_captured": 7,
+      "reshot": true,
       "song_count": 7
     },
     {
@@ -31036,8 +31013,8 @@
     },
     {
       "id": "satie-piano-works",
-      "title": "Satie: Piano Works (Collection)",
-      "title_confidence": "uncertain",
+      "title": "Satie: Gymnopédies, Gnossiennes and Other Works for Piano (Dover)",
+      "title_confidence": "confident",
       "composer": "Erik Satie",
       "series": null,
       "volume": null,
@@ -31051,11 +31028,8 @@
         "IMG_5626.jpeg",
         "IMG_5627.jpeg"
       ],
-      "flags": [
-        "Comprehensive Satie collection; exact edition/title not captured."
-      ],
-      "title_suggestion": "Gymnopédies, Gnossiennes and Other Works for Piano (Dover Publications)",
-      "identification_note": "The 17-piece contents (Sarabandes through Vieux Sequins et Vieilles Cuirasses, in this exact order) match the Dover edition 'Gymnopédies, Gnossiennes and Other Works for Piano' (ISBN 9780486259781) exactly.",
+      "flags": [],
+      "identification_note": "Cover confirmed (Dover).",
       "songs": [
         {
           "title": "Sarabandes (1887)",
@@ -31515,6 +31489,7 @@
         }
       ],
       "song_count_captured": 17,
+      "reshot": true,
       "song_count": 17
     },
     {
@@ -33194,8 +33169,8 @@
     },
     {
       "id": "star-wars",
-      "title": "Star Wars (Trilogy Songbook)",
-      "title_confidence": "probable",
+      "title": "Music from the Star Wars Trilogy: Special Edition",
+      "title_confidence": "confident",
       "series": null,
       "volume": null,
       "publisher": "International Music Publications Limited, Southend Road, Woodford Green, Essex IG8 8HN, England",
@@ -33207,11 +33182,8 @@
       "source_photos": [
         "IMG_5594.jpeg"
       ],
-      "flags": [
-        "Back cover groups themes by film; specific book title not captured."
-      ],
-      "title_suggestion": "Music from the Star Wars Trilogy: Special Edition (John Williams), International Music Publications / Warner Bros. Publications, Piano-Vocal-Guitar",
-      "identification_note": "The eight themes grouped by film (Star Wars; The Empire Strikes Back; Return of the Jedi) match the IMP 'Music from the Star Wars Trilogy: Special Edition' PVG folio by John Williams (mid-1990s, tied to the 1997 Special Edition re-releases). All cues are John Williams originals.",
+      "flags": [],
+      "identification_note": "John Williams; IMP/Warner Bros. PVG. 'Victory Celebration' dates it to the Special Edition.",
       "songs": [
         {
           "title": "Cantina Band",
@@ -33420,6 +33392,7 @@
         }
       ],
       "song_count_captured": 8,
+      "reshot": true,
       "song_count": 8
     },
     {
@@ -33487,7 +33460,6 @@
         "IMG_5393.jpeg"
       ],
       "flags": [],
-      "title_suggestion": "Super Mario Series for Piano (Alfred 00-38600 / Koji Kondo) — intermediate-advanced note-for-note transcriptions",
       "identification_note": "Game-section headers and the cover wording match Alfred's 'Super Mario Series for Piano' (item 00-38600, Koji Kondo et al.). The captured list stops at 'NEW SUPER MARIO BROS. Wii'; the Alfred edition continues with later titles (e.g. Super Mario Galaxy 2, Super Mario 3D Land). Per-piece titles within each game header were not legible enough to fill confidently — reshoot recommended.",
       "songs": [
         {
@@ -34449,10 +34421,9 @@
     },
     {
       "id": "taylor-swift-midnights",
-      "title": "Taylor Swift: Midnights",
-      "title_confidence": "probable",
-      "title_suggestion": "Taylor Swift — Midnights (3am Edition), Piano/Vocal/Guitar",
-      "identification_note": "Tracklist of 20 songs (13 standard Midnights tracks plus the 7 '3am Edition' bonus tracks: The Great War, Bigger Than the Whole Sky, Paris, High Infidelity, Glitch, Would've Could've Should've, Dear Reader) confirms this is the Midnights (3am Edition) folio. Book id unchanged.",
+      "title": "Taylor Swift: Midnights (3am Edition)",
+      "title_confidence": "confident",
+      "identification_note": "20 tracks = 13 standard + 7 bonus (3am Edition).",
       "composer": "Taylor Swift",
       "series": null,
       "volume": null,
@@ -34465,9 +34436,7 @@
       "source_photos": [
         "IMG_5609.jpeg"
       ],
-      "flags": [
-        "Identified from tracklist; no title text on page."
-      ],
+      "flags": [],
       "songs": [
         {
           "title": "Lavender Haze",
@@ -34978,6 +34947,7 @@
         }
       ],
       "song_count_captured": 20,
+      "reshot": true,
       "song_count": 20
     },
     {
@@ -45090,8 +45060,8 @@
     },
     {
       "id": "phantom-of-the-opera",
-      "title": "The Phantom of the Opera (Songbook)",
-      "title_confidence": "probable",
+      "title": "The Phantom of the Opera: Vocal Selections",
+      "title_confidence": "confident",
       "series": "The Phantom of the Opera",
       "volume": null,
       "publisher": null,
@@ -45103,11 +45073,8 @@
       "source_photos": [
         "IMG_5593.jpeg"
       ],
-      "flags": [
-        "Identified from cover artwork; no title text on page. No page numbers."
-      ],
-      "title_suggestion": "The Phantom of the Opera — Vocal Selections (Andrew Lloyd Webber)",
-      "identification_note": "The nine-song contents are the standard 'Phantom of the Opera' vocal selections folio for the Andrew Lloyd Webber musical (1986); titles and order match that edition.",
+      "flags": [],
+      "identification_note": "Andrew Lloyd Webber vocal-selections folio.",
       "songs": [
         {
           "title": "THINK OF ME",
@@ -45341,6 +45308,7 @@
         }
       ],
       "song_count_captured": 9,
+      "reshot": true,
       "song_count": 9
     },
     {
@@ -46757,10 +46725,9 @@
     },
     {
       "id": "smta-volume-unconfirmed",
-      "title": "The Singer's Musical Theatre Anthology — (Volume Unconfirmed)",
-      "title_confidence": "uncertain",
-      "title_suggestion": "The Singer's Musical Theatre Anthology — Volume 2, Mezzo-Soprano/Belter",
-      "identification_note": "Contents match Hal Leonard's SMTA Volume 2, Mezzo-Soprano/Belter (Richard Walters, ed.): belt-heavy mezzo repertoire including 'If He Walked Into My Life', 'Everything's Coming Up Roses', 'Rose's Turn', 'When You're Good to Mama', 'Don't Rain on My Parade', and the page ordering (159–268) of 'Miss Marmelstein', 'Someone Like You', 'Stars and the Moon', 'My New Philosophy'. Voice type/volume confirmed by tracklist; book id left unchanged.",
+      "title": "The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 2 (contents cont.)",
+      "title_confidence": "probable",
+      "identification_note": "May be the second contents page of the existing Vol. 2 Mezzo/Belter entry rather than a separate book — confirm physical count.",
       "series": null,
       "volume": null,
       "publisher": "Hal Leonard",
@@ -46772,9 +46739,7 @@
       "source_photos": [
         "IMG_5646.jpeg"
       ],
-      "flags": [
-        "Contents page from an SMTA volume; which voice type/volume unconfirmed (may continue Vol. 2)."
-      ],
+      "flags": [],
       "songs": [
         {
           "title": "You Can't Get a Man With a Gun",
@@ -47812,6 +47777,7 @@
         }
       ],
       "song_count_captured": 41,
+      "reshot": true,
       "song_count": 41
     },
     {
