@@ -1,6 +1,6 @@
 # Alex's Sheet Music Library
 
-**82 books · 1855 songs** — searchable by mood, genre, era, composer, tempo, energy, and difficulty.
+**82 books · 1861 songs** — searchable by mood, genre, era, composer, tempo, energy, and difficulty.
 
 Generated from photos of the physical collection. The JSON source of truth is `data/library.json`; the MCP server queries it.
 
@@ -14,10 +14,8 @@ These books have incomplete data or an unconfirmed title. Everything else is sol
 | **Bach: Two- and Three-Part Inventions (Schirmer, Vol. 813)** | Cover only. Canonical 15 Inventions + 15 Sinfonias filled in enrichment. |
 | **Debussy: Clair de Lune (Alfred / Palmer)** | RESOLVED: This Alfred Masterwork Edition (Alfred #2160, ISBN 9780739012925) is the single standalone piece 'Clair de lune' (3rd movement of Suite bergamasque), NOT the complete suite. |
 | **Debussy: Piano Collection (Japanese Edition)** | Japanese-edition Debussy collection; exact title not captured. |
-| **Eagles (Songbook)** | Specific book title unknown; contents low-res so page numbers missing. |
 | **Elton John (Songbook)** | Only back-cover song list seen; specific book title unknown. |
 | **Field: Eighteen Nocturnes for the Piano** | Cover only; no contents captured. Canonical 18 nocturnes filled in enrichment from IMSLP / Schirmer edition. Page numbers unknown (null). |
-| **Franz Liszt: Selected Intermediate to Early Advanced Piano Solos** | Contents low-res; page numbers missing. |
 | **Grieg: Album of Selected Piano Works** | Alphabetical-index page; exact edition/title unknown. All-Grieg (Lyric Pieces, Peer Gynt, etc.). |
 | **Hall of Fame: Artists & Their Hits** | Cover (5655) + contents/artist-index (5656) grouped as one book. |
 | **J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)** | Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment. |
@@ -25,11 +23,9 @@ These books have incomplete data or an unconfirmed title. Everything else is sol
 | **James Bond: 26 Songs from 24 Films** | Back-cover header; exact book title not captured. |
 | **John Denver (Songbook)** | Only back-cover song list seen; specific book title unknown. |
 | **Liszt: Liebesträume — Drei Notturnos (Henle Urtext)** | Cover only. Three Liebesträume to be filled in enrichment. |
-| **Mendelssohn: Songs Without Words (Complete, Alfred / Hinson)** | Cover only. Canonical 48 Songs Without Words to be filled in enrichment. |
 | **O Brother, Where Art Thou? (Soundtrack)** | Identified from song list; no title text on page. |
 | **Queen (Songbook)** | Only back-cover song list seen; specific book title unknown. No page numbers. |
 | **Raffi Songbook** | Title inferred from facing book (likely a Raffi collection). No page numbers. Confirm title.; Song list spans Raffi's entire discography (Baby Beluga 1980 through Bananaphone/Let's Play era), NOT the 1980 'Raffi Singable Songbook' (which contains Aikendrum, Anansi, Baa Baa Black Sheep, etc., none present here). The matching 51-song count is coincidental. Best fit is a comprehensive cross-album Raffi anthology; exact edition unconfirmed. |
-| **Randy Newman Anthology** | Back-cover song list has no page numbers. |
 | **Ravel: Piano Masterpieces (Collection)** | Dover-style collection; exact title not captured. Contents low-res. |
 | **Satie: Piano Works (Collection)** | Comprehensive Satie collection; exact edition/title not captured. |
 | **Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142** | Cover only. Canonical 6 Moments Musicaux + 8 Impromptus to be filled in enrichment. |
@@ -48,7 +44,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 |------|------|
 | Birds | **Birds, Book 1 — A Suite of Eight Impressionistic Studies (Seymour Bernstein, G. Schirmer)** |
 | Debussy: Piano Collection (Japanese Edition) | **Likely Zen-On Piano Library 'Debussy: Piano Album, Vol. 1' (ドビュッシー ピアノ・アルバム 1).** |
-| Eagles (Songbook) | **Eagles Complete (Warner Bros. Publications, Piano/Vocal/Guitar)** |
+| Eagles Complete | **Eagles Complete (Warner Bros. Publications, Piano/Vocal/Guitar)** |
 | Elton John (Songbook) | **Elton John — Greatest Hits 1970-2002 (Hal Leonard, Piano/Vocal/Guitar)** |
 | Encanto | **Encanto: Music from the Motion Picture Soundtrack (Piano/Vocal/Guitar)** |
 | Grieg: Album of Selected Piano Works | **Grieg: Selected Piano Compositions (e.g. Schirmer's Library Vol. 920 / Album of Selected Works)** |
@@ -99,7 +95,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Debussy: Piano Collection (Japanese Edition)** _(probable)_ — 22 songs  · Claude Debussy
 - **Debussy: Selected Favorites for the Piano (Alfred)** — 15 songs  · Claude Debussy · Piano
 - **Field: Eighteen Nocturnes for the Piano** — 18 songs  · John Field · Schirmer's Library of Musical Classics, Vol. 42 · Piano
-- **Franz Liszt: Selected Intermediate to Early Advanced Piano Solos** — 36 songs  · Franz Liszt · Piano
+- **Franz Liszt: Selected Intermediate to Early Advanced Piano Solos** — 28 songs  · Franz Liszt · Piano
 - **Granados: Valses Poéticos** — 14 songs  · Enrique Granados
 - **Grieg: Album of Selected Piano Works** _(uncertain)_ — 44 songs  · Edvard Grieg
 - **J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)** — 30 songs  · J.S. Bach · A Kalmus Classic Edition · FOR PIANO
@@ -191,7 +187,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ### Rock
 
-- **Eagles (Songbook)** _(uncertain)_ — 53 songs  · Eagles
+- **Eagles Complete** — 67 songs  · Eagles
 - **Hall of Fame: Artists & Their Hits** _(probable)_ — 44 songs  · Armed Forces Song Folio Music Book
 - **Queen (Songbook)** _(uncertain)_ — 13 songs
 - **The Shins: Wincing the Night Away** — 11 songs  · The Shins
@@ -211,4 +207,4 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ---
 
-_Tagging confidence across all songs: 1531 high, 250 medium, 74 low._
+_Tagging confidence across all songs: 1541 high, 252 medium, 68 low._
