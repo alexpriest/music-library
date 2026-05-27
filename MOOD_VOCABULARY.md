@@ -52,6 +52,7 @@ If nothing fits, pick the closest — do NOT invent new mood words.
 ## ERA (controlled)
 
 Classical periods: `Baroque` `Classical` `Romantic` `Impressionist` `20th-Century` `Contemporary`
+Century buckets (for older traditional songs/carols/folk): `18th-Century` `19th-Century`
 Popular by decade: `1900s` `1910s` `1920s` `1930s` `1940s` `1950s` `1960s`
 `1970s` `1980s` `1990s` `2000s` `2010s` `2020s`
 

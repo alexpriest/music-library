@@ -27,7 +27,8 @@ GENRES = {
     "New Age/Minimalist","Blues","Country","R&B/Soul",
 }
 ERAS = {
-    "Baroque","Classical","Romantic","Impressionist","20th-Century","Contemporary",
+    "Baroque","Classical","Romantic","Impressionist","18th-Century","19th-Century",
+    "20th-Century","Contemporary",
     "1900s","1910s","1920s","1930s","1940s","1950s","1960s","1970s","1980s",
     "1990s","2000s","2010s","2020s",
 }
@@ -52,6 +53,34 @@ for f in sorted(glob.glob("data/enriched/group-*.json")):
 
 books.sort(key=lambda b: b["title"].lower())
 
+
+def _norm_title(t):
+    return re.sub(r"\s+", " ", (t or "").strip().lower())
+
+
+# Apply reshoot overrides (corrected/expanded song lists from rephotographed pages).
+books_by_id = {b["id"]: b for b in books}
+reshoot_files = sorted(glob.glob("data/reshoots/*.json"))
+for f in reshoot_files:
+    o = json.load(open(f))
+    b = books_by_id.get(o["id"])
+    if not b:
+        print(f"WARN: reshoot override for unknown book id {o['id']}")
+        continue
+    new_songs = o.get("songs", [])
+    if o.get("mode") == "merge":
+        seen = {_norm_title(s["title"]) for s in b.get("songs", [])}
+        b["songs"] = b.get("songs", []) + [s for s in new_songs if _norm_title(s["title"]) not in seen]
+    else:  # replace
+        b["songs"] = new_songs
+    for fld in ("title", "title_confidence", "identification_note", "title_suggestion"):
+        if o.get(fld):
+            b[fld] = o[fld]
+    if o.get("clear_flags"):
+        b["flags"] = []
+    b["reshot"] = True
+print(f"Applied {len(reshoot_files)} reshoot override(s): {[json.load(open(f))['id'] for f in reshoot_files]}")
+
 violations = []
 mood_counter = Counter()
 genre_counter = Counter()
@@ -71,6 +100,10 @@ for b in books:
         if used_slugs[base] > 1:
             sid += f"-{used_slugs[base]}"
         s["song_id"] = sid
+        # normalize pre-1900 decade eras to century buckets
+        _era = s.get("era")
+        if _era and re.match(r"^(17|18)\d0s$", _era):
+            s["era"] = "18th-Century" if _era.startswith("17") else "19th-Century"
         # validate controlled fields
         for m in (s.get("mood_tags") or []):
             mood_counter[m] += 1

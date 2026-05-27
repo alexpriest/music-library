@@ -1,6 +1,6 @@
 # Alex's Sheet Music Library
 
-**82 books · 1567 songs** — searchable by mood, genre, era, composer, tempo, energy, and difficulty.
+**82 books · 1855 songs** — searchable by mood, genre, era, composer, tempo, energy, and difficulty.
 
 Generated from photos of the physical collection. The JSON source of truth is `data/library.json`; the MCP server queries it.
 
@@ -11,9 +11,7 @@ These books have incomplete data or an unconfirmed title. Everything else is sol
 
 | Book | Issue |
 |------|-------|
-| **100 All-Time Popular Hits** | Only the A–J contents column captured (~47 of 100). Reshoot remaining contents pages. |
 | **Bach: Two- and Three-Part Inventions (Schirmer, Vol. 813)** | Cover only. Canonical 15 Inventions + 15 Sinfonias filled in enrichment. |
-| **Chopin: Compositions for the Piano (Schirmer's Library)** | Photographed page is the Schirmer Chopin SERIES catalog, not this volume's contents. Reshoot the actual contents.; CANNOT CANONICAL-FILL: the captured image is the series catalog listing many separate Chopin volumes (e.g. Vol. 28 Mazurkas, Vol. 30 Nocturnes, Vol. 31/32 Waltzes/Préludes, Vol. 33 Études, Vol. 34/35 Polonaises/Ballades, Vol. 36 Miscellaneous Compositions, Vol. 39 Album). The specific volume/contents of this book cannot be determined from the available evidence. Songs left empty pending a reshoot of the actual table of contents. |
 | **Debussy: Clair de Lune (Alfred / Palmer)** | RESOLVED: This Alfred Masterwork Edition (Alfred #2160, ISBN 9780739012925) is the single standalone piece 'Clair de lune' (3rd movement of Suite bergamasque), NOT the complete suite. |
 | **Debussy: Piano Collection (Japanese Edition)** | Japanese-edition Debussy collection; exact title not captured. |
 | **Eagles (Songbook)** | Specific book title unknown; contents low-res so page numbers missing. |
@@ -22,7 +20,6 @@ These books have incomplete data or an unconfirmed title. Everything else is sol
 | **Franz Liszt: Selected Intermediate to Early Advanced Piano Solos** | Contents low-res; page numbers missing. |
 | **Grieg: Album of Selected Piano Works** | Alphabetical-index page; exact edition/title unknown. All-Grieg (Lyric Pieces, Peer Gynt, etc.). |
 | **Hall of Fame: Artists & Their Hits** | Cover (5655) + contents/artist-index (5656) grouped as one book. |
-| **Hoagy Carmichael** | Contents shot sideways/low-res — partial song list. |
 | **J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)** | Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment. |
 | **J.S. Bach: Two-Part Inventions (Alfred / Palmer)** | Cover only. Canonical 15 Two-Part Inventions (BWV 772–786) filled in enrichment. Page numbers unknown (null). |
 | **James Bond: 26 Songs from 24 Films** | Back-cover header; exact book title not captured. |
@@ -37,10 +34,7 @@ These books have incomplete data or an unconfirmed title. Everything else is sol
 | **Satie: Piano Works (Collection)** | Comprehensive Satie collection; exact edition/title not captured. |
 | **Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142** | Cover only. Canonical 6 Moments Musicaux + 8 Impromptus to be filled in enrichment. |
 | **Star Wars (Trilogy Songbook)** | Back cover groups themes by film; specific book title not captured. |
-| **Super Mario Series for Piano** | Only ~12 entries captured and they are GAME-section headers, not individual piece titles. Dense two-column contents, low-res. Reshoot for full per-piece list.; Captured entries kept verbatim as game headers; individual tracks within each game could not be reconstructed with high confidence. |
 | **Taylor Swift: Midnights** | Identified from tracklist; no title text on page. |
-| **The Library of Disney Songs** | Only ~7 of many songs captured — contents page low-res. Reshoot for full list. |
-| **The Library of Piano Favorites** | Contents shot upside-down/low-res — NO songs captured. Reshoot contents pages. |
 | **The Phantom of the Opera (Songbook)** | Identified from cover artwork; no title text on page. No page numbers. |
 | **The Shins: Wincing the Night Away** | Identified by tracklist; back-cover list, no page numbers. |
 | **The Singer's Musical Theatre Anthology — (Volume Unconfirmed)** | Contents page from an SMTA volume; which voice type/volume unconfirmed (may continue Vol. 2). |
@@ -59,7 +53,6 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 | Encanto | **Encanto: Music from the Motion Picture Soundtrack (Piano/Vocal/Guitar)** |
 | Grieg: Album of Selected Piano Works | **Grieg: Selected Piano Compositions (e.g. Schirmer's Library Vol. 920 / Album of Selected Works)** |
 | Hall of Fame: Artists & Their Hits | **Hall of Fame: Artists & Their Hits — Armed Forces Song Folio Music Book, Volume XXVIII** |
-| Hoagy Carmichael | **The Hoagy Carmichael Songbook (Hal Leonard, Piano/Vocal/Guitar)** |
 | James Bond: 26 Songs from 24 Films | **The James Bond Collection (Hal Leonard, P/V/G)** |
 | John Denver (Songbook) | **John Denver Songbook: Guitar Songbook Edition (Alfred)** |
 | O Brother, Where Art Thou? (Soundtrack) | **O Brother, Where Art Thou? — Music from the Motion Picture Soundtrack (Hal Leonard, PVG)** |
@@ -68,8 +61,9 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 | Ravel: Piano Masterpieces (Collection) | **Piano Masterpieces of Maurice Ravel (Dover Publications)** |
 | Satie: Piano Works (Collection) | **Gymnopédies, Gnossiennes and Other Works for Piano (Dover Publications)** |
 | Star Wars (Trilogy Songbook) | **Music from the Star Wars Trilogy: Special Edition (John Williams), International Music Publications / Warner Bros. Publications, Piano-Vocal-Guitar** |
-| Super Mario Series for Piano | **Super Mario Series for Piano (Alfred 00-38600 / Koji Kondo) — intermediate-advanced note-for-note transcriptions** |
+| Super Mario Series for Piano (Intermediate–Advanced Edition) | **Super Mario Series for Piano (Alfred 00-38600 / Koji Kondo) — intermediate-advanced note-for-note transcriptions** |
 | Taylor Swift: Midnights | **Taylor Swift — Midnights (3am Edition), Piano/Vocal/Guitar** |
+| The Hoagy Carmichael Songbook | **The Hoagy Carmichael Songbook (Hal Leonard, Piano/Vocal/Guitar)** |
 | The Library of Piano Favorites | **The Library of Piano Favorites (Amsco Publications / Music Sales; dist. Hal Leonard #14019052)** |
 | The Phantom of the Opera (Songbook) | **The Phantom of the Opera — Vocal Selections (Andrew Lloyd Webber)** |
 | The Singer's Musical Theatre Anthology — (Volume Unconfirmed) | **The Singer's Musical Theatre Anthology — Volume 2, Mezzo-Soprano/Belter** |
@@ -87,7 +81,6 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 - **Raffi Songbook** _(uncertain)_ — 51 songs  · easy-to-play piano arrangements with guitar chord boxes
 - **The Great Big Book of Children's Songs** — 74 songs  · PIANO - VOCAL - GUITAR
-- **The Library of Disney Songs** — 7 songs  · The Library of · Piano, Voice and Guitar
 - **The Sesame Street Songbook** — 40 songs  · Sesame Street · piano, guitar, and voice
 
 ### Classical
@@ -100,6 +93,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Birds** — 8 songs  · Seymour Bernstein · for piano solo
 - **Burgmüller: 12 Brilliant and Melodious Studies, Op. 105** — 12 songs  · Friedrich Burgmüller · Alfred Masterwork Edition
 - **Chopin: 19 of His Most Popular Piano Selections** — 19 songs  · Frédéric Chopin · Piano
+- **Chopin: Complete Nocturnes (Schirmer's Library)** — 19 songs  · Frédéric Chopin · Schirmer's Library of Musical Classics · piano
 - **Debussy: Children's Corner (Alfred / Hinson)** — 6 songs  · Claude Debussy · An Alfred Masterwork Edition · Piano
 - **Debussy: Clair de Lune (Alfred / Palmer)** — 1 songs  · Claude Debussy · An Alfred Masterwork Edition · piano
 - **Debussy: Piano Collection (Japanese Edition)** _(probable)_ — 22 songs  · Claude Debussy
@@ -123,6 +117,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142** — 14 songs  · Franz Schubert · Masterwork Edition · piano
 - **Schumann: Scenes from Childhood, Op. 15** — 13 songs  · Robert Schumann · Piano
 - **The Complete Gershwin Preludes for Piano** — 8 songs  · George Gershwin · piano
+- **The Library of Piano Favorites** — 96 songs  · The Library of · Piano
 
 ### Country
 
@@ -137,12 +132,13 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Philip Glass: The Piano Collection** — 18 songs  · Philip Glass · Piano
 - **Soul (Disney·Pixar)** — 13 songs  · Piano/Vocal/Guitar
 - **Star Wars (Trilogy Songbook)** _(probable)_ — 8 songs
+- **The Library of Disney Songs** — 57 songs  · The Library of · Piano, Voice and Guitar
 - **The Rainbow Connection** 〔loose sheet〕 — 1 songs
 
 ### Great American Songbook
 
-- **100 All-Time Popular Hits** — 47 songs
-- **Hoagy Carmichael** _(probable)_ — 9 songs
+- **100 All-Time Popular Hits** — 100 songs
+- **The Hoagy Carmichael Songbook** — 56 songs
 
 ### Jazz
 
@@ -172,11 +168,6 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 - **Yann Tiersen: EUSA** — 10 songs  · Yann Tiersen
 - **Yann Tiersen: Kerber** — 8 songs  · Yann Tiersen
 - **Yann Tiersen: Piano Works 1994–2003** — 23 songs  · Yann Tiersen · Piano
-
-### Other
-
-- **Chopin: Compositions for the Piano (Schirmer's Library)** _(uncertain)_ — 0 songs  · Frédéric Chopin · Schirmer's Library of Musical Classics · piano
-- **The Library of Piano Favorites** — 0 songs  · The Library of · Piano
 
 ### Pop
 
@@ -212,7 +203,7 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ### Video Game
 
-- **Super Mario Series for Piano** — 12 songs  · Super Mario Series · Piano
+- **Super Mario Series for Piano (Intermediate–Advanced Edition)** — 35 songs  · Super Mario Series · Piano
 
 ### Wedding/Ceremonial
 
@@ -220,4 +211,4 @@ Agents identified these from the song lists/tracklists. Confirm and I'll update 
 
 ---
 
-_Tagging confidence across all songs: 1303 high, 208 medium, 56 low._
+_Tagging confidence across all songs: 1531 high, 250 medium, 74 low._

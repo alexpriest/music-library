@@ -1,0 +1,29 @@
+{
+  "id": "chopin-schirmer",
+  "mode": "replace",
+  "clear_flags": true,
+  "title": "Chopin: Complete Nocturnes (Schirmer's Library)",
+  "title_confidence": "confident",
+  "identification_note": "Confirmed by Alex + thematic index: this Schirmer's Library volume is the complete Nocturnes, Nos. 1-19.",
+  "songs": [
+    {"title": "Nocturne No. 1 in B-flat minor, Op. 9, No. 1", "page": 3, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 2 in E-flat major, Op. 9, No. 2", "page": 8, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 3 in B major, Op. 9, No. 3", "page": 11, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 4 in F major, Op. 15, No. 1", "page": 20, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 5 in F-sharp major, Op. 15, No. 2", "page": 24, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 6 in G minor, Op. 15, No. 3", "page": 28, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 7 in C-sharp minor, Op. 27, No. 1", "page": 32, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 8 in D-flat major, Op. 27, No. 2", "page": 37, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 9 in B major, Op. 32, No. 1", "page": 42, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 10 in A-flat major, Op. 32, No. 2", "page": 46, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 11 in G minor, Op. 37, No. 1", "page": 52, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 12 in G major, Op. 37, No. 2", "page": 56, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 13 in C minor, Op. 48, No. 1", "page": 62, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 14 in F-sharp minor, Op. 48, No. 2", "page": 68, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 15 in F minor, Op. 55, No. 1", "page": 74, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 16 in E-flat major, Op. 55, No. 2", "page": 78, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 17 in B major, Op. 62, No. 1", "page": 82, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 18 in E major, Op. 62, No. 2", "page": 88, "composer": "Frédéric Chopin"},
+    {"title": "Nocturne No. 19 in E minor, Op. 72, No. 1 (Posthumous)", "page": 93, "composer": "Frédéric Chopin"}
+  ]
+}
