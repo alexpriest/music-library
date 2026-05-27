@@ -1,0 +1,531 @@
+{
+  "group": "05",
+  "books": [
+    {
+      "id": "eagles-songbook",
+      "title": "Eagles (Songbook)",
+      "title_confidence": "uncertain",
+      "composer": "Eagles",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5599.jpeg"
+      ],
+      "flags": [
+        "Specific book title unknown; contents low-res so page numbers missing."
+      ],
+      "songs": [
+        {
+          "title": "AFTER THE THRILL IS GONE",
+          "page": null
+        },
+        {
+          "title": "ALL NIGHT LONG",
+          "page": null
+        },
+        {
+          "title": "ALREADY GONE",
+          "page": null
+        },
+        {
+          "title": "THE BEST OF MY LOVE",
+          "page": null
+        },
+        {
+          "title": "BITTER CREEK",
+          "page": null
+        },
+        {
+          "title": "DESPERADO",
+          "page": null
+        },
+        {
+          "title": "DESPERADO (REPRISE)",
+          "page": null
+        },
+        {
+          "title": "DOOLIN-DALTON",
+          "page": null
+        },
+        {
+          "title": "DOOLIN-DALTON (REPRISE II)",
+          "page": null
+        },
+        {
+          "title": "GET OVER IT",
+          "page": null
+        },
+        {
+          "title": "THE GIRL FROM YESTERDAY",
+          "page": null
+        },
+        {
+          "title": "A GOOD DAY IN HELL",
+          "page": null
+        },
+        {
+          "title": "THE GREEKS DON'T WANT NO FREAKS",
+          "page": null
+        },
+        {
+          "title": "HEARTACHE TONIGHT",
+          "page": null
+        },
+        {
+          "title": "HOLLYWOOD WALTZ",
+          "page": null
+        },
+        {
+          "title": "HOTEL CALIFORNIA",
+          "page": null
+        },
+        {
+          "title": "I CAN'T TELL YOU WHY",
+          "page": null
+        },
+        {
+          "title": "IN THE CITY",
+          "page": null
+        },
+        {
+          "title": "IS IT TRUE?",
+          "page": null
+        },
+        {
+          "title": "JOURNEY OF THE SORCERER",
+          "page": null
+        },
+        {
+          "title": "KING OF HOLLYWOOD",
+          "page": null
+        },
+        {
+          "title": "THE LAST RESORT",
+          "page": null
+        },
+        {
+          "title": "LIFE IN THE FAST LANE",
+          "page": null
+        },
+        {
+          "title": "LIFE'S BEEN GOOD",
+          "page": null
+        },
+        {
+          "title": "THE LONG RUN",
+          "page": null
+        },
+        {
+          "title": "LOVE WILL KEEP US ALIVE",
+          "page": null
+        },
+        {
+          "title": "LYIN' EYES",
+          "page": null
+        },
+        {
+          "title": "MIDNIGHT FLYER",
+          "page": null
+        },
+        {
+          "title": "NEW KID IN TOWN",
+          "page": null
+        },
+        {
+          "title": "NIGHTINGALE",
+          "page": null
+        },
+        {
+          "title": "ON THE BORDER",
+          "page": null
+        },
+        {
+          "title": "ONE OF THESE NIGHTS",
+          "page": null
+        },
+        {
+          "title": "PEACEFUL EASY FEELING",
+          "page": null
+        },
+        {
+          "title": "PRETTY MAIDS ALL IN A ROW",
+          "page": null
+        },
+        {
+          "title": "THE SAD CAFE",
+          "page": null
+        },
+        {
+          "title": "SATURDAY NIGHT",
+          "page": null
+        },
+        {
+          "title": "SEVEN BRIDGES ROAD",
+          "page": null
+        },
+        {
+          "title": "TAKE IT EASY",
+          "page": null
+        },
+        {
+          "title": "TAKE IT TO THE LIMIT",
+          "page": null
+        },
+        {
+          "title": "TAKE THE DEVIL",
+          "page": null
+        },
+        {
+          "title": "TEENAGE JAIL",
+          "page": null
+        },
+        {
+          "title": "TEQUILA SUNRISE",
+          "page": null
+        },
+        {
+          "title": "THOSE SHOES",
+          "page": null
+        },
+        {
+          "title": "TOO MANY HANDS",
+          "page": null
+        },
+        {
+          "title": "TRAIN LEAVES HERE THIS MORNIN'",
+          "page": null
+        },
+        {
+          "title": "TRY AND LOVE AGAIN",
+          "page": null
+        },
+        {
+          "title": "TRYIN'",
+          "page": null
+        },
+        {
+          "title": "TWENTY ONE",
+          "page": null
+        },
+        {
+          "title": "VICTIM OF LOVE",
+          "page": null
+        },
+        {
+          "title": "VISIONS",
+          "page": null
+        },
+        {
+          "title": "WASTED TIME",
+          "page": null
+        },
+        {
+          "title": "WITCHY WOMAN",
+          "page": null
+        },
+        {
+          "title": "YOU NEVER CRY LIKE A LOVER",
+          "page": null
+        }
+      ],
+      "song_count_captured": 53
+    },
+    {
+      "id": "john-denver-songbook",
+      "title": "John Denver (Songbook)",
+      "title_confidence": "uncertain",
+      "composer": "John Denver",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "0-7579-7897-5",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5598.jpeg"
+      ],
+      "flags": [
+        "Only back-cover song list seen; specific book title unknown."
+      ],
+      "songs": [
+        {
+          "title": "ANNIE'S SONG",
+          "page": null
+        },
+        {
+          "title": "ASPENGLOW",
+          "page": null
+        },
+        {
+          "title": "BACK HOME AGAIN",
+          "page": null
+        },
+        {
+          "title": "CALYPSO",
+          "page": null
+        },
+        {
+          "title": "EAGLE AND THE HAWK",
+          "page": null
+        },
+        {
+          "title": "FAREWELL ANDROMEDA (Welcome to My Morning)",
+          "page": null
+        },
+        {
+          "title": "FLY AWAY",
+          "page": null
+        },
+        {
+          "title": "FOLLOW ME",
+          "page": null
+        },
+        {
+          "title": "GOODBYE AGAIN",
+          "page": null
+        },
+        {
+          "title": "I'D RATHER BE A COWBOY",
+          "page": null
+        },
+        {
+          "title": "I'M SORRY",
+          "page": null
+        },
+        {
+          "title": "LEAVING ON A JET PLANE",
+          "page": null
+        },
+        {
+          "title": "MY SWEET LADY",
+          "page": null
+        },
+        {
+          "title": "POEMS, PRAYERS AND PROMISES",
+          "page": null
+        },
+        {
+          "title": "RHYMES AND REASONS",
+          "page": null
+        },
+        {
+          "title": "ROCKY MOUNTAIN HIGH",
+          "page": null
+        },
+        {
+          "title": "STARWOOD IN ASPEN",
+          "page": null
+        },
+        {
+          "title": "SUNSHINE ON MY SHOULDERS",
+          "page": null
+        },
+        {
+          "title": "TAKE ME HOME, COUNTRY ROADS",
+          "page": null
+        },
+        {
+          "title": "THANK GOD I'M A COUNTRY BOY",
+          "page": null
+        },
+        {
+          "title": "THIS OLD GUITAR",
+          "page": null
+        }
+      ],
+      "song_count_captured": 21
+    },
+    {
+      "id": "liszt-liebestraume",
+      "title": "Liszt: Liebesträume — Drei Notturnos (Henle Urtext)",
+      "title_confidence": "confident",
+      "composer": "Franz Liszt",
+      "series": "Urtext",
+      "volume": "634",
+      "publisher": "G. Henle Verlag",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5633.jpeg"
+      ],
+      "flags": [
+        "Cover only. Three Liebesträume to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "o-brother-where-art-thou",
+      "title": "O Brother, Where Art Thou? (Soundtrack)",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5607.jpeg"
+      ],
+      "flags": [
+        "Identified from song list; no title text on page."
+      ],
+      "songs": [
+        {
+          "title": "\"BIG ROCK CANDY MOUNTAIN\"",
+          "page": null,
+          "from": "Harry McClintock"
+        },
+        {
+          "title": "\"YOU ARE MY SUNSHINE\"",
+          "page": null,
+          "from": "Norman Blake"
+        },
+        {
+          "title": "\"DOWN TO THE RIVER TO PRAY\"",
+          "page": null,
+          "from": "Alison Krauss"
+        },
+        {
+          "title": "\"I AM A MAN OF CONSTANT SORROW\"",
+          "page": null,
+          "from": "The Soggy Bottom Boys"
+        },
+        {
+          "title": "\"KEEP ON THE SUNNY SIDE\"",
+          "page": null,
+          "from": "The Whites"
+        },
+        {
+          "title": "\"I'LL FLY AWAY\"",
+          "page": null,
+          "from": "Alison Krauss and Gillian Welch"
+        },
+        {
+          "title": "\"DIDN'T LEAVE NOBODY BUT THE BABY\"",
+          "page": null,
+          "from": "Emmylou Harris, Alison Krauss and Gillian Welch"
+        },
+        {
+          "title": "\"IN THE HIGHWAYS\"",
+          "page": null,
+          "from": "Sarah, Hannah and Leah Peasall"
+        },
+        {
+          "title": "\"I AM WEARY (LET ME REST)\"",
+          "page": null,
+          "from": "The Cox Family"
+        },
+        {
+          "title": "\"IN THE JAILHOUSE NOW\"",
+          "page": null,
+          "from": "The Soggy Bottom Boys"
+        },
+        {
+          "title": "\"ANGEL BAND\"",
+          "page": null,
+          "from": "The Stanley Brothers"
+        }
+      ],
+      "song_count_captured": 11
+    },
+    {
+      "id": "phantom-of-the-opera",
+      "title": "The Phantom of the Opera (Songbook)",
+      "title_confidence": "probable",
+      "series": "The Phantom of the Opera",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5593.jpeg"
+      ],
+      "flags": [
+        "Identified from cover artwork; no title text on page. No page numbers."
+      ],
+      "songs": [
+        {
+          "title": "THINK OF ME",
+          "page": null
+        },
+        {
+          "title": "ANGEL OF MUSIC",
+          "page": null
+        },
+        {
+          "title": "THE PHANTOM OF THE OPERA",
+          "page": null
+        },
+        {
+          "title": "THE MUSIC OF THE NIGHT",
+          "page": null
+        },
+        {
+          "title": "PRIMA DONNA",
+          "page": null
+        },
+        {
+          "title": "ALL I ASK OF YOU",
+          "page": null
+        },
+        {
+          "title": "MASQUERADE",
+          "page": null
+        },
+        {
+          "title": "WISHING YOU WERE SOMEHOW HERE AGAIN",
+          "page": null
+        },
+        {
+          "title": "THE POINT OF NO RETURN",
+          "page": null
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "villalobos-a-roseira",
+      "title": "A roseira (Nº 102)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5664.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "A roseira",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 102 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "group": "11",
+  "books": [
+    {
+      "id": "sesame-street-songbook",
+      "title": "The Sesame Street Songbook",
+      "title_confidence": "confident",
+      "series": "Sesame Street",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "piano, guitar, and voice",
+      "isbn": "978-1-4234-1335-1",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5606.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ABC-DEF-GHI",
+          "page": null
+        },
+        {
+          "title": "All By Myself",
+          "page": null
+        },
+        {
+          "title": "Bein' Green",
+          "page": null
+        },
+        {
+          "title": "Born to Add",
+          "page": null
+        },
+        {
+          "title": "Breakfast Time",
+          "page": null
+        },
+        {
+          "title": "\"C\" Is for Cookie",
+          "page": null
+        },
+        {
+          "title": "Captain Vegetable",
+          "page": null
+        },
+        {
+          "title": "Caribbean Amphibian",
+          "page": null
+        },
+        {
+          "title": "Counting Is Wonderful",
+          "page": null
+        },
+        {
+          "title": "Elmo's Song",
+          "page": null
+        },
+        {
+          "title": "Everyone Makes Mistakes",
+          "page": null
+        },
+        {
+          "title": "Five People in My Family",
+          "page": null
+        },
+        {
+          "title": "Frogs in the Glen",
+          "page": null
+        },
+        {
+          "title": "Fuzzy and Blue",
+          "page": null
+        },
+        {
+          "title": "The Grouch Song",
+          "page": null
+        },
+        {
+          "title": "I Don't Want to Live on the Moon",
+          "page": null
+        },
+        {
+          "title": "I Love Trash",
+          "page": null
+        },
+        {
+          "title": "If Moon Was Cookie",
+          "page": null
+        },
+        {
+          "title": "Imagination",
+          "page": null
+        },
+        {
+          "title": "Imagine That",
+          "page": null
+        },
+        {
+          "title": "It Sure Is Hot",
+          "page": null
+        },
+        {
+          "title": "Keep Christmas with You (All Through the Year)",
+          "page": null
+        },
+        {
+          "title": "La La La",
+          "page": null
+        },
+        {
+          "title": "Monster in the Mirror",
+          "page": null
+        },
+        {
+          "title": "Muppets Rhyme in School",
+          "page": null
+        },
+        {
+          "title": "Octopus Blues",
+          "page": null
+        },
+        {
+          "title": "One Fine Face",
+          "page": null
+        },
+        {
+          "title": "One of These Things",
+          "page": null
+        },
+        {
+          "title": "One Small Voice",
+          "page": null
+        },
+        {
+          "title": "Opposite Song",
+          "page": null
+        },
+        {
+          "title": "Pat Pat Patty Pat",
+          "page": null
+        },
+        {
+          "title": "Peanut Butter Song",
+          "page": null
+        },
+        {
+          "title": "People in Your Neighborhood",
+          "page": null
+        },
+        {
+          "title": "Put Down the Duckie",
+          "page": null
+        },
+        {
+          "title": "Rubber Duckie",
+          "page": null
+        },
+        {
+          "title": "Sesame Street Theme",
+          "page": null
+        },
+        {
+          "title": "Sing",
+          "page": null
+        },
+        {
+          "title": "Somebody Come and Play",
+          "page": null
+        },
+        {
+          "title": "We Are All Earthlings",
+          "page": null
+        },
+        {
+          "title": "What Do I Do When I'm Alone?",
+          "page": null
+        }
+      ],
+      "song_count_captured": 40
+    },
+    {
+      "id": "definitive-vince-guaraldi",
+      "title": "The Definitive Vince Guaraldi",
+      "title_confidence": "confident",
+      "series": "Artist Transcriptions - Piano",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": "978-1-5400-4681-9",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5391.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Autumn Leaves",
+          "page": 2
+        },
+        {
+          "title": "Blues for Peanuts",
+          "page": 13
+        },
+        {
+          "title": "Calling Dr. Funk",
+          "page": 20
+        },
+        {
+          "title": "Cast Your Fate to the Wind",
+          "page": 36
+        },
+        {
+          "title": "Charlie Brown Theme",
+          "page": 29
+        },
+        {
+          "title": "Christmas Is Coming",
+          "page": 42
+        },
+        {
+          "title": "Christmas Time Is Here",
+          "page": 50
+        },
+        {
+          "title": "A Day in the Life of a Fool (Manhã de Carnaval)",
+          "page": 58
+        },
+        {
+          "title": "Days of Wine and Roses",
+          "page": 66
+        },
+        {
+          "title": "El Matador",
+          "page": 74
+        },
+        {
+          "title": "Fascinating Rhythm",
+          "page": 69
+        },
+        {
+          "title": "Fenwyck's Farfel",
+          "page": 84
+        },
+        {
+          "title": "A Flower Is a Lovesome Thing",
+          "page": 94
+        },
+        {
+          "title": "Ginza Samba",
+          "page": 98
+        },
+        {
+          "title": "The Girl from Ipanema (Garôta de Ipanema)",
+          "page": 89
+        },
+        {
+          "title": "The Great Pumpkin Waltz",
+          "page": 106
+        },
+        {
+          "title": "Jitterbug Waltz",
+          "page": 111
+        },
+        {
+          "title": "Linus and Lucy",
+          "page": 122
+        },
+        {
+          "title": "Mr. Lucky",
+          "page": 130
+        },
+        {
+          "title": "Moon River",
+          "page": 134
+        },
+        {
+          "title": "Never Never Land",
+          "page": 142
+        },
+        {
+          "title": "Oh, Good Grief",
+          "page": 146
+        },
+        {
+          "title": "On Green Dolphin Street",
+          "page": 149
+        },
+        {
+          "title": "Quiet Nights of Quiet Stars (Corcovado)",
+          "page": 156
+        },
+        {
+          "title": "Samba de Orfeu",
+          "page": 160
+        },
+        {
+          "title": "Skating",
+          "page": 176
+        },
+        {
+          "title": "Softly as in a Morning Sunrise",
+          "page": 190
+        },
+        {
+          "title": "Star Song",
+          "page": 196
+        },
+        {
+          "title": "Thanksgiving Theme",
+          "page": 204
+        },
+        {
+          "title": "Theme to Grace",
+          "page": 210
+        },
+        {
+          "title": "Work Song",
+          "page": 183
+        }
+      ],
+      "song_count_captured": 31
+    },
+    {
+      "id": "philip-glass-piano-collection",
+      "title": "Philip Glass: The Piano Collection",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": "978-1-84609-474-3",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5583.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "An Unwelcome Friend",
+          "page": 8,
+          "from": "The Hours"
+        },
+        {
+          "title": "Dead Things",
+          "page": 12,
+          "from": "The Hours"
+        },
+        {
+          "title": "I'm Going To Make A Cake",
+          "page": 3,
+          "from": "The Hours"
+        },
+        {
+          "title": "Something She Has To Do",
+          "page": 18,
+          "from": "The Hours"
+        },
+        {
+          "title": "Tearing Herself Away",
+          "page": 21,
+          "from": "The Hours"
+        },
+        {
+          "title": "The Hours",
+          "page": 28,
+          "from": "The Hours"
+        },
+        {
+          "title": "The Poet Acts",
+          "page": 38,
+          "from": "The Hours"
+        },
+        {
+          "title": "Why Does Someone Have To Die?",
+          "page": 41,
+          "from": "The Hours"
+        },
+        {
+          "title": "Metamorphosis One",
+          "page": 46,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Two",
+          "page": 50,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Three",
+          "page": 57,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Four",
+          "page": 62,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Five",
+          "page": 69,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Knee Play No.4 (from 'Einstein On The Beach')",
+          "page": 72,
+          "from": "Trilogy Sonata For Piano"
+        },
+        {
+          "title": "Satyagraha (Conclusion, Act III)",
+          "page": 78,
+          "from": "Trilogy Sonata For Piano"
+        },
+        {
+          "title": "Dance from 'Akhnaten' (Scene III)",
+          "page": 84,
+          "from": "Trilogy Sonata For Piano"
+        },
+        {
+          "title": "Modern Love Waltz",
+          "page": 94
+        },
+        {
+          "title": "Opening Piece from 'Glassworks'",
+          "page": 92
+        }
+      ],
+      "song_count_captured": 18
+    },
+    {
+      "id": "queen-songbook",
+      "title": "Queen (Songbook)",
+      "title_confidence": "uncertain",
+      "series": null,
+      "volume": null,
+      "publisher": "EMI Music Publishing / Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5585.jpeg"
+      ],
+      "flags": [
+        "Only back-cover song list seen; specific book title unknown. No page numbers."
+      ],
+      "songs": [
+        {
+          "title": "BOHEMIAN RHAPSODY",
+          "page": null
+        },
+        {
+          "title": "DEATH ON TWO LEGS",
+          "page": null
+        },
+        {
+          "title": "DON'T STOP ME NOW",
+          "page": null
+        },
+        {
+          "title": "GOOD OLD-FASHIONED LOVER BOY",
+          "page": null
+        },
+        {
+          "title": "KILLER QUEEN",
+          "page": null
+        },
+        {
+          "title": "LAZING ON A SUNDAY AFTERNOON",
+          "page": null
+        },
+        {
+          "title": "LOVE OF MY LIFE",
+          "page": null
+        },
+        {
+          "title": "NEVERMORE",
+          "page": null
+        },
+        {
+          "title": "PLAY THE GAME",
+          "page": null
+        },
+        {
+          "title": "SEVEN SEAS OF RHYE",
+          "page": null
+        },
+        {
+          "title": "SOMEBODY TO LOVE",
+          "page": null
+        },
+        {
+          "title": "WE ARE THE CHAMPIONS",
+          "page": null
+        },
+        {
+          "title": "YOU'RE MY BEST FRIEND",
+          "page": null
+        }
+      ],
+      "song_count_captured": 13
+    },
+    {
+      "id": "liszt-21-short-pieces",
+      "title": "Liszt: 21 Short Piano Pieces (Dover)",
+      "title_confidence": "confident",
+      "composer": "Franz Liszt",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5635.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Introduction",
+          "page": 3
+        },
+        {
+          "title": "Consolations, six pièces, S.172 (1849-50)",
+          "page": 4
+        },
+        {
+          "title": "'Frühling' ('Spring'), Chopin, arr. Liszt, S.480/2 (c.1860)",
+          "page": 20,
+          "composer_printed": "Chopin, arr. Liszt"
+        },
+        {
+          "title": "Vier kleine Klavierstücke (Four Short Piano Pieces), S.192 (1865-76)",
+          "page": 22
+        },
+        {
+          "title": "Fünf Ungarische Volkslieder (Five Hungarian Folksongs), S.245 (1873)",
+          "page": 27
+        },
+        {
+          "title": "Romance Oubliée (Forgotten Romance), S.527 (1880)",
+          "page": 34
+        },
+        {
+          "title": "from Weihnachtsbaum (The Christmas Tree), S.186 (1874-6) — 7 Schlummerlied (Slumber Song)",
+          "page": 35,
+          "from": "Weihnachtsbaum (The Christmas Tree), S.186 (1874-6)"
+        },
+        {
+          "title": "Abschied: Russisches Volkslied (Parting: Russian Folksong), S.251 (1885)",
+          "page": 38
+        },
+        {
+          "title": "En Rêve: Nocturne (Dreaming: Nocturne), S.207 (1885-6)",
+          "page": 42
+        },
+        {
+          "title": "Klavierstück, Fis Dur (Piano Piece, F sharp), S.193 [undated]",
+          "page": 44
+        }
+      ],
+      "song_count_captured": 10
+    },
+    {
+      "id": "villalobos-na-corda-da-viola",
+      "title": "Na corda da viola (Nº 43)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": "Irmãos Vitale",
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5666.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Na corda da viola",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 43 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "group": "12",
+  "books": [
+    {
+      "id": "smta-mezzo-belter-v1",
+      "title": "The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 1",
+      "title_confidence": "probable",
+      "series": "The Singer's Musical Theatre Anthology",
+      "volume": "Mezzo-Soprano/Belter",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Mezzo-Soprano/Belter (voice)",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5644.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "I Got the Sun in the Morning",
+          "page": 14,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "Doin' What Comes Natur'lly",
+          "page": 18,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "Anyone Can Whistle",
+          "page": 26,
+          "from": "ANYONE CAN WHISTLE"
+        },
+        {
+          "title": "The Lady Is a Tramp",
+          "page": 30,
+          "from": "BABES IN ARMS"
+        },
+        {
+          "title": "Don't Tell Mama",
+          "page": 35,
+          "from": "CABARET"
+        },
+        {
+          "title": "What Would You Do?",
+          "page": 46,
+          "from": "CABARET"
+        },
+        {
+          "title": "Cabaret",
+          "page": 52,
+          "from": "CABARET"
+        },
+        {
+          "title": "The Hostess with the Mostes' on the Ball",
+          "page": 61,
+          "from": "CALL ME MADAM"
+        },
+        {
+          "title": "Memory",
+          "page": 68,
+          "from": "CATS"
+        },
+        {
+          "title": "Funny Honey",
+          "page": 73,
+          "from": "CHICAGO"
+        },
+        {
+          "title": "Dance: Ten; Looks: Three",
+          "page": 78,
+          "from": "A CHORUS LINE"
+        },
+        {
+          "title": "Stepsisters' Lament",
+          "page": 94,
+          "from": "CINDERELLA"
+        },
+        {
+          "title": "Don't Cry for Me Argentina",
+          "page": 98,
+          "from": "EVITA"
+        },
+        {
+          "title": "How Are Things in Glocca Morra?",
+          "page": 87,
+          "from": "FINIAN'S RAINBOW"
+        },
+        {
+          "title": "Look to the Rainbow",
+          "page": 90,
+          "from": "FINIAN'S RAINBOW"
+        },
+        {
+          "title": "I Enjoy Being a Girl",
+          "page": 104,
+          "from": "FLOWER DRUM SONG"
+        },
+        {
+          "title": "Broadway Baby",
+          "page": 114,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Could I Leave You",
+          "page": 120,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "In Buddy's Eyes",
+          "page": 136,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Losing My Mind",
+          "page": 131,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Diamonds Are a Girl's Best Friend",
+          "page": 142,
+          "from": "GENTLEMEN PREFER BLONDES"
+        },
+        {
+          "title": "Ain't There Anyone Here for Love?",
+          "page": 150,
+          "from": "GENTLEMEN PREFER BLONDES"
+        },
+        {
+          "title": "Turn Back, O Man",
+          "page": 154,
+          "from": "GODSPELL"
+        },
+        {
+          "title": "Take Back Your Mink",
+          "page": 160,
+          "from": "GUYS AND DOLLS"
+        },
+        {
+          "title": "Some People",
+          "page": 170,
+          "from": "GYPSY"
+        },
+        {
+          "title": "Happy to Keep His Dinner Warm",
+          "page": 165,
+          "from": "HOW TO SUCCEED IN BUSINESS WITHOUT REALLY TRYING"
+        },
+        {
+          "title": "Always True to You in My Fashion",
+          "page": 186,
+          "from": "KISS ME, KATE"
+        },
+        {
+          "title": "Why Can't You Behave?",
+          "page": 182,
+          "from": "KISS ME, KATE"
+        },
+        {
+          "title": "The Miller's Son",
+          "page": 191,
+          "from": "A LITTLE NIGHT MUSIC"
+        },
+        {
+          "title": "Send in the Clowns",
+          "page": 202,
+          "from": "A LITTLE NIGHT MUSIC"
+        },
+        {
+          "title": "I Cain't Say No",
+          "page": 206,
+          "from": "OKLAHOMA!"
+        },
+        {
+          "title": "He Wasn't You",
+          "page": 213,
+          "from": "ON A CLEAR DAY YOU CAN SEE FOREVER"
+        },
+        {
+          "title": "What Did I Have That I Don't Have?",
+          "page": 216,
+          "from": "ON A CLEAR DAY YOU CAN SEE FOREVER"
+        },
+        {
+          "title": "A Cockeyed Optimist",
+          "page": 222,
+          "from": "SOUTH PACIFIC"
+        },
+        {
+          "title": "I'm in Love with a Wonderful Guy",
+          "page": 226,
+          "from": "SOUTH PACIFIC"
+        },
+        {
+          "title": "By the Sea",
+          "page": 234,
+          "from": "SWEENEY TODD"
+        },
+        {
+          "title": "The Worst Pies in London",
+          "page": 243,
+          "from": "SWEENEY TODD"
+        },
+        {
+          "title": "An Old Man",
+          "page": 256,
+          "from": "TWO BY TWO"
+        },
+        {
+          "title": "I Ain't Down Yet",
+          "page": 250,
+          "from": "THE UNSINKABLE MOLLY BROWN"
+        }
+      ],
+      "song_count_captured": 39
+    },
+    {
+      "id": "elton-john-songbook",
+      "title": "Elton John (Songbook)",
+      "title_confidence": "uncertain",
+      "composer": "Elton John",
+      "series": null,
+      "volume": null,
+      "publisher": "Universal Music Publishing Group",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "978-0-634-08373-0",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5596.jpeg",
+        "IMG_5597.jpeg"
+      ],
+      "flags": [
+        "Only back-cover song list seen; specific book title unknown."
+      ],
+      "songs": [
+        {
+          "title": "YOUR SONG",
+          "page": null
+        },
+        {
+          "title": "LEVON",
+          "page": null
+        },
+        {
+          "title": "TINY DANCER",
+          "page": null
+        },
+        {
+          "title": "ROCKET MAN (I THINK IT'S GONNA BE A LONG, LONG TIME)",
+          "page": null
+        },
+        {
+          "title": "HONKY CAT",
+          "page": null
+        },
+        {
+          "title": "CROCODILE ROCK",
+          "page": null
+        },
+        {
+          "title": "DANIEL",
+          "page": null
+        },
+        {
+          "title": "SATURDAY NIGHT'S ALRIGHT (FOR FIGHTING)",
+          "page": null
+        },
+        {
+          "title": "GOODBYE YELLOW BRICK ROAD",
+          "page": null
+        },
+        {
+          "title": "CANDLE IN THE WIND",
+          "page": null
+        },
+        {
+          "title": "BENNIE AND THE JETS",
+          "page": null
+        },
+        {
+          "title": "DON'T LET THE SUN GO DOWN ON ME",
+          "page": null
+        },
+        {
+          "title": "THE BITCH IS BACK",
+          "page": null
+        },
+        {
+          "title": "PHILADELPHIA FREEDOM",
+          "page": null
+        },
+        {
+          "title": "SOMEONE SAVED MY LIFE TONIGHT",
+          "page": null
+        },
+        {
+          "title": "ISLAND GIRL",
+          "page": null
+        },
+        {
+          "title": "SORRY SEEMS TO BE THE HARDEST WORD",
+          "page": null
+        },
+        {
+          "title": "DON'T GO BREAKING MY HEART (WITH KIKI DEE)",
+          "page": null
+        },
+        {
+          "title": "LITTLE JEANNIE",
+          "page": null
+        },
+        {
+          "title": "I'M STILL STANDING",
+          "page": null
+        },
+        {
+          "title": "I GUESS THAT'S WHY THEY CALL IT THE BLUES",
+          "page": null
+        },
+        {
+          "title": "SAD SONGS (SAY SO MUCH)",
+          "page": null
+        },
+        {
+          "title": "I DON'T WANNA GO ON WITH YOU LIKE THAT",
+          "page": null
+        },
+        {
+          "title": "NIKITA",
+          "page": null
+        },
+        {
+          "title": "SACRIFICE",
+          "page": null
+        },
+        {
+          "title": "THE ONE",
+          "page": null
+        },
+        {
+          "title": "CAN YOU FEEL THE LOVE TONIGHT",
+          "page": null
+        },
+        {
+          "title": "CIRCLE OF LIFE",
+          "page": null
+        },
+        {
+          "title": "BELIEVE",
+          "page": null
+        },
+        {
+          "title": "BLESSED",
+          "page": null
+        },
+        {
+          "title": "SOMETHING ABOUT THE WAY YOU LOOK TONIGHT",
+          "page": null
+        },
+        {
+          "title": "WRITTEN IN THE STARS (WITH LEANN RIMES)",
+          "page": null
+        },
+        {
+          "title": "I WANT LOVE",
+          "page": null
+        },
+        {
+          "title": "THIS TRAIN DON'T STOP THERE ANYMORE",
+          "page": null
+        }
+      ],
+      "song_count_captured": 34
+    },
+    {
+      "id": "bach-two-three-part-kalmus",
+      "title": "J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)",
+      "title_confidence": "confident",
+      "composer": "J.S. Bach",
+      "series": "A Kalmus Classic Edition",
+      "volume": null,
+      "publisher": "Kalmus",
+      "arranger_editor": "Edited by Dr. HANS BISCHOFF",
+      "instrumentation": "FOR PIANO",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5615.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "schumann-scenes-childhood",
+      "title": "Schumann: Scenes from Childhood, Op. 15",
+      "title_confidence": "confident",
+      "composer": "Robert Schumann",
+      "series": null,
+      "volume": "OPUS 15",
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": "EDITED BY WILLARD A. PALMER",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5621.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "About Strange Lands and People",
+          "page": 4
+        },
+        {
+          "title": "Curious Story",
+          "page": 6
+        },
+        {
+          "title": "Catch Me!",
+          "page": 8
+        },
+        {
+          "title": "Pleading Child",
+          "page": 9
+        },
+        {
+          "title": "Perfect Happiness",
+          "page": 12
+        },
+        {
+          "title": "Important Event",
+          "page": 14
+        },
+        {
+          "title": "Reverie (Träumerei)",
+          "page": 16
+        },
+        {
+          "title": "By the Fireside",
+          "page": 18
+        },
+        {
+          "title": "Knight of the Rocking Horse",
+          "page": 20
+        },
+        {
+          "title": "Almost Too Serious",
+          "page": 22
+        },
+        {
+          "title": "Frightening",
+          "page": 25
+        },
+        {
+          "title": "Child Falling Asleep",
+          "page": 28
+        },
+        {
+          "title": "The Poet Speaks",
+          "page": 30
+        }
+      ],
+      "song_count_captured": 13
+    },
+    {
+      "id": "debussy-childrens-corner",
+      "title": "Debussy: Children's Corner (Alfred / Hinson)",
+      "title_confidence": "confident",
+      "composer": "Claude Debussy",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": "EDITED BY MAURICE HINSON",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5625.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Doctor Gradus ad Parnassum",
+          "page": 5
+        },
+        {
+          "title": "Jimbo's Lullaby",
+          "page": 10
+        },
+        {
+          "title": "Serenade for the Doll",
+          "page": 14
+        },
+        {
+          "title": "The Snow Is Dancing",
+          "page": 20
+        },
+        {
+          "title": "The Little Shepherd",
+          "page": 26
+        },
+        {
+          "title": "Golliwogg's Cakewalk",
+          "page": 28
+        }
+      ],
+      "song_count_captured": 6
+    },
+    {
+      "id": "joplin-easy-winners",
+      "title": "The Easy Winners",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "Stark Music Company, St. Louis, U.S.A.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5588.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "\"THE EASY WINNERS\"",
+          "page": null,
+          "composer_printed": "SCOTT JOPLIN"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

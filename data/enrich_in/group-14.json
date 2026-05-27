@@ -1,0 +1,547 @@
+{
+  "group": "14",
+  "books": [
+    {
+      "id": "smta-mezzo-belter-v2",
+      "title": "The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 2",
+      "title_confidence": "probable",
+      "series": "The Singer's Musical Theatre Anthology",
+      "volume": "Mezzo-Soprano/Belter Volume 2",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Mezzo-Soprano/Belter (voice)",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5645.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Gentleman Is a Dope",
+          "page": 20,
+          "from": "ALLEGRO"
+        },
+        {
+          "title": "There Won't Be Trumpets",
+          "page": 14,
+          "from": "ANYONE CAN WHISTLE"
+        },
+        {
+          "title": "I Got a Kick Out of You",
+          "page": 30,
+          "from": "ANYTHING GOES"
+        },
+        {
+          "title": "I Wish I Were in Love Again",
+          "page": 35,
+          "from": "BABES IN ARMS"
+        },
+        {
+          "title": "Johnny One Note",
+          "page": 40,
+          "from": "BABES IN ARMS"
+        },
+        {
+          "title": "Fifty Percent",
+          "page": 46,
+          "from": "BALLROOM"
+        },
+        {
+          "title": "The Party's Over",
+          "page": 75,
+          "from": "BELLS ARE RINGING"
+        },
+        {
+          "title": "Long Before I Knew You",
+          "page": 70,
+          "from": "BELLS ARE RINGING"
+        },
+        {
+          "title": "Someone Else's Story",
+          "page": 59,
+          "from": "CHESS"
+        },
+        {
+          "title": "What I Did for Love",
+          "page": 84,
+          "from": "A CHORUS LINE"
+        },
+        {
+          "title": "Another Hundred People",
+          "page": 90,
+          "from": "COMPANY"
+        },
+        {
+          "title": "I'd Be Surprisingly Good for You",
+          "page": 99,
+          "from": "EVITA"
+        },
+        {
+          "title": "The Music That Makes Me Dance",
+          "page": 79,
+          "from": "FUNNY GIRL"
+        },
+        {
+          "title": "I Want to Be Bad",
+          "page": 82,
+          "from": "GOOD NEWS"
+        },
+        {
+          "title": "Look at Me, I'm Sandra Dee",
+          "page": 86,
+          "from": "GREASE"
+        },
+        {
+          "title": "Adelaide's Lament",
+          "page": 93,
+          "from": "GUYS AND DOLLS"
+        },
+        {
+          "title": "Small World",
+          "page": 96,
+          "from": "GYPSY"
+        },
+        {
+          "title": "I Never Has Seen Snow",
+          "page": 104,
+          "from": "HOUSE OF FLOWERS"
+        },
+        {
+          "title": "Who Knows",
+          "page": 110,
+          "from": "I CAN GET IT FOR YOU WHOLESALE"
+        },
+        {
+          "title": "He Walked Into My Life",
+          "page": 119,
+          "from": "MAME"
+        },
+        {
+          "title": "He Deserves Each Other",
+          "page": 123,
+          "from": "ME AND JULIET"
+        },
+        {
+          "title": "On Now You Know",
+          "page": 129,
+          "from": "MERRILY WE ROLL ALONG"
+        },
+        {
+          "title": "I Dreamed a Dream",
+          "page": 132,
+          "from": "LES MISÉRABLES"
+        },
+        {
+          "title": "On My Own",
+          "page": 138,
+          "from": "LES MISÉRABLES"
+        },
+        {
+          "title": "The Wages of Sin",
+          "page": 144,
+          "from": "THE MYSTERY OF EDWIN DROOD"
+        },
+        {
+          "title": "My Husband Makes Movies",
+          "page": 146,
+          "from": "NINE"
+        },
+        {
+          "title": "The Sweetest Sounds",
+          "page": 156,
+          "from": "NO STRINGS"
+        },
+        {
+          "title": "As Long as He Needs Me",
+          "page": 170,
+          "from": "OLIVER!"
+        },
+        {
+          "title": "I Can Cook Too",
+          "page": 161,
+          "from": "ON THE TOWN"
+        },
+        {
+          "title": "Neverland",
+          "page": 188,
+          "from": "PETER PAN"
+        },
+        {
+          "title": "It's a Lovely Day to Run a Love Affair",
+          "page": 193,
+          "from": "PLAIN AND FANCY"
+        },
+        {
+          "title": "Hold On",
+          "page": 192,
+          "from": "THE SECRET GARDEN"
+        },
+        {
+          "title": "A Trip to the Library",
+          "page": 198,
+          "from": "SHE LOVES ME"
+        },
+        {
+          "title": "Tell Me on a Sunday",
+          "page": 207,
+          "from": "SONG AND DANCE"
+        },
+        {
+          "title": "Children and Art",
+          "page": 212,
+          "from": "SUNDAY IN THE PARK WITH GEORGE"
+        },
+        {
+          "title": "He Really Knows Me",
+          "page": 222,
+          "from": "THEY'RE PLAYING OUR SONG"
+        },
+        {
+          "title": "Paris Makes Me Horny",
+          "page": 198,
+          "from": "VICTOR/VICTORIA"
+        }
+      ],
+      "song_count_captured": 37
+    },
+    {
+      "id": "liszt-selected-hinson",
+      "title": "Franz Liszt: Selected Intermediate to Early Advanced Piano Solos",
+      "title_confidence": "confident",
+      "composer": "Franz Liszt",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5617.jpeg"
+      ],
+      "flags": [
+        "Contents low-res; page numbers missing."
+      ],
+      "songs": [
+        {
+          "title": "Foreword",
+          "page": null
+        },
+        {
+          "title": "About This Collection",
+          "page": null
+        },
+        {
+          "title": "Sources Consulted in the Preparation of This Collection",
+          "page": null
+        },
+        {
+          "title": "For Further Reading",
+          "page": null
+        },
+        {
+          "title": "Suggested Teaching Order",
+          "page": null
+        },
+        {
+          "title": "About the Music",
+          "page": null
+        },
+        {
+          "title": "Album I, S. 109",
+          "page": null
+        },
+        {
+          "title": "Album Leaf in Waltz Form, S. 166",
+          "page": null
+        },
+        {
+          "title": "The Bell Tolls, S. 238",
+          "page": null
+        },
+        {
+          "title": "Consolations",
+          "page": null
+        },
+        {
+          "title": "My Soul Exalts the Lord (Psalm 47), S. 504/1",
+          "page": null
+        },
+        {
+          "title": "Now Thank We All Our God, S. 504/4",
+          "page": null
+        },
+        {
+          "title": "Now All the Forests Are at Rest, S. 504/3",
+          "page": null
+        },
+        {
+          "title": "O Sacred Head and Wounded, S. 504",
+          "page": null
+        },
+        {
+          "title": "O Land of God!, S. 504/7",
+          "page": null
+        },
+        {
+          "title": "When God Does It Well Down, S. 504/20",
+          "page": null
+        },
+        {
+          "title": "He Who Live Trusts Beloved God Runs, S. 504/15",
+          "page": null
+        },
+        {
+          "title": "Christmas Song: Christ is Born, S. 502",
+          "page": null
+        },
+        {
+          "title": "Consolation No. 1, S. 172/1",
+          "page": null
+        },
+        {
+          "title": "Cradle Song, S. 198",
+          "page": null
+        },
+        {
+          "title": "Dedication: Liebeslied (Robert Schumann, arr. by Liszt), related to S. 566",
+          "page": null
+        },
+        {
+          "title": "Farewell: Russian Folk Song, S. 251",
+          "page": null
+        },
+        {
+          "title": "Four Short Piano Pieces, S. 192",
+          "page": null
+        },
+        {
+          "title": "No. 1",
+          "page": null
+        },
+        {
+          "title": "No. 2",
+          "page": null
+        },
+        {
+          "title": "No. 3",
+          "page": null
+        },
+        {
+          "title": "No. 4",
+          "page": null
+        },
+        {
+          "title": "Jesus, Word of God Incarnate: Ave verum corpus (Wolfgang Amadeus Mozart, trans. by Liszt), S. 461",
+          "page": null
+        },
+        {
+          "title": "Lindler in A-flat Major, S. 211",
+          "page": null
+        },
+        {
+          "title": "Madame Pelet-Narbonne's Merry-Go-Round, S. 214a",
+          "page": null
+        },
+        {
+          "title": "Nocturne No. 3 (first version), bei la madonna",
+          "page": null
+        },
+        {
+          "title": "Piano Piece in A-flat Major No. 2, S. 189a",
+          "page": null
+        },
+        {
+          "title": "Serenade (Franz Schubert, trans. by Liszt), S. 560/7",
+          "page": null
+        },
+        {
+          "title": "The Shepherd at the Manger: In Dunce Joy, S. 186/1",
+          "page": null
+        },
+        {
+          "title": "Spring (Frederic Chopin, trans. by Liszt), S. 480/2",
+          "page": null
+        },
+        {
+          "title": "Waltz in A Major, on A-number, B. 209a",
+          "page": null
+        }
+      ],
+      "song_count_captured": 36
+    },
+    {
+      "id": "schubert-moments-impromptus",
+      "title": "Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142",
+      "title_confidence": "confident",
+      "composer": "Franz Schubert",
+      "series": "Masterwork Edition",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": "Edited by Murray Baylor",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5630.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 6 Moments Musicaux + 8 Impromptus to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "burgmuller-op105",
+      "title": "Burgmüller: 12 Brilliant and Melodious Studies, Op. 105",
+      "title_confidence": "confident",
+      "composer": "Friedrich Burgmüller",
+      "series": "Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5612.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Allegretto in C",
+          "page": 4
+        },
+        {
+          "title": "Allegro agitato in C Minor",
+          "page": 6
+        },
+        {
+          "title": "Allegro in F",
+          "page": 8
+        },
+        {
+          "title": "Andante in D",
+          "page": 10
+        },
+        {
+          "title": "Allegro in B-flat",
+          "page": 12
+        },
+        {
+          "title": "Andante in G",
+          "page": 14
+        },
+        {
+          "title": "Allegro vivo in D Minor",
+          "page": 20
+        },
+        {
+          "title": "Allegro in A",
+          "page": 24
+        },
+        {
+          "title": "Allegro non troppo in E",
+          "page": 28
+        },
+        {
+          "title": "Allegro vivace in A Minor",
+          "page": 30
+        },
+        {
+          "title": "Adagio in F Minor",
+          "page": 33
+        },
+        {
+          "title": "Moderato in E-flat",
+          "page": 37
+        }
+      ],
+      "song_count_captured": 12
+    },
+    {
+      "id": "cage-piano-works-v3",
+      "title": "John Cage: Piano Works 1935–48, Volume 3",
+      "title_confidence": "confident",
+      "composer": "John Cage",
+      "series": null,
+      "volume": "Volume 3",
+      "publisher": "Edition Peters",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5623.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Quest",
+          "page": null
+        },
+        {
+          "title": "Two Pieces (1935)",
+          "page": null
+        },
+        {
+          "title": "Metamorphosis",
+          "page": null
+        },
+        {
+          "title": "A Room",
+          "page": null
+        },
+        {
+          "title": "Ophelia",
+          "page": null
+        },
+        {
+          "title": "Two Pieces (1946)",
+          "page": null
+        },
+        {
+          "title": "In a Landscape",
+          "page": null
+        },
+        {
+          "title": "Dream",
+          "page": null
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "raindrops-keep-fallin",
+      "title": "Raindrops Keep Fallin' on My Head",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Blue Seas Music, Inc. / Jac Music Co., Inc. and Twentieth Century Music Corp.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5602.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "RAINDROPS KEEP FALLIN' ON MY HEAD",
+          "page": null,
+          "composer_printed": "Lyric by HAL DAVID, Music by BURT BACHARACH",
+          "from": "From the 20th Century-Fox Film 'BUTCH CASSIDY AND THE SUNDANCE KID'"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

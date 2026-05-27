@@ -1,0 +1,7760 @@
+{
+  "generated_from": "data/raw/batch-*.json",
+  "book_count": 82,
+  "total_songs_captured": 1408,
+  "books": [
+    {
+      "id": "cocktail-jazz",
+      "title": "Cocktail Jazz",
+      "title_confidence": "confident",
+      "series": "Jazz Piano Solos",
+      "volume": "Volume 46",
+      "publisher": "Hal Leonard",
+      "arranger_editor": "Brent Edstrom",
+      "instrumentation": "Piano Solo",
+      "isbn": "978-1-4950-6894-2",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5387.jpeg",
+        "IMG_5388.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ALFIE",
+          "page": 2
+        },
+        {
+          "title": "ALL THE WAY",
+          "page": 4
+        },
+        {
+          "title": "AS TIME GOES BY",
+          "page": 8
+        },
+        {
+          "title": "AUTUMN IN NEW YORK",
+          "page": 16
+        },
+        {
+          "title": "BLAME IT ON MY YOUTH",
+          "page": 18
+        },
+        {
+          "title": "CHARADE",
+          "page": 11
+        },
+        {
+          "title": "COME FLY WITH ME",
+          "page": 20
+        },
+        {
+          "title": "CUTE",
+          "page": 24
+        },
+        {
+          "title": "DAYS OF WINE AND ROSES",
+          "page": 32
+        },
+        {
+          "title": "DREAM",
+          "page": 36
+        },
+        {
+          "title": "EASY LIVING",
+          "page": 40
+        },
+        {
+          "title": "I GET A KICK OUT OF YOU",
+          "page": 44
+        },
+        {
+          "title": "I'LL BE SEEING YOU",
+          "page": 29
+        },
+        {
+          "title": "I'VE GOT THE WORLD ON A STRING",
+          "page": 50
+        },
+        {
+          "title": "IF HE WALKED INTO MY LIFE",
+          "page": 54
+        },
+        {
+          "title": "ISN'T IT A PITY?",
+          "page": 59
+        },
+        {
+          "title": "IT COULD HAPPEN TO YOU",
+          "page": 62
+        },
+        {
+          "title": "IT HAD TO BE YOU",
+          "page": 66
+        },
+        {
+          "title": "MEDITATION (MEDITAÇÃO)",
+          "page": 74
+        },
+        {
+          "title": "NANCY WITH THE LAUGHING FACE",
+          "page": 78
+        },
+        {
+          "title": "NEVER NEVER LAND",
+          "page": 82
+        },
+        {
+          "title": "ONCE UPON A TIME",
+          "page": 86
+        },
+        {
+          "title": "SCOTCH AND SODA",
+          "page": 69
+        },
+        {
+          "title": "THE SECOND TIME AROUND",
+          "page": 90
+        },
+        {
+          "title": "SEPTEMBER SONG",
+          "page": 94
+        }
+      ],
+      "song_count_captured": 25
+    },
+    {
+      "id": "library-of-disney-songs",
+      "title": "The Library of Disney Songs",
+      "title_confidence": "confident",
+      "series": "The Library of",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano, Voice and Guitar",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5389.jpeg",
+        "IMG_5390.jpeg"
+      ],
+      "flags": [
+        "Only ~7 of many songs captured — contents page low-res. Reshoot for full list."
+      ],
+      "songs": [
+        {
+          "title": "Alice in Wonderland",
+          "page": null
+        },
+        {
+          "title": "The Aristocats",
+          "page": null
+        },
+        {
+          "title": "The Ballad of Davy Crockett",
+          "page": null
+        },
+        {
+          "title": "The Bare Necessities",
+          "page": null
+        },
+        {
+          "title": "Cruella De Vil",
+          "page": null
+        },
+        {
+          "title": "Beauty and the Beast",
+          "page": null
+        },
+        {
+          "title": "It's a Small World",
+          "page": null
+        }
+      ],
+      "song_count_captured": 7
+    },
+    {
+      "id": "definitive-vince-guaraldi",
+      "title": "The Definitive Vince Guaraldi",
+      "title_confidence": "confident",
+      "series": "Artist Transcriptions - Piano",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": "978-1-5400-4681-9",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5391.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Autumn Leaves",
+          "page": 2
+        },
+        {
+          "title": "Blues for Peanuts",
+          "page": 13
+        },
+        {
+          "title": "Calling Dr. Funk",
+          "page": 20
+        },
+        {
+          "title": "Cast Your Fate to the Wind",
+          "page": 36
+        },
+        {
+          "title": "Charlie Brown Theme",
+          "page": 29
+        },
+        {
+          "title": "Christmas Is Coming",
+          "page": 42
+        },
+        {
+          "title": "Christmas Time Is Here",
+          "page": 50
+        },
+        {
+          "title": "A Day in the Life of a Fool (Manhã de Carnaval)",
+          "page": 58
+        },
+        {
+          "title": "Days of Wine and Roses",
+          "page": 66
+        },
+        {
+          "title": "El Matador",
+          "page": 74
+        },
+        {
+          "title": "Fascinating Rhythm",
+          "page": 69
+        },
+        {
+          "title": "Fenwyck's Farfel",
+          "page": 84
+        },
+        {
+          "title": "A Flower Is a Lovesome Thing",
+          "page": 94
+        },
+        {
+          "title": "Ginza Samba",
+          "page": 98
+        },
+        {
+          "title": "The Girl from Ipanema (Garôta de Ipanema)",
+          "page": 89
+        },
+        {
+          "title": "The Great Pumpkin Waltz",
+          "page": 106
+        },
+        {
+          "title": "Jitterbug Waltz",
+          "page": 111
+        },
+        {
+          "title": "Linus and Lucy",
+          "page": 122
+        },
+        {
+          "title": "Mr. Lucky",
+          "page": 130
+        },
+        {
+          "title": "Moon River",
+          "page": 134
+        },
+        {
+          "title": "Never Never Land",
+          "page": 142
+        },
+        {
+          "title": "Oh, Good Grief",
+          "page": 146
+        },
+        {
+          "title": "On Green Dolphin Street",
+          "page": 149
+        },
+        {
+          "title": "Quiet Nights of Quiet Stars (Corcovado)",
+          "page": 156
+        },
+        {
+          "title": "Samba de Orfeu",
+          "page": 160
+        },
+        {
+          "title": "Skating",
+          "page": 176
+        },
+        {
+          "title": "Softly as in a Morning Sunrise",
+          "page": 190
+        },
+        {
+          "title": "Star Song",
+          "page": 196
+        },
+        {
+          "title": "Thanksgiving Theme",
+          "page": 204
+        },
+        {
+          "title": "Theme to Grace",
+          "page": 210
+        },
+        {
+          "title": "Work Song",
+          "page": 183
+        }
+      ],
+      "song_count_captured": 31
+    },
+    {
+      "id": "cowboy-bebop",
+      "title": "Cowboy Bebop (Piano Score)",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano Solo / Vocal & Piano / Piano Duet (Four Hands)",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5392.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Tank!",
+          "page": 6,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "WALTZ for ZIZI",
+          "page": 14,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "PIANO BLACK",
+          "page": 18,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "RAIN",
+          "page": 34,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "MEMORY",
+          "page": 40,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "Piano Bar I",
+          "page": 42,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "THE REAL FOLK BLUES",
+          "page": 46,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "Cats on Mars",
+          "page": 55,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "Green Bird",
+          "page": 58,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "ELM",
+          "page": 62,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "The EGG and YOU",
+          "page": 70,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "BLUE",
+          "page": 76,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "CALL ME CALL ME",
+          "page": 86,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "FLYING TEAPOT",
+          "page": 92,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "No reply",
+          "page": 102,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "Dijurido",
+          "page": 108,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "Gotta knock a little harder",
+          "page": 112,
+          "from": "VOCAL & PIANO"
+        }
+      ],
+      "song_count_captured": 17
+    },
+    {
+      "id": "super-mario-series-for-piano",
+      "title": "Super Mario Series for Piano",
+      "title_confidence": "confident",
+      "series": "Super Mario Series",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5393.jpeg"
+      ],
+      "flags": [
+        "Only ~12 songs captured — dense two-column contents, low-res. Reshoot for full list."
+      ],
+      "songs": [
+        {
+          "title": "SUPER MARIO BROS.",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO BROS.: The Lost Levels",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO BROS. 2",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO WORLD",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO WORLD 2",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO 64",
+          "page": null
+        },
+        {
+          "title": "MARIO KART 64",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO SUNSHINE",
+          "page": null
+        },
+        {
+          "title": "NEW SUPER MARIO BROS.",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO GALAXY",
+          "page": null
+        },
+        {
+          "title": "MARIO KART Wii",
+          "page": null
+        },
+        {
+          "title": "NEW SUPER MARIO BROS. Wii",
+          "page": null
+        }
+      ],
+      "song_count_captured": 12
+    },
+    {
+      "id": "field-18-nocturnes",
+      "title": "Field: Eighteen Nocturnes for the Piano",
+      "title_confidence": "confident",
+      "composer": "John Field",
+      "series": "Schirmer's Library of Musical Classics, Vol. 42",
+      "volume": "Vol. 42",
+      "publisher": "G. Schirmer",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5394.jpeg"
+      ],
+      "flags": [
+        "Cover only; no contents captured. Canonical 18 nocturnes to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "hoagy-carmichael",
+      "title": "Hoagy Carmichael",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5395.jpeg"
+      ],
+      "flags": [
+        "Contents shot sideways/low-res — partial song list."
+      ],
+      "songs": [
+        {
+          "title": "Georgia on My Mind",
+          "page": null
+        },
+        {
+          "title": "Heart and Soul",
+          "page": null
+        },
+        {
+          "title": "Stardust",
+          "page": null
+        },
+        {
+          "title": "Skylark",
+          "page": null
+        },
+        {
+          "title": "The Nearness of You",
+          "page": null
+        },
+        {
+          "title": "In the Cool, Cool, Cool of the Evening",
+          "page": 222
+        },
+        {
+          "title": "Lazy River",
+          "page": 52
+        },
+        {
+          "title": "The Whole Song",
+          "page": null
+        },
+        {
+          "title": "Winter Moon",
+          "page": null
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "encanto",
+      "title": "Encanto",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5396.jpeg",
+        "IMG_5397.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Family Madrigal",
+          "page": 9
+        },
+        {
+          "title": "Waiting On A Miracle",
+          "page": 32
+        },
+        {
+          "title": "Surface Pressure",
+          "page": 24
+        },
+        {
+          "title": "We Don't Talk About Bruno",
+          "page": 40
+        },
+        {
+          "title": "What Else Can I Do?",
+          "page": 60
+        },
+        {
+          "title": "Dos Oruguitas",
+          "page": 70
+        },
+        {
+          "title": "All Of You",
+          "page": 50
+        },
+        {
+          "title": "Colombia, Mi Encanto",
+          "page": 91
+        },
+        {
+          "title": "Two Oruguitas",
+          "page": 80
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "yann-tiersen-piano-works",
+      "title": "Yann Tiersen: Piano Works 1994–2003",
+      "title_confidence": "confident",
+      "composer": "Yann Tiersen",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5398.jpeg",
+        "IMG_5399.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "COMPTINE D'ETE n°2",
+          "page": 4
+        },
+        {
+          "title": "COMPTINE D'ETE n°3",
+          "page": 8
+        },
+        {
+          "title": "NAOMI",
+          "page": 11
+        },
+        {
+          "title": "LE VIEUX EN VEUT ENCORE",
+          "page": 15
+        },
+        {
+          "title": "TOUJOURS LA",
+          "page": 18
+        },
+        {
+          "title": "COMPTINE D'ETE n°1",
+          "page": 20
+        },
+        {
+          "title": "LA PIECE VIDE",
+          "page": 23
+        },
+        {
+          "title": "LA DISPUTE",
+          "page": 26
+        },
+        {
+          "title": "SUR LE FIL",
+          "page": 29
+        },
+        {
+          "title": "LES JOURS HEUREUX",
+          "page": 32
+        },
+        {
+          "title": "LA CHUTE",
+          "page": 34
+        },
+        {
+          "title": "L'ABSENTE",
+          "page": 39
+        },
+        {
+          "title": "L'ECHEC",
+          "page": 43
+        },
+        {
+          "title": "LE RETOUR",
+          "page": 47
+        },
+        {
+          "title": "LA VALSE D'AMELIE",
+          "page": 50
+        },
+        {
+          "title": "COMPTINE D'UN AUTRE ETE : L'APRES-MIDI",
+          "page": 55
+        },
+        {
+          "title": "LE MOULIN",
+          "page": 58
+        },
+        {
+          "title": "PLUS D'HIVER",
+          "page": 63
+        },
+        {
+          "title": "LE MATIN",
+          "page": 67
+        },
+        {
+          "title": "LA PLAGE",
+          "page": 70
+        },
+        {
+          "title": "MARY",
+          "page": 74
+        },
+        {
+          "title": "LES RETROUVAILLES",
+          "page": 78
+        },
+        {
+          "title": "LA JETEE",
+          "page": 82
+        }
+      ],
+      "song_count_captured": 23
+    },
+    {
+      "id": "randy-newman-anthology",
+      "title": "Randy Newman Anthology",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal/Chords",
+      "isbn": "ISBN-13: 978-0-7692-5864-x",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5579.jpeg",
+        "IMG_5580.jpeg"
+      ],
+      "flags": [
+        "Back-cover song list has no page numbers."
+      ],
+      "songs": [
+        {
+          "title": "Baltimore",
+          "page": null
+        },
+        {
+          "title": "Bleeding All Over The Place",
+          "page": null
+        },
+        {
+          "title": "Burn On",
+          "page": null
+        },
+        {
+          "title": "Cowboy",
+          "page": null
+        },
+        {
+          "title": "Davy The Fat Boy",
+          "page": null
+        },
+        {
+          "title": "Dixie Flyer",
+          "page": null
+        },
+        {
+          "title": "Feels Like Home",
+          "page": null
+        },
+        {
+          "title": "Gainesville",
+          "page": null
+        },
+        {
+          "title": "God's Song",
+          "page": null
+        },
+        {
+          "title": "Guilty",
+          "page": null
+        },
+        {
+          "title": "I Love L.A.",
+          "page": null
+        },
+        {
+          "title": "I Love To See You Smile",
+          "page": null
+        },
+        {
+          "title": "I Think It's Going To Rain Today",
+          "page": null
+        },
+        {
+          "title": "I Want You To Hurt Like I Do",
+          "page": null
+        },
+        {
+          "title": "In Germany Before The War",
+          "page": null
+        },
+        {
+          "title": "It's Money That I Love",
+          "page": null
+        },
+        {
+          "title": "Living Without You",
+          "page": null
+        },
+        {
+          "title": "Lonely At The Top",
+          "page": null
+        },
+        {
+          "title": "Louisiana",
+          "page": null
+        },
+        {
+          "title": "Mama Told Me Not To Come",
+          "page": null
+        },
+        {
+          "title": "Marie",
+          "page": null
+        },
+        {
+          "title": "Miami",
+          "page": null
+        },
+        {
+          "title": "Old Man",
+          "page": null
+        },
+        {
+          "title": "One More Hour",
+          "page": null
+        },
+        {
+          "title": "Political Science",
+          "page": null
+        },
+        {
+          "title": "Real Emotional Girl",
+          "page": null
+        },
+        {
+          "title": "Rednecks",
+          "page": null
+        },
+        {
+          "title": "Sail Away",
+          "page": null
+        },
+        {
+          "title": "Same Girl",
+          "page": null
+        },
+        {
+          "title": "Sandman's Coming",
+          "page": null
+        },
+        {
+          "title": "Short People",
+          "page": null
+        },
+        {
+          "title": "Simon Smith",
+          "page": null
+        },
+        {
+          "title": "Song For The Dead",
+          "page": null
+        },
+        {
+          "title": "You Can Leave Your Hat On",
+          "page": null
+        },
+        {
+          "title": "You've Got A Friend In Me",
+          "page": null
+        }
+      ],
+      "song_count_captured": 35
+    },
+    {
+      "id": "yann-tiersen-eusa",
+      "title": "Yann Tiersen: EUSA",
+      "title_confidence": "confident",
+      "composer": "Yann Tiersen",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5581.jpeg",
+        "IMG_5582.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "PENN",
+          "page": 7
+        },
+        {
+          "title": "PORZ GORET",
+          "page": 17
+        },
+        {
+          "title": "LOK GWELTAZ",
+          "page": 27
+        },
+        {
+          "title": "PENN AR ROC'H",
+          "page": 35
+        },
+        {
+          "title": "KEREON",
+          "page": null
+        },
+        {
+          "title": "YUZIN",
+          "page": 51
+        },
+        {
+          "title": "ROC'H AR VUGALE",
+          "page": 57
+        },
+        {
+          "title": "PENN AR LANN",
+          "page": 67
+        },
+        {
+          "title": "ENEZ NEIN",
+          "page": 77
+        },
+        {
+          "title": "KADORAN",
+          "page": 87
+        }
+      ],
+      "song_count_captured": 10
+    },
+    {
+      "id": "philip-glass-piano-collection",
+      "title": "Philip Glass: The Piano Collection",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": "978-1-84609-474-3",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5583.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "An Unwelcome Friend",
+          "page": 8,
+          "from": "The Hours"
+        },
+        {
+          "title": "Dead Things",
+          "page": 12,
+          "from": "The Hours"
+        },
+        {
+          "title": "I'm Going To Make A Cake",
+          "page": 3,
+          "from": "The Hours"
+        },
+        {
+          "title": "Something She Has To Do",
+          "page": 18,
+          "from": "The Hours"
+        },
+        {
+          "title": "Tearing Herself Away",
+          "page": 21,
+          "from": "The Hours"
+        },
+        {
+          "title": "The Hours",
+          "page": 28,
+          "from": "The Hours"
+        },
+        {
+          "title": "The Poet Acts",
+          "page": 38,
+          "from": "The Hours"
+        },
+        {
+          "title": "Why Does Someone Have To Die?",
+          "page": 41,
+          "from": "The Hours"
+        },
+        {
+          "title": "Metamorphosis One",
+          "page": 46,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Two",
+          "page": 50,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Three",
+          "page": 57,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Four",
+          "page": 62,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Metamorphosis Five",
+          "page": 69,
+          "from": "Metamorphosis"
+        },
+        {
+          "title": "Knee Play No.4 (from 'Einstein On The Beach')",
+          "page": 72,
+          "from": "Trilogy Sonata For Piano"
+        },
+        {
+          "title": "Satyagraha (Conclusion, Act III)",
+          "page": 78,
+          "from": "Trilogy Sonata For Piano"
+        },
+        {
+          "title": "Dance from 'Akhnaten' (Scene III)",
+          "page": 84,
+          "from": "Trilogy Sonata For Piano"
+        },
+        {
+          "title": "Modern Love Waltz",
+          "page": 94
+        },
+        {
+          "title": "Opening Piece from 'Glassworks'",
+          "page": 92
+        }
+      ],
+      "song_count_captured": 18
+    },
+    {
+      "id": "raffi-songbook",
+      "title": "Raffi Songbook",
+      "title_confidence": "uncertain",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "easy-to-play piano arrangements with guitar chord boxes",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5584.jpeg"
+      ],
+      "flags": [
+        "Title inferred from facing book (likely a Raffi collection). No page numbers. Confirm title."
+      ],
+      "songs": [
+        {
+          "title": "All I Really Need",
+          "page": null
+        },
+        {
+          "title": "Anana",
+          "page": null
+        },
+        {
+          "title": "Apples And Bananas",
+          "page": null
+        },
+        {
+          "title": "Baby Beluga",
+          "page": null
+        },
+        {
+          "title": "Bathtime",
+          "page": null
+        },
+        {
+          "title": "The Bowling Song",
+          "page": null
+        },
+        {
+          "title": "Brush Your Teeth",
+          "page": null
+        },
+        {
+          "title": "Comin' Down The Chimney",
+          "page": null
+        },
+        {
+          "title": "The Corner Grocery Store",
+          "page": null
+        },
+        {
+          "title": "Daniel",
+          "page": null
+        },
+        {
+          "title": "De Colores",
+          "page": null
+        },
+        {
+          "title": "Down By The Bay",
+          "page": null
+        },
+        {
+          "title": "Eight Piggies In A Row",
+          "page": null
+        },
+        {
+          "title": "Every Little Wish",
+          "page": null
+        },
+        {
+          "title": "Everything Grows",
+          "page": null
+        },
+        {
+          "title": "Fais Dodo",
+          "page": null
+        },
+        {
+          "title": "Goodnight, Irene",
+          "page": null
+        },
+        {
+          "title": "Have Lo Keto",
+          "page": null
+        },
+        {
+          "title": "He's Got The Whole World",
+          "page": null
+        },
+        {
+          "title": "I Wonder If I'm Growing",
+          "page": null
+        },
+        {
+          "title": "I'm In The Mood",
+          "page": null
+        },
+        {
+          "title": "If I Had A Dinosaur",
+          "page": null
+        },
+        {
+          "title": "Just Like The Sun",
+          "page": null
+        },
+        {
+          "title": "Let's Make Some Noise",
+          "page": null
+        },
+        {
+          "title": "Like Me And You",
+          "page": null
+        },
+        {
+          "title": "Michael",
+          "page": null
+        },
+        {
+          "title": "Mr. Sun",
+          "page": null
+        },
+        {
+          "title": "The More We Get Together",
+          "page": null
+        },
+        {
+          "title": "My Way Home",
+          "page": null
+        },
+        {
+          "title": "Oh Me, Oh My",
+          "page": null
+        },
+        {
+          "title": "Old MacDonald Had A Band",
+          "page": null
+        },
+        {
+          "title": "On Christmas Morning",
+          "page": null
+        },
+        {
+          "title": "One Light, One Sun",
+          "page": null
+        },
+        {
+          "title": "Peanut Butter Sandwich",
+          "page": null
+        },
+        {
+          "title": "Popcorn",
+          "page": null
+        },
+        {
+          "title": "Rishe In An Airplane",
+          "page": null
+        },
+        {
+          "title": "Rise And Shine",
+          "page": null
+        },
+        {
+          "title": "Saturday Morning",
+          "page": null
+        },
+        {
+          "title": "Shake My Sillies Out",
+          "page": null
+        },
+        {
+          "title": "The Sharing Song",
+          "page": null
+        },
+        {
+          "title": "Six Little Ducks",
+          "page": null
+        },
+        {
+          "title": "Somewhere In This World",
+          "page": null
+        },
+        {
+          "title": "Teddy Bear Hug",
+          "page": null
+        },
+        {
+          "title": "Thanks A Lot",
+          "page": null
+        },
+        {
+          "title": "This Little Light Of Mine",
+          "page": null
+        },
+        {
+          "title": "This Old Man",
+          "page": null
+        },
+        {
+          "title": "Time To Sing",
+          "page": null
+        },
+        {
+          "title": "Tingalayo",
+          "page": null
+        },
+        {
+          "title": "Walk, Walk, Walk",
+          "page": null
+        },
+        {
+          "title": "Wheels On The Bus",
+          "page": null
+        },
+        {
+          "title": "Willoughby, Wallaby, Woo",
+          "page": null
+        }
+      ],
+      "song_count_captured": 51
+    },
+    {
+      "id": "queen-songbook",
+      "title": "Queen (Songbook)",
+      "title_confidence": "uncertain",
+      "series": null,
+      "volume": null,
+      "publisher": "EMI Music Publishing / Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5585.jpeg"
+      ],
+      "flags": [
+        "Only back-cover song list seen; specific book title unknown. No page numbers."
+      ],
+      "songs": [
+        {
+          "title": "BOHEMIAN RHAPSODY",
+          "page": null
+        },
+        {
+          "title": "DEATH ON TWO LEGS",
+          "page": null
+        },
+        {
+          "title": "DON'T STOP ME NOW",
+          "page": null
+        },
+        {
+          "title": "GOOD OLD-FASHIONED LOVER BOY",
+          "page": null
+        },
+        {
+          "title": "KILLER QUEEN",
+          "page": null
+        },
+        {
+          "title": "LAZING ON A SUNDAY AFTERNOON",
+          "page": null
+        },
+        {
+          "title": "LOVE OF MY LIFE",
+          "page": null
+        },
+        {
+          "title": "NEVERMORE",
+          "page": null
+        },
+        {
+          "title": "PLAY THE GAME",
+          "page": null
+        },
+        {
+          "title": "SEVEN SEAS OF RHYE",
+          "page": null
+        },
+        {
+          "title": "SOMEBODY TO LOVE",
+          "page": null
+        },
+        {
+          "title": "WE ARE THE CHAMPIONS",
+          "page": null
+        },
+        {
+          "title": "YOU'RE MY BEST FRIEND",
+          "page": null
+        }
+      ],
+      "song_count_captured": 13
+    },
+    {
+      "id": "gershwin-rhapsody-in-blue",
+      "title": "Rhapsody in Blue",
+      "title_confidence": "confident",
+      "composer": "George Gershwin",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "piano solo",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5586.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "RHAPSODY IN BLUE",
+          "page": null,
+          "composer_printed": "george gershwin's"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-maple-leaf-rag",
+      "title": "Maple Leaf Rag",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "Stark Music Co.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5587.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "MAPLE LEAF RAG.",
+          "page": null,
+          "composer_printed": "Scott Joplin"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-easy-winners",
+      "title": "The Easy Winners",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "Stark Music Company, St. Louis, U.S.A.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5588.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "\"THE EASY WINNERS\"",
+          "page": null,
+          "composer_printed": "SCOTT JOPLIN"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-entertainer",
+      "title": "The Entertainer",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5589.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "THE ENTERTAINER",
+          "page": null,
+          "composer_printed": "SCOTT JOPLIN"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-sunflower-slow-drag",
+      "title": "Sunflower Slow Drag",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin & Scott Hayden",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5590.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "SUNFLOWER SLOW DRAG.",
+          "page": null,
+          "composer_printed": "SCOTT JOPLIN & SCOTT HAYDEN"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-elite-syncopations",
+      "title": "Elite Syncopations",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, Sheet Music Publishers, St. Louis",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5591.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ELITE SYNCOPATIONS",
+          "page": null,
+          "composer_printed": "Scott Joplin"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-chrysanthemum",
+      "title": "The Chrysanthemum",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis, Mo.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5592.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Chrysanthemum",
+          "page": null,
+          "composer_printed": "Scott Joplin"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "phantom-of-the-opera",
+      "title": "The Phantom of the Opera (Songbook)",
+      "title_confidence": "probable",
+      "series": "The Phantom of the Opera",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5593.jpeg"
+      ],
+      "flags": [
+        "Identified from cover artwork; no title text on page. No page numbers."
+      ],
+      "songs": [
+        {
+          "title": "THINK OF ME",
+          "page": null
+        },
+        {
+          "title": "ANGEL OF MUSIC",
+          "page": null
+        },
+        {
+          "title": "THE PHANTOM OF THE OPERA",
+          "page": null
+        },
+        {
+          "title": "THE MUSIC OF THE NIGHT",
+          "page": null
+        },
+        {
+          "title": "PRIMA DONNA",
+          "page": null
+        },
+        {
+          "title": "ALL I ASK OF YOU",
+          "page": null
+        },
+        {
+          "title": "MASQUERADE",
+          "page": null
+        },
+        {
+          "title": "WISHING YOU WERE SOMEHOW HERE AGAIN",
+          "page": null
+        },
+        {
+          "title": "THE POINT OF NO RETURN",
+          "page": null
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "star-wars",
+      "title": "Star Wars (Trilogy Songbook)",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": "International Music Publications Limited, Southend Road, Woodford Green, Essex IG8 8HN, England",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "1-57623-358-1",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5594.jpeg"
+      ],
+      "flags": [
+        "Back cover groups themes by film; specific book title not captured."
+      ],
+      "songs": [
+        {
+          "title": "Cantina Band",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "Princess Leia's Theme",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "Star Wars (Main Theme)",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "The Throne Room",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "The Imperial March",
+          "page": null,
+          "from": "THE EMPIRE STRIKES BACK"
+        },
+        {
+          "title": "Ewok Celebration",
+          "page": null,
+          "from": "RETURN OF THE JEDI"
+        },
+        {
+          "title": "Luke and Leia",
+          "page": null,
+          "from": "RETURN OF THE JEDI"
+        },
+        {
+          "title": "Victory Celebration",
+          "page": null,
+          "from": "RETURN OF THE JEDI"
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "cats-memory",
+      "title": "Memory (from Cats)",
+      "title_confidence": "confident",
+      "series": "CATS",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "PIANO/VOCAL/GUITAR",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5595.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "MEMORY",
+          "page": null,
+          "composer_printed": "Music by ANDREW LLOYD WEBBER; Text by TREVOR NUNN after T.S. ELIOT",
+          "from": "CATS"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "elton-john-songbook",
+      "title": "Elton John (Songbook)",
+      "title_confidence": "uncertain",
+      "composer": "Elton John",
+      "series": null,
+      "volume": null,
+      "publisher": "Universal Music Publishing Group",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "978-0-634-08373-0",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5596.jpeg",
+        "IMG_5597.jpeg"
+      ],
+      "flags": [
+        "Only back-cover song list seen; specific book title unknown."
+      ],
+      "songs": [
+        {
+          "title": "YOUR SONG",
+          "page": null
+        },
+        {
+          "title": "LEVON",
+          "page": null
+        },
+        {
+          "title": "TINY DANCER",
+          "page": null
+        },
+        {
+          "title": "ROCKET MAN (I THINK IT'S GONNA BE A LONG, LONG TIME)",
+          "page": null
+        },
+        {
+          "title": "HONKY CAT",
+          "page": null
+        },
+        {
+          "title": "CROCODILE ROCK",
+          "page": null
+        },
+        {
+          "title": "DANIEL",
+          "page": null
+        },
+        {
+          "title": "SATURDAY NIGHT'S ALRIGHT (FOR FIGHTING)",
+          "page": null
+        },
+        {
+          "title": "GOODBYE YELLOW BRICK ROAD",
+          "page": null
+        },
+        {
+          "title": "CANDLE IN THE WIND",
+          "page": null
+        },
+        {
+          "title": "BENNIE AND THE JETS",
+          "page": null
+        },
+        {
+          "title": "DON'T LET THE SUN GO DOWN ON ME",
+          "page": null
+        },
+        {
+          "title": "THE BITCH IS BACK",
+          "page": null
+        },
+        {
+          "title": "PHILADELPHIA FREEDOM",
+          "page": null
+        },
+        {
+          "title": "SOMEONE SAVED MY LIFE TONIGHT",
+          "page": null
+        },
+        {
+          "title": "ISLAND GIRL",
+          "page": null
+        },
+        {
+          "title": "SORRY SEEMS TO BE THE HARDEST WORD",
+          "page": null
+        },
+        {
+          "title": "DON'T GO BREAKING MY HEART (WITH KIKI DEE)",
+          "page": null
+        },
+        {
+          "title": "LITTLE JEANNIE",
+          "page": null
+        },
+        {
+          "title": "I'M STILL STANDING",
+          "page": null
+        },
+        {
+          "title": "I GUESS THAT'S WHY THEY CALL IT THE BLUES",
+          "page": null
+        },
+        {
+          "title": "SAD SONGS (SAY SO MUCH)",
+          "page": null
+        },
+        {
+          "title": "I DON'T WANNA GO ON WITH YOU LIKE THAT",
+          "page": null
+        },
+        {
+          "title": "NIKITA",
+          "page": null
+        },
+        {
+          "title": "SACRIFICE",
+          "page": null
+        },
+        {
+          "title": "THE ONE",
+          "page": null
+        },
+        {
+          "title": "CAN YOU FEEL THE LOVE TONIGHT",
+          "page": null
+        },
+        {
+          "title": "CIRCLE OF LIFE",
+          "page": null
+        },
+        {
+          "title": "BELIEVE",
+          "page": null
+        },
+        {
+          "title": "BLESSED",
+          "page": null
+        },
+        {
+          "title": "SOMETHING ABOUT THE WAY YOU LOOK TONIGHT",
+          "page": null
+        },
+        {
+          "title": "WRITTEN IN THE STARS (WITH LEANN RIMES)",
+          "page": null
+        },
+        {
+          "title": "I WANT LOVE",
+          "page": null
+        },
+        {
+          "title": "THIS TRAIN DON'T STOP THERE ANYMORE",
+          "page": null
+        }
+      ],
+      "song_count_captured": 34
+    },
+    {
+      "id": "john-denver-songbook",
+      "title": "John Denver (Songbook)",
+      "title_confidence": "uncertain",
+      "composer": "John Denver",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "0-7579-7897-5",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5598.jpeg"
+      ],
+      "flags": [
+        "Only back-cover song list seen; specific book title unknown."
+      ],
+      "songs": [
+        {
+          "title": "ANNIE'S SONG",
+          "page": null
+        },
+        {
+          "title": "ASPENGLOW",
+          "page": null
+        },
+        {
+          "title": "BACK HOME AGAIN",
+          "page": null
+        },
+        {
+          "title": "CALYPSO",
+          "page": null
+        },
+        {
+          "title": "EAGLE AND THE HAWK",
+          "page": null
+        },
+        {
+          "title": "FAREWELL ANDROMEDA (Welcome to My Morning)",
+          "page": null
+        },
+        {
+          "title": "FLY AWAY",
+          "page": null
+        },
+        {
+          "title": "FOLLOW ME",
+          "page": null
+        },
+        {
+          "title": "GOODBYE AGAIN",
+          "page": null
+        },
+        {
+          "title": "I'D RATHER BE A COWBOY",
+          "page": null
+        },
+        {
+          "title": "I'M SORRY",
+          "page": null
+        },
+        {
+          "title": "LEAVING ON A JET PLANE",
+          "page": null
+        },
+        {
+          "title": "MY SWEET LADY",
+          "page": null
+        },
+        {
+          "title": "POEMS, PRAYERS AND PROMISES",
+          "page": null
+        },
+        {
+          "title": "RHYMES AND REASONS",
+          "page": null
+        },
+        {
+          "title": "ROCKY MOUNTAIN HIGH",
+          "page": null
+        },
+        {
+          "title": "STARWOOD IN ASPEN",
+          "page": null
+        },
+        {
+          "title": "SUNSHINE ON MY SHOULDERS",
+          "page": null
+        },
+        {
+          "title": "TAKE ME HOME, COUNTRY ROADS",
+          "page": null
+        },
+        {
+          "title": "THANK GOD I'M A COUNTRY BOY",
+          "page": null
+        },
+        {
+          "title": "THIS OLD GUITAR",
+          "page": null
+        }
+      ],
+      "song_count_captured": 21
+    },
+    {
+      "id": "eagles-songbook",
+      "title": "Eagles (Songbook)",
+      "title_confidence": "uncertain",
+      "composer": "Eagles",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5599.jpeg"
+      ],
+      "flags": [
+        "Specific book title unknown; contents low-res so page numbers missing."
+      ],
+      "songs": [
+        {
+          "title": "AFTER THE THRILL IS GONE",
+          "page": null
+        },
+        {
+          "title": "ALL NIGHT LONG",
+          "page": null
+        },
+        {
+          "title": "ALREADY GONE",
+          "page": null
+        },
+        {
+          "title": "THE BEST OF MY LOVE",
+          "page": null
+        },
+        {
+          "title": "BITTER CREEK",
+          "page": null
+        },
+        {
+          "title": "DESPERADO",
+          "page": null
+        },
+        {
+          "title": "DESPERADO (REPRISE)",
+          "page": null
+        },
+        {
+          "title": "DOOLIN-DALTON",
+          "page": null
+        },
+        {
+          "title": "DOOLIN-DALTON (REPRISE II)",
+          "page": null
+        },
+        {
+          "title": "GET OVER IT",
+          "page": null
+        },
+        {
+          "title": "THE GIRL FROM YESTERDAY",
+          "page": null
+        },
+        {
+          "title": "A GOOD DAY IN HELL",
+          "page": null
+        },
+        {
+          "title": "THE GREEKS DON'T WANT NO FREAKS",
+          "page": null
+        },
+        {
+          "title": "HEARTACHE TONIGHT",
+          "page": null
+        },
+        {
+          "title": "HOLLYWOOD WALTZ",
+          "page": null
+        },
+        {
+          "title": "HOTEL CALIFORNIA",
+          "page": null
+        },
+        {
+          "title": "I CAN'T TELL YOU WHY",
+          "page": null
+        },
+        {
+          "title": "IN THE CITY",
+          "page": null
+        },
+        {
+          "title": "IS IT TRUE?",
+          "page": null
+        },
+        {
+          "title": "JOURNEY OF THE SORCERER",
+          "page": null
+        },
+        {
+          "title": "KING OF HOLLYWOOD",
+          "page": null
+        },
+        {
+          "title": "THE LAST RESORT",
+          "page": null
+        },
+        {
+          "title": "LIFE IN THE FAST LANE",
+          "page": null
+        },
+        {
+          "title": "LIFE'S BEEN GOOD",
+          "page": null
+        },
+        {
+          "title": "THE LONG RUN",
+          "page": null
+        },
+        {
+          "title": "LOVE WILL KEEP US ALIVE",
+          "page": null
+        },
+        {
+          "title": "LYIN' EYES",
+          "page": null
+        },
+        {
+          "title": "MIDNIGHT FLYER",
+          "page": null
+        },
+        {
+          "title": "NEW KID IN TOWN",
+          "page": null
+        },
+        {
+          "title": "NIGHTINGALE",
+          "page": null
+        },
+        {
+          "title": "ON THE BORDER",
+          "page": null
+        },
+        {
+          "title": "ONE OF THESE NIGHTS",
+          "page": null
+        },
+        {
+          "title": "PEACEFUL EASY FEELING",
+          "page": null
+        },
+        {
+          "title": "PRETTY MAIDS ALL IN A ROW",
+          "page": null
+        },
+        {
+          "title": "THE SAD CAFE",
+          "page": null
+        },
+        {
+          "title": "SATURDAY NIGHT",
+          "page": null
+        },
+        {
+          "title": "SEVEN BRIDGES ROAD",
+          "page": null
+        },
+        {
+          "title": "TAKE IT EASY",
+          "page": null
+        },
+        {
+          "title": "TAKE IT TO THE LIMIT",
+          "page": null
+        },
+        {
+          "title": "TAKE THE DEVIL",
+          "page": null
+        },
+        {
+          "title": "TEENAGE JAIL",
+          "page": null
+        },
+        {
+          "title": "TEQUILA SUNRISE",
+          "page": null
+        },
+        {
+          "title": "THOSE SHOES",
+          "page": null
+        },
+        {
+          "title": "TOO MANY HANDS",
+          "page": null
+        },
+        {
+          "title": "TRAIN LEAVES HERE THIS MORNIN'",
+          "page": null
+        },
+        {
+          "title": "TRY AND LOVE AGAIN",
+          "page": null
+        },
+        {
+          "title": "TRYIN'",
+          "page": null
+        },
+        {
+          "title": "TWENTY ONE",
+          "page": null
+        },
+        {
+          "title": "VICTIM OF LOVE",
+          "page": null
+        },
+        {
+          "title": "VISIONS",
+          "page": null
+        },
+        {
+          "title": "WASTED TIME",
+          "page": null
+        },
+        {
+          "title": "WITCHY WOMAN",
+          "page": null
+        },
+        {
+          "title": "YOU NEVER CRY LIKE A LOVER",
+          "page": null
+        }
+      ],
+      "song_count_captured": 53
+    },
+    {
+      "id": "shins-wincing",
+      "title": "The Shins: Wincing the Night Away",
+      "title_confidence": "confident",
+      "composer": "The Shins",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5600.jpeg"
+      ],
+      "flags": [
+        "Identified by tracklist; back-cover list, no page numbers."
+      ],
+      "songs": [
+        {
+          "title": "SLEEPING LESSONS",
+          "page": null
+        },
+        {
+          "title": "AUSTRALIA",
+          "page": null
+        },
+        {
+          "title": "PAM BERRY",
+          "page": null
+        },
+        {
+          "title": "PHANTOM LIMB",
+          "page": null
+        },
+        {
+          "title": "SEALEGS",
+          "page": null
+        },
+        {
+          "title": "RED RABBITS",
+          "page": null
+        },
+        {
+          "title": "TURN ON ME",
+          "page": null
+        },
+        {
+          "title": "BLACK WAVE",
+          "page": null
+        },
+        {
+          "title": "SPILT NEEDLES",
+          "page": null
+        },
+        {
+          "title": "GIRL SAILOR",
+          "page": null
+        },
+        {
+          "title": "A COMET APPEARS",
+          "page": null
+        }
+      ],
+      "song_count_captured": 11
+    },
+    {
+      "id": "rainbow-connection",
+      "title": "The Rainbow Connection",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Welbeck Music Corp.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5601.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Rainbow Connection",
+          "page": null,
+          "composer_printed": "Lyrics and Music by Paul Williams and Kenny Ascher",
+          "from": "From the ATD Film \"THE MUPPET MOVIE\""
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "raindrops-keep-fallin",
+      "title": "Raindrops Keep Fallin' on My Head",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Blue Seas Music, Inc. / Jac Music Co., Inc. and Twentieth Century Music Corp.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5602.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "RAINDROPS KEEP FALLIN' ON MY HEAD",
+          "page": null,
+          "composer_printed": "Lyric by HAL DAVID, Music by BURT BACHARACH",
+          "from": "From the 20th Century-Fox Film 'BUTCH CASSIDY AND THE SUNDANCE KID'"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "hamilton",
+      "title": "Hamilton",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5603.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ALEXANDER HAMILTON",
+          "page": 6
+        },
+        {
+          "title": "MY SHOT",
+          "page": 16
+        },
+        {
+          "title": "THE SCHUYLER SISTERS",
+          "page": 37
+        },
+        {
+          "title": "YOU'LL BE BACK",
+          "page": 51
+        },
+        {
+          "title": "HELPLESS",
+          "page": 58
+        },
+        {
+          "title": "SATISFIED",
+          "page": 71
+        },
+        {
+          "title": "WAIT FOR IT",
+          "page": 86
+        },
+        {
+          "title": "THAT WOULD BE ENOUGH",
+          "page": 97
+        },
+        {
+          "title": "HISTORY HAS ITS EYES ON YOU",
+          "page": 100
+        },
+        {
+          "title": "DEAR THEODOSIA",
+          "page": 106
+        },
+        {
+          "title": "WHAT'D I MISS",
+          "page": 113
+        },
+        {
+          "title": "THE ROOM WHERE IT HAPPENS",
+          "page": 126
+        },
+        {
+          "title": "WASHINGTON ON YOUR SIDE",
+          "page": 145
+        },
+        {
+          "title": "ONE LAST TIME",
+          "page": 158
+        },
+        {
+          "title": "HURRICANE",
+          "page": 174
+        },
+        {
+          "title": "BURN",
+          "page": 180
+        },
+        {
+          "title": "IT'S QUIET UPTOWN",
+          "page": 187
+        }
+      ],
+      "song_count_captured": 17
+    },
+    {
+      "id": "disney-recital-suites",
+      "title": "Disney Recital Suites (The Phillip Keveren Series)",
+      "title_confidence": "confident",
+      "series": "THE PHILLIP KEVEREN SERIES",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": "Phillip Keveren",
+      "instrumentation": "PIANO SOLO",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5604.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ARABIAN NIGHTS",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "FRIEND LIKE ME",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "ONE JUMP AHEAD",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "PRINCE ALI",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "A WHOLE NEW WORLD",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "BE OUR GUEST",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "BEAUTY AND THE BEAST",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "BELLE",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "GASTON",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "SOMETHING THERE",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "BE PREPARED",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "CAN YOU FEEL THE LOVE TONIGHT",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "CIRCLE OF LIFE",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "HAKUNA MATATA",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "I JUST CAN'T WAIT TO BE KING",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "FATHOMS BELOW",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "KISS THE GIRL",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "LES POISSONS",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "PART OF YOUR WORLD",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "UNDER THE SEA",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "philip-glass-solo-piano",
+      "title": "Philip Glass: Solo Piano",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5605.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "METAMORPHOSIS",
+          "page": 4
+        },
+        {
+          "title": "Metamorphosis One",
+          "page": 4
+        },
+        {
+          "title": "Metamorphosis Two",
+          "page": 8
+        },
+        {
+          "title": "Metamorphosis Three",
+          "page": 15
+        },
+        {
+          "title": "Metamorphosis Four",
+          "page": 20
+        },
+        {
+          "title": "Metamorphosis Five",
+          "page": 27
+        },
+        {
+          "title": "MAD RUSH",
+          "page": 30
+        },
+        {
+          "title": "WICHITA VORTEX SUTRA",
+          "page": 50
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "sesame-street-songbook",
+      "title": "The Sesame Street Songbook",
+      "title_confidence": "confident",
+      "series": "Sesame Street",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "piano, guitar, and voice",
+      "isbn": "978-1-4234-1335-1",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5606.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ABC-DEF-GHI",
+          "page": null
+        },
+        {
+          "title": "All By Myself",
+          "page": null
+        },
+        {
+          "title": "Bein' Green",
+          "page": null
+        },
+        {
+          "title": "Born to Add",
+          "page": null
+        },
+        {
+          "title": "Breakfast Time",
+          "page": null
+        },
+        {
+          "title": "\"C\" Is for Cookie",
+          "page": null
+        },
+        {
+          "title": "Captain Vegetable",
+          "page": null
+        },
+        {
+          "title": "Caribbean Amphibian",
+          "page": null
+        },
+        {
+          "title": "Counting Is Wonderful",
+          "page": null
+        },
+        {
+          "title": "Elmo's Song",
+          "page": null
+        },
+        {
+          "title": "Everyone Makes Mistakes",
+          "page": null
+        },
+        {
+          "title": "Five People in My Family",
+          "page": null
+        },
+        {
+          "title": "Frogs in the Glen",
+          "page": null
+        },
+        {
+          "title": "Fuzzy and Blue",
+          "page": null
+        },
+        {
+          "title": "The Grouch Song",
+          "page": null
+        },
+        {
+          "title": "I Don't Want to Live on the Moon",
+          "page": null
+        },
+        {
+          "title": "I Love Trash",
+          "page": null
+        },
+        {
+          "title": "If Moon Was Cookie",
+          "page": null
+        },
+        {
+          "title": "Imagination",
+          "page": null
+        },
+        {
+          "title": "Imagine That",
+          "page": null
+        },
+        {
+          "title": "It Sure Is Hot",
+          "page": null
+        },
+        {
+          "title": "Keep Christmas with You (All Through the Year)",
+          "page": null
+        },
+        {
+          "title": "La La La",
+          "page": null
+        },
+        {
+          "title": "Monster in the Mirror",
+          "page": null
+        },
+        {
+          "title": "Muppets Rhyme in School",
+          "page": null
+        },
+        {
+          "title": "Octopus Blues",
+          "page": null
+        },
+        {
+          "title": "One Fine Face",
+          "page": null
+        },
+        {
+          "title": "One of These Things",
+          "page": null
+        },
+        {
+          "title": "One Small Voice",
+          "page": null
+        },
+        {
+          "title": "Opposite Song",
+          "page": null
+        },
+        {
+          "title": "Pat Pat Patty Pat",
+          "page": null
+        },
+        {
+          "title": "Peanut Butter Song",
+          "page": null
+        },
+        {
+          "title": "People in Your Neighborhood",
+          "page": null
+        },
+        {
+          "title": "Put Down the Duckie",
+          "page": null
+        },
+        {
+          "title": "Rubber Duckie",
+          "page": null
+        },
+        {
+          "title": "Sesame Street Theme",
+          "page": null
+        },
+        {
+          "title": "Sing",
+          "page": null
+        },
+        {
+          "title": "Somebody Come and Play",
+          "page": null
+        },
+        {
+          "title": "We Are All Earthlings",
+          "page": null
+        },
+        {
+          "title": "What Do I Do When I'm Alone?",
+          "page": null
+        }
+      ],
+      "song_count_captured": 40
+    },
+    {
+      "id": "o-brother-where-art-thou",
+      "title": "O Brother, Where Art Thou? (Soundtrack)",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5607.jpeg"
+      ],
+      "flags": [
+        "Identified from song list; no title text on page."
+      ],
+      "songs": [
+        {
+          "title": "\"BIG ROCK CANDY MOUNTAIN\"",
+          "page": null,
+          "from": "Harry McClintock"
+        },
+        {
+          "title": "\"YOU ARE MY SUNSHINE\"",
+          "page": null,
+          "from": "Norman Blake"
+        },
+        {
+          "title": "\"DOWN TO THE RIVER TO PRAY\"",
+          "page": null,
+          "from": "Alison Krauss"
+        },
+        {
+          "title": "\"I AM A MAN OF CONSTANT SORROW\"",
+          "page": null,
+          "from": "The Soggy Bottom Boys"
+        },
+        {
+          "title": "\"KEEP ON THE SUNNY SIDE\"",
+          "page": null,
+          "from": "The Whites"
+        },
+        {
+          "title": "\"I'LL FLY AWAY\"",
+          "page": null,
+          "from": "Alison Krauss and Gillian Welch"
+        },
+        {
+          "title": "\"DIDN'T LEAVE NOBODY BUT THE BABY\"",
+          "page": null,
+          "from": "Emmylou Harris, Alison Krauss and Gillian Welch"
+        },
+        {
+          "title": "\"IN THE HIGHWAYS\"",
+          "page": null,
+          "from": "Sarah, Hannah and Leah Peasall"
+        },
+        {
+          "title": "\"I AM WEARY (LET ME REST)\"",
+          "page": null,
+          "from": "The Cox Family"
+        },
+        {
+          "title": "\"IN THE JAILHOUSE NOW\"",
+          "page": null,
+          "from": "The Soggy Bottom Boys"
+        },
+        {
+          "title": "\"ANGEL BAND\"",
+          "page": null,
+          "from": "The Stanley Brothers"
+        }
+      ],
+      "song_count_captured": 11
+    },
+    {
+      "id": "disney-pixar-soul",
+      "title": "Soul (Disney·Pixar)",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal/Guitar",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5608.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "BORN TO PLAY",
+          "page": null
+        },
+        {
+          "title": "COLLARD GREENS AND CORNBREAD STOUT",
+          "page": null
+        },
+        {
+          "title": "LOOKING AT LIFE",
+          "page": null
+        },
+        {
+          "title": "FRUIT OF THE VINE",
+          "page": null
+        },
+        {
+          "title": "SPIRITUAL CONNECTION",
+          "page": null
+        },
+        {
+          "title": "IT'S ALL RIGHT",
+          "page": null
+        },
+        {
+          "title": "CRISTO REDENTOR",
+          "page": null
+        },
+        {
+          "title": "DANCELAND",
+          "page": null
+        },
+        {
+          "title": "EPISTROPHY",
+          "page": null
+        },
+        {
+          "title": "I LET A SONG GO OUT OF MY HEART",
+          "page": null
+        },
+        {
+          "title": "BLUE RONDO A LA TURK",
+          "page": null
+        },
+        {
+          "title": "EPIPHANY",
+          "page": null
+        },
+        {
+          "title": "PARTING WAYS",
+          "page": null
+        }
+      ],
+      "song_count_captured": 13
+    },
+    {
+      "id": "taylor-swift-midnights",
+      "title": "Taylor Swift: Midnights",
+      "title_confidence": "probable",
+      "composer": "Taylor Swift",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5609.jpeg"
+      ],
+      "flags": [
+        "Identified from tracklist; no title text on page."
+      ],
+      "songs": [
+        {
+          "title": "Lavender Haze",
+          "page": null
+        },
+        {
+          "title": "Maroon",
+          "page": null
+        },
+        {
+          "title": "Anti-Hero",
+          "page": null
+        },
+        {
+          "title": "Snow On The Beach",
+          "page": null
+        },
+        {
+          "title": "You're On Your Own, Kid",
+          "page": null
+        },
+        {
+          "title": "Midnight Rain",
+          "page": null
+        },
+        {
+          "title": "Question...?",
+          "page": null
+        },
+        {
+          "title": "Vigilante Shit",
+          "page": null
+        },
+        {
+          "title": "Bejeweled",
+          "page": null
+        },
+        {
+          "title": "Labyrinth",
+          "page": null
+        },
+        {
+          "title": "Karma",
+          "page": null
+        },
+        {
+          "title": "Sweet Nothing",
+          "page": null
+        },
+        {
+          "title": "Mastermind",
+          "page": null
+        },
+        {
+          "title": "The Great War",
+          "page": null
+        },
+        {
+          "title": "Bigger Than The Whole Sky",
+          "page": null
+        },
+        {
+          "title": "Paris",
+          "page": null
+        },
+        {
+          "title": "High Infidelity",
+          "page": null
+        },
+        {
+          "title": "Glitch",
+          "page": null
+        },
+        {
+          "title": "Would've, Could've, Should've",
+          "page": null
+        },
+        {
+          "title": "Dear Reader",
+          "page": null
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "james-bond-songbook",
+      "title": "James Bond: 26 Songs from 24 Films",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal/Guitar",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5610.jpeg"
+      ],
+      "flags": [
+        "Back-cover header; exact book title not captured."
+      ],
+      "songs": [
+        {
+          "title": "The James Bond Theme",
+          "page": null,
+          "from": "DR. NO"
+        },
+        {
+          "title": "From Russia with Love",
+          "page": null,
+          "from": "FROM RUSSIA WITH LOVE"
+        },
+        {
+          "title": "007 Theme",
+          "page": null,
+          "from": "FROM RUSSIA WITH LOVE"
+        },
+        {
+          "title": "Goldfinger",
+          "page": null,
+          "from": "GOLDFINGER"
+        },
+        {
+          "title": "Thunderball",
+          "page": null,
+          "from": "THUNDERBALL"
+        },
+        {
+          "title": "You Only Live Twice",
+          "page": null,
+          "from": "YOU ONLY LIVE TWICE"
+        },
+        {
+          "title": "On Her Majesty's Secret Service",
+          "page": null,
+          "from": "ON HER MAJESTY'S SECRET SERVICE"
+        },
+        {
+          "title": "We Have All the Time in the World",
+          "page": null,
+          "from": "ON HER MAJESTY'S SECRET SERVICE"
+        },
+        {
+          "title": "Diamonds Are Forever",
+          "page": null,
+          "from": "DIAMONDS ARE FOREVER"
+        },
+        {
+          "title": "Live and Let Die",
+          "page": null,
+          "from": "LIVE AND LET DIE"
+        },
+        {
+          "title": "The Man with the Golden Gun",
+          "page": null,
+          "from": "THE MAN WITH THE GOLDEN GUN"
+        },
+        {
+          "title": "Nobody Does It Better",
+          "page": null,
+          "from": "THE SPY WHO LOVED ME"
+        },
+        {
+          "title": "Moonraker",
+          "page": null,
+          "from": "MOONRAKER"
+        },
+        {
+          "title": "For Your Eyes Only",
+          "page": null,
+          "from": "FOR YOUR EYES ONLY"
+        },
+        {
+          "title": "A View to a Kill",
+          "page": null,
+          "from": "A VIEW TO A KILL"
+        },
+        {
+          "title": "The Living Daylights",
+          "page": null,
+          "from": "THE LIVING DAYLIGHTS"
+        },
+        {
+          "title": "Licence to Kill",
+          "page": null,
+          "from": "LICENCE TO KILL"
+        },
+        {
+          "title": "GoldenEye",
+          "page": null,
+          "from": "GOLDENEYE"
+        },
+        {
+          "title": "Tomorrow Never Dies",
+          "page": null,
+          "from": "TOMORROW NEVER DIES"
+        },
+        {
+          "title": "The World Is Not Enough",
+          "page": null,
+          "from": "THE WORLD IS NOT ENOUGH"
+        },
+        {
+          "title": "Die Another Day",
+          "page": null,
+          "from": "DIE ANOTHER DAY"
+        },
+        {
+          "title": "You Know My Name",
+          "page": null,
+          "from": "CASINO ROYALE"
+        },
+        {
+          "title": "Another Way to Die",
+          "page": null,
+          "from": "QUANTUM OF SOLACE"
+        },
+        {
+          "title": "Skyfall",
+          "page": null,
+          "from": "SKYFALL"
+        },
+        {
+          "title": "Writing's on the Wall",
+          "page": null,
+          "from": "SPECTRE"
+        }
+      ],
+      "song_count_captured": 25
+    },
+    {
+      "id": "bach-two-part-inventions-alfred",
+      "title": "J.S. Bach: Two-Part Inventions (Alfred / Palmer)",
+      "title_confidence": "confident",
+      "composer": "J.S. Bach",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Willard A. Palmer",
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5611.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 15 Two-Part Inventions (BWV 772–786) to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "burgmuller-op105",
+      "title": "Burgmüller: 12 Brilliant and Melodious Studies, Op. 105",
+      "title_confidence": "confident",
+      "composer": "Friedrich Burgmüller",
+      "series": "Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5612.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Allegretto in C",
+          "page": 4
+        },
+        {
+          "title": "Allegro agitato in C Minor",
+          "page": 6
+        },
+        {
+          "title": "Allegro in F",
+          "page": 8
+        },
+        {
+          "title": "Andante in D",
+          "page": 10
+        },
+        {
+          "title": "Allegro in B-flat",
+          "page": 12
+        },
+        {
+          "title": "Andante in G",
+          "page": 14
+        },
+        {
+          "title": "Allegro vivo in D Minor",
+          "page": 20
+        },
+        {
+          "title": "Allegro in A",
+          "page": 24
+        },
+        {
+          "title": "Allegro non troppo in E",
+          "page": 28
+        },
+        {
+          "title": "Allegro vivace in A Minor",
+          "page": 30
+        },
+        {
+          "title": "Adagio in F Minor",
+          "page": 33
+        },
+        {
+          "title": "Moderato in E-flat",
+          "page": 37
+        }
+      ],
+      "song_count_captured": 12
+    },
+    {
+      "id": "grieg-album",
+      "title": "Grieg: Album of Selected Piano Works",
+      "title_confidence": "uncertain",
+      "composer": "Edvard Grieg",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5613.jpeg"
+      ],
+      "flags": [
+        "Alphabetical-index page; exact edition/title unknown. All-Grieg (Lyric Pieces, Peer Gynt, etc.)."
+      ],
+      "songs": [
+        {
+          "title": "Album-Leaf, Op. 12, No. 7",
+          "page": 32
+        },
+        {
+          "title": "Album-Leaf, Op. 28, No. 3",
+          "page": 50
+        },
+        {
+          "title": "Anitra's Dance, Op. 46, No. 3",
+          "page": 54
+        },
+        {
+          "title": "Arietta, Op. 12, No. 1",
+          "page": 12
+        },
+        {
+          "title": "Ase's Death, Op. 46, No. 2",
+          "page": 92
+        },
+        {
+          "title": "Berceuse, Op. 38, No. 1",
+          "page": 12
+        },
+        {
+          "title": "Birdling, Op. 43, No. 4",
+          "page": 64
+        },
+        {
+          "title": "Butterfly, Op. 43, No. 1",
+          "page": 35
+        },
+        {
+          "title": "By the Cradle, Op. 68, No. 5",
+          "page": 129
+        },
+        {
+          "title": "Canon, Op. 38, No. 8",
+          "page": 24
+        },
+        {
+          "title": "Dance Caprice, Op. 28, No. 3",
+          "page": 54
+        },
+        {
+          "title": "Elegie, Op. 38, No. 6",
+          "page": 22
+        },
+        {
+          "title": "Elfin Dance, Op. 12, No. 4",
+          "page": 18
+        },
+        {
+          "title": "Folk-Song, Op. 12, No. 5",
+          "page": 18
+        },
+        {
+          "title": "Folk-Song, Op. 38, No. 2",
+          "page": 46
+        },
+        {
+          "title": "Grandmother's Minuet, Op. 68, No. 2",
+          "page": 120
+        },
+        {
+          "title": "Humoreske, Op. 6, No. 3",
+          "page": null
+        },
+        {
+          "title": "I Love Thee",
+          "page": 141
+        },
+        {
+          "title": "In the Hall of the Mountain-King, Op. 46, No. 4",
+          "page": 89
+        },
+        {
+          "title": "Love-Poem, Op. 43, No. 5",
+          "page": 46
+        },
+        {
+          "title": "March of the Dwarfs, Op. 54, No. 3",
+          "page": 96
+        },
+        {
+          "title": "Morning-Mood, Op. 46, No. 1",
+          "page": 77
+        },
+        {
+          "title": "Norwegian Bridal Procession, Op. 19, No. 2",
+          "page": null
+        },
+        {
+          "title": "Norwegian Dance, Op. 35, No. 2",
+          "page": 30
+        },
+        {
+          "title": "Norwegian Melody, Op. 12, No. 6",
+          "page": 8
+        },
+        {
+          "title": "Notturno, Op. 54, No. 4",
+          "page": null
+        },
+        {
+          "title": "Patriotic Song, Op. 12, No. 8",
+          "page": 9
+        },
+        {
+          "title": "Peer Gynt Suite (First), Op. 46",
+          "page": null
+        },
+        {
+          "title": "1. Morning-Mood",
+          "page": 77
+        },
+        {
+          "title": "2. Ase's Death",
+          "page": 92
+        },
+        {
+          "title": "3. Anitra's Dance",
+          "page": 84
+        },
+        {
+          "title": "4. In the Hall of the Mountain-King",
+          "page": 89
+        },
+        {
+          "title": "Puck, Op. 71, No. 3",
+          "page": 130
+        },
+        {
+          "title": "Remembrances, Op. 71, No. 7",
+          "page": 134
+        },
+        {
+          "title": "Sailor's Song, Op. 68, No. 1",
+          "page": 118
+        },
+        {
+          "title": "Skip-Dance, Op. 38, No. 5",
+          "page": null
+        },
+        {
+          "title": "Solitary Wanderer, Op. 43, No. 2",
+          "page": 42
+        },
+        {
+          "title": "Solveig's Song, Op. 52, No. 4",
+          "page": 137
+        },
+        {
+          "title": "Spring-Dance, Op. 47, No. 6",
+          "page": 38
+        },
+        {
+          "title": "To Spring, Op. 43, No. 6",
+          "page": 50
+        },
+        {
+          "title": "Waltz, Op. 12, No. 2",
+          "page": 10
+        },
+        {
+          "title": "Waltz, Op. 38, No. 7",
+          "page": 28
+        },
+        {
+          "title": "Watchman's Song, Op. 12, No. 3",
+          "page": null
+        },
+        {
+          "title": "Wedding-Day in Troldhaugen, Op. 65, No. 6",
+          "page": 108
+        }
+      ],
+      "song_count_captured": 44
+    },
+    {
+      "id": "bernstein-birds",
+      "title": "Birds",
+      "title_confidence": "confident",
+      "composer": "Seymour Bernstein",
+      "series": null,
+      "volume": null,
+      "publisher": "G. Schirmer, Inc.",
+      "arranger_editor": null,
+      "instrumentation": "for piano solo",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5614.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Purple Finch",
+          "page": 3
+        },
+        {
+          "title": "The Hummingbird",
+          "page": 4
+        },
+        {
+          "title": "The Woodpecker",
+          "page": 5
+        },
+        {
+          "title": "The Sea Gull",
+          "page": 6
+        },
+        {
+          "title": "The Chickadee",
+          "page": 7
+        },
+        {
+          "title": "The Vulture",
+          "page": 8
+        },
+        {
+          "title": "The Penguin",
+          "page": 10
+        },
+        {
+          "title": "The Eagle",
+          "page": 11
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "bach-two-three-part-kalmus",
+      "title": "J.S. Bach: Two and Three-Part Inventions (Kalmus / Bischoff)",
+      "title_confidence": "confident",
+      "composer": "J.S. Bach",
+      "series": "A Kalmus Classic Edition",
+      "volume": null,
+      "publisher": "Kalmus",
+      "arranger_editor": "Edited by Dr. HANS BISCHOFF",
+      "instrumentation": "FOR PIANO",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5615.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "bach-two-three-part-schirmer",
+      "title": "Bach: Two- and Three-Part Inventions (Schirmer, Vol. 813)",
+      "title_confidence": "confident",
+      "composer": "J.S. Bach",
+      "series": "Schirmer's Library of Musical Classics",
+      "volume": "Vol. 813",
+      "publisher": "G. Schirmer",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5616.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "liszt-selected-hinson",
+      "title": "Franz Liszt: Selected Intermediate to Early Advanced Piano Solos",
+      "title_confidence": "confident",
+      "composer": "Franz Liszt",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5617.jpeg"
+      ],
+      "flags": [
+        "Contents low-res; page numbers missing."
+      ],
+      "songs": [
+        {
+          "title": "Foreword",
+          "page": null
+        },
+        {
+          "title": "About This Collection",
+          "page": null
+        },
+        {
+          "title": "Sources Consulted in the Preparation of This Collection",
+          "page": null
+        },
+        {
+          "title": "For Further Reading",
+          "page": null
+        },
+        {
+          "title": "Suggested Teaching Order",
+          "page": null
+        },
+        {
+          "title": "About the Music",
+          "page": null
+        },
+        {
+          "title": "Album I, S. 109",
+          "page": null
+        },
+        {
+          "title": "Album Leaf in Waltz Form, S. 166",
+          "page": null
+        },
+        {
+          "title": "The Bell Tolls, S. 238",
+          "page": null
+        },
+        {
+          "title": "Consolations",
+          "page": null
+        },
+        {
+          "title": "My Soul Exalts the Lord (Psalm 47), S. 504/1",
+          "page": null
+        },
+        {
+          "title": "Now Thank We All Our God, S. 504/4",
+          "page": null
+        },
+        {
+          "title": "Now All the Forests Are at Rest, S. 504/3",
+          "page": null
+        },
+        {
+          "title": "O Sacred Head and Wounded, S. 504",
+          "page": null
+        },
+        {
+          "title": "O Land of God!, S. 504/7",
+          "page": null
+        },
+        {
+          "title": "When God Does It Well Down, S. 504/20",
+          "page": null
+        },
+        {
+          "title": "He Who Live Trusts Beloved God Runs, S. 504/15",
+          "page": null
+        },
+        {
+          "title": "Christmas Song: Christ is Born, S. 502",
+          "page": null
+        },
+        {
+          "title": "Consolation No. 1, S. 172/1",
+          "page": null
+        },
+        {
+          "title": "Cradle Song, S. 198",
+          "page": null
+        },
+        {
+          "title": "Dedication: Liebeslied (Robert Schumann, arr. by Liszt), related to S. 566",
+          "page": null
+        },
+        {
+          "title": "Farewell: Russian Folk Song, S. 251",
+          "page": null
+        },
+        {
+          "title": "Four Short Piano Pieces, S. 192",
+          "page": null
+        },
+        {
+          "title": "No. 1",
+          "page": null
+        },
+        {
+          "title": "No. 2",
+          "page": null
+        },
+        {
+          "title": "No. 3",
+          "page": null
+        },
+        {
+          "title": "No. 4",
+          "page": null
+        },
+        {
+          "title": "Jesus, Word of God Incarnate: Ave verum corpus (Wolfgang Amadeus Mozart, trans. by Liszt), S. 461",
+          "page": null
+        },
+        {
+          "title": "Lindler in A-flat Major, S. 211",
+          "page": null
+        },
+        {
+          "title": "Madame Pelet-Narbonne's Merry-Go-Round, S. 214a",
+          "page": null
+        },
+        {
+          "title": "Nocturne No. 3 (first version), bei la madonna",
+          "page": null
+        },
+        {
+          "title": "Piano Piece in A-flat Major No. 2, S. 189a",
+          "page": null
+        },
+        {
+          "title": "Serenade (Franz Schubert, trans. by Liszt), S. 560/7",
+          "page": null
+        },
+        {
+          "title": "The Shepherd at the Manger: In Dunce Joy, S. 186/1",
+          "page": null
+        },
+        {
+          "title": "Spring (Frederic Chopin, trans. by Liszt), S. 480/2",
+          "page": null
+        },
+        {
+          "title": "Waltz in A Major, on A-number, B. 209a",
+          "page": null
+        }
+      ],
+      "song_count_captured": 36
+    },
+    {
+      "id": "scarlatti-selected-sonatas",
+      "title": "Scarlatti: Selected Sonatas for the Piano (Alfred / Hinson)",
+      "title_confidence": "confident",
+      "composer": "Domenico Scarlatti",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5618.jpeg",
+        "IMG_5619.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Foreword",
+          "page": 4
+        },
+        {
+          "title": "About Scarlatti",
+          "page": 4
+        },
+        {
+          "title": "About This Collection",
+          "page": 4
+        },
+        {
+          "title": "Explanation of K. and L. Numbers",
+          "page": 5
+        },
+        {
+          "title": "About Each Sonata",
+          "page": 6
+        },
+        {
+          "title": "Sonata in F Major, K. 6 (L. 479)",
+          "page": 9
+        },
+        {
+          "title": "Sonata in D Minor, K. 9 (L. 413)",
+          "page": 12
+        },
+        {
+          "title": "Sonata in G Major, K. 14 (L. 387)",
+          "page": 14
+        },
+        {
+          "title": "Sonata in E Major, K. 20 (L. 375)",
+          "page": 18
+        },
+        {
+          "title": "Sonata in D Major, K. 29 (L. 461)",
+          "page": 21
+        },
+        {
+          "title": "Sonata in D Major, K. 96 (L. 465)",
+          "page": 26
+        },
+        {
+          "title": "Sonata in A Major, K. 113 (L. 345)",
+          "page": 30
+        },
+        {
+          "title": "Sonata in C Major, K. 132 (L. 457)",
+          "page": 34
+        },
+        {
+          "title": "Sonata in G Major, K. 146 (L. 349)",
+          "page": 38
+        },
+        {
+          "title": "Sonata in C Major, K. 159 (L. 104)",
+          "page": 40
+        },
+        {
+          "title": "Sonata in G Major, K. 260 (L. 124)",
+          "page": 42
+        },
+        {
+          "title": "Sonata in A Major, K. 322 (L. 483)",
+          "page": 48
+        },
+        {
+          "title": "Sonata in C Major, K. 420 (L.S. 2)",
+          "page": 52
+        },
+        {
+          "title": "Sonata in G Major, K. 455 (L. 209)",
+          "page": 56
+        },
+        {
+          "title": "Sonata in G Minor, K. 476 (L. 340)",
+          "page": 60
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "mozart-21-popular",
+      "title": "Mozart: 21 of His Most Popular Pieces",
+      "title_confidence": "confident",
+      "composer": "W.A. Mozart",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5620.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ADAGIO IN C MAJOR, for Glass Harmonica",
+          "page": 22
+        },
+        {
+          "title": "ALLEGRETTO IN F MAJOR",
+          "page": 28
+        },
+        {
+          "title": "ALLEGRO IN F MAJOR",
+          "page": null
+        },
+        {
+          "title": "ANDANTE from \"THE HAFFNER SERENADE\"",
+          "page": 17
+        },
+        {
+          "title": "ANDANTINO IN F MAJOR",
+          "page": 9
+        },
+        {
+          "title": "ARIA from \"THE MARRIAGE OF FIGARO\"",
+          "page": 18
+        },
+        {
+          "title": "CONCERTINO, Op. 21, THEME",
+          "page": 40
+        },
+        {
+          "title": "CONTREDANCE IN G MAJOR",
+          "page": 13
+        },
+        {
+          "title": "MINUET from \"DON GIOVANNI\"",
+          "page": 16
+        },
+        {
+          "title": "FANTASIA IN D MINOR",
+          "page": 33
+        },
+        {
+          "title": "FUNERAL MARCH for Signor Maestro Contrapunto",
+          "page": 20
+        },
+        {
+          "title": "MINUET IN C MAJOR",
+          "page": 4
+        },
+        {
+          "title": "RONDO IN C MAJOR",
+          "page": 6
+        },
+        {
+          "title": "RONDO IN D MAJOR",
+          "page": 14
+        },
+        {
+          "title": "SONATA IN C MAJOR (1st Movement)",
+          "page": 32
+        },
+        {
+          "title": "SONATA No. 6",
+          "page": null
+        },
+        {
+          "title": "Minuet I",
+          "page": 24
+        },
+        {
+          "title": "Minuet II",
+          "page": 26
+        },
+        {
+          "title": "TURKISH MARCH from SONATA No. 11",
+          "page": 44
+        },
+        {
+          "title": "TWO PIECES from THE LONDON NOTEBOOK",
+          "page": null
+        },
+        {
+          "title": "No. 1, Allegro",
+          "page": 10
+        },
+        {
+          "title": "No. II, Andante",
+          "page": 11
+        }
+      ],
+      "song_count_captured": 22
+    },
+    {
+      "id": "schumann-scenes-childhood",
+      "title": "Schumann: Scenes from Childhood, Op. 15",
+      "title_confidence": "confident",
+      "composer": "Robert Schumann",
+      "series": null,
+      "volume": "OPUS 15",
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": "EDITED BY WILLARD A. PALMER",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5621.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "About Strange Lands and People",
+          "page": 4
+        },
+        {
+          "title": "Curious Story",
+          "page": 6
+        },
+        {
+          "title": "Catch Me!",
+          "page": 8
+        },
+        {
+          "title": "Pleading Child",
+          "page": 9
+        },
+        {
+          "title": "Perfect Happiness",
+          "page": 12
+        },
+        {
+          "title": "Important Event",
+          "page": 14
+        },
+        {
+          "title": "Reverie (Träumerei)",
+          "page": 16
+        },
+        {
+          "title": "By the Fireside",
+          "page": 18
+        },
+        {
+          "title": "Knight of the Rocking Horse",
+          "page": 20
+        },
+        {
+          "title": "Almost Too Serious",
+          "page": 22
+        },
+        {
+          "title": "Frightening",
+          "page": 25
+        },
+        {
+          "title": "Child Falling Asleep",
+          "page": 28
+        },
+        {
+          "title": "The Poet Speaks",
+          "page": 30
+        }
+      ],
+      "song_count_captured": 13
+    },
+    {
+      "id": "chopin-19-popular",
+      "title": "Chopin: 19 of His Most Popular Piano Selections",
+      "title_confidence": "confident",
+      "composer": "Frédéric Chopin",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5622.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ETUDE IN E MAJOR, Op. 10, No. 3",
+          "page": null
+        },
+        {
+          "title": "FANTASIE-IMPROMPTU, Op. 66 (Posthumous)",
+          "page": null
+        },
+        {
+          "title": "LARGO IN E-flat MAJOR (Posthumous)",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN A MINOR, Op. 7, No. 2",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN B-flat MAJOR, Op. 7, No. 1",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN C MAJOR, Op. 7, No. 5",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN G MINOR, Op. 67, No. 2 (Posthumous)",
+          "page": null
+        },
+        {
+          "title": "NOCTURNE IN E-flat MAJOR, Op. 9, No. 2",
+          "page": null
+        },
+        {
+          "title": "POLONAISE IN A MAJOR, Op. 40, No. 1",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN A MAJOR, Op. 28, No. 7",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN B MINOR, Op. 28, No. 6",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN C MAJOR, Op. 28, No. 1",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN C MINOR, Op. 28, No. 20",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN D-flat MAJOR, Op. 28, No. 15",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN E MINOR, Op. 28, No. 4",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN A MINOR, Op. 34, No. 2",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN A MINOR, Op. 64, No. 1",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN D-flat MAJOR, Op. 64, No. 1",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN E MINOR (Posthumous)",
+          "page": null
+        }
+      ],
+      "song_count_captured": 19
+    },
+    {
+      "id": "cage-piano-works-v3",
+      "title": "John Cage: Piano Works 1935–48, Volume 3",
+      "title_confidence": "confident",
+      "composer": "John Cage",
+      "series": null,
+      "volume": "Volume 3",
+      "publisher": "Edition Peters",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5623.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Quest",
+          "page": null
+        },
+        {
+          "title": "Two Pieces (1935)",
+          "page": null
+        },
+        {
+          "title": "Metamorphosis",
+          "page": null
+        },
+        {
+          "title": "A Room",
+          "page": null
+        },
+        {
+          "title": "Ophelia",
+          "page": null
+        },
+        {
+          "title": "Two Pieces (1946)",
+          "page": null
+        },
+        {
+          "title": "In a Landscape",
+          "page": null
+        },
+        {
+          "title": "Dream",
+          "page": null
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "debussy-selected-favorites",
+      "title": "Debussy: Selected Favorites for the Piano (Alfred)",
+      "title_confidence": "confident",
+      "composer": "Claude Debussy",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": "EDITED BY LYNN FREEMAN OLSON",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5624.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Foreword",
+          "page": 3
+        },
+        {
+          "title": "Glossary",
+          "page": 4
+        },
+        {
+          "title": "Reverie",
+          "page": 5
+        },
+        {
+          "title": "La Petit Nègre",
+          "page": 13
+        },
+        {
+          "title": "Deux Arabesques",
+          "page": 19
+        },
+        {
+          "title": "from Suite Bergamasque",
+          "page": null
+        },
+        {
+          "title": "Prélude",
+          "page": 27
+        },
+        {
+          "title": "Clair de lune",
+          "page": 36
+        },
+        {
+          "title": "Passepied",
+          "page": 39
+        },
+        {
+          "title": "Children's Corner",
+          "page": 47
+        },
+        {
+          "title": "from Pour le piano",
+          "page": null
+        },
+        {
+          "title": "Sarabande",
+          "page": 86
+        },
+        {
+          "title": "Nocturne in D-flat",
+          "page": 98
+        },
+        {
+          "title": "Jardins sous la pluie",
+          "page": 107
+        },
+        {
+          "title": "En bateau",
+          "page": null
+        }
+      ],
+      "song_count_captured": 15
+    },
+    {
+      "id": "debussy-childrens-corner",
+      "title": "Debussy: Children's Corner (Alfred / Hinson)",
+      "title_confidence": "confident",
+      "composer": "Claude Debussy",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": "EDITED BY MAURICE HINSON",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5625.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Doctor Gradus ad Parnassum",
+          "page": 5
+        },
+        {
+          "title": "Jimbo's Lullaby",
+          "page": 10
+        },
+        {
+          "title": "Serenade for the Doll",
+          "page": 14
+        },
+        {
+          "title": "The Snow Is Dancing",
+          "page": 20
+        },
+        {
+          "title": "The Little Shepherd",
+          "page": 26
+        },
+        {
+          "title": "Golliwogg's Cakewalk",
+          "page": 28
+        }
+      ],
+      "song_count_captured": 6
+    },
+    {
+      "id": "satie-piano-works",
+      "title": "Satie: Piano Works (Collection)",
+      "title_confidence": "uncertain",
+      "composer": "Erik Satie",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5626.jpeg",
+        "IMG_5627.jpeg"
+      ],
+      "flags": [
+        "Comprehensive Satie collection; exact edition/title not captured."
+      ],
+      "songs": [
+        {
+          "title": "Sarabandes (1887)",
+          "page": 1
+        },
+        {
+          "title": "Gymnopédies (Gymnopaedias) (1888)",
+          "page": 11
+        },
+        {
+          "title": "Trois Gnossiennes [Three Dances of Knossos (?)] (1890)",
+          "page": 21
+        },
+        {
+          "title": "Le Fils des Étoiles: Wagnérie Kaldéenne du Sâr Péladan [The Son of the Stars: A Chaldean Wagnery by Sâr Péladan] (1891)",
+          "page": 27
+        },
+        {
+          "title": "Sonneries de la Rose + Croix [Trumpet Calls of the Rose + Cross] (1892)",
+          "page": 34
+        },
+        {
+          "title": "Prélude de La Porte Héroïque du Ciel [Prelude to The Heroic Gate of Heaven] (1894)",
+          "page": 44
+        },
+        {
+          "title": "Pièces Froides [Cold Pieces] (1897)",
+          "page": 46
+        },
+        {
+          "title": "Poudre d'Or [Gold Dust] (c. 1901)",
+          "page": 61
+        },
+        {
+          "title": "5 Morceaux en Forme de Poire (à 4 mains) avec une Manière de Commencement, une Prolongation du même & un En Plus, suivi d'une Redite [5 Pieces in Pear Form (for four hands) with a By Way of a Beginning, an Extension of the Same, and an In Addition, followed by a Repetition] (1903)",
+          "page": 66
+        },
+        {
+          "title": "En Habit de Cheval [In Riding Habit] (four hands) (1911)",
+          "page": 96
+        },
+        {
+          "title": "Aperçus Désagréables [Unpleasant Observations] (four hands) (1912)",
+          "page": 108
+        },
+        {
+          "title": "Véritables Préludes Flasques (pour un chien) [Genuine Flabby Preludes (for a dog)] (1912)",
+          "page": 120
+        },
+        {
+          "title": "Descriptions Automatiques [Automatic Descriptions] (1913)",
+          "page": 125
+        },
+        {
+          "title": "Embryons Desséchés [Dried Embryos] (1913)",
+          "page": 135
+        },
+        {
+          "title": "Croquis et Agaceries d'un Gros Bonhomme en Bois [Sketches and Provocations of a Portly Wooden Mannikin] (1913)",
+          "page": 144
+        },
+        {
+          "title": "Chapitres Tournés en Tous Sens [Chapters Turned Every Which Way] (1913)",
+          "page": 156
+        },
+        {
+          "title": "Vieux Sequins et Vieilles Cuirasses [Old Sequins and Old Breastplates] (1913)",
+          "page": 165
+        }
+      ],
+      "song_count_captured": 17
+    },
+    {
+      "id": "gershwin-complete-preludes",
+      "title": "The Complete Gershwin Preludes for Piano",
+      "title_confidence": "confident",
+      "composer": "George Gershwin",
+      "series": null,
+      "volume": null,
+      "publisher": "Warner Bros. Publications",
+      "arranger_editor": "Editor: Alicia Zizzo; Project Manager: Tony Esposito; Engraver: Fred Smith",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5628.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "PRELUDE I",
+          "page": 7
+        },
+        {
+          "title": "PRELUDE II (Blue Lullaby)",
+          "page": 18
+        },
+        {
+          "title": "PRELUDE (Fragment)",
+          "page": 31
+        },
+        {
+          "title": "PRELUDE (Melody No. 17)",
+          "page": 13
+        },
+        {
+          "title": "PRELUDE (Novelette in Fourths)",
+          "page": 22
+        },
+        {
+          "title": "PRELUDE (Rubato)",
+          "page": 16
+        },
+        {
+          "title": "PRELUDE (Sleepless Night)",
+          "page": 33
+        },
+        {
+          "title": "PRELUDE III (Spanish Prelude)",
+          "page": 27
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "granados-valses-poeticos",
+      "title": "Granados: Valses Poéticos",
+      "title_confidence": "confident",
+      "composer": "Enrique Granados",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5629.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "About the Composer",
+          "page": 4
+        },
+        {
+          "title": "About the Composition",
+          "page": 6
+        },
+        {
+          "title": "About the Edition",
+          "page": 7
+        },
+        {
+          "title": "About the Editor",
+          "page": 7
+        },
+        {
+          "title": "VALSES POÉTICOS — Introducción (Vivace molto)",
+          "page": 8
+        },
+        {
+          "title": "No. 1 Vals melódico (Cadencioso)",
+          "page": 12
+        },
+        {
+          "title": "No. 2 Vals apasionado (Tempo de vals noble)",
+          "page": 14
+        },
+        {
+          "title": "No. 3 Vals lento (Tempo de vals lento)",
+          "page": 18
+        },
+        {
+          "title": "No. 4 Vals humorístico (Allegro humorístico)",
+          "page": 20
+        },
+        {
+          "title": "No. 5 Vals brillante (Allegretto (elegante))",
+          "page": 22
+        },
+        {
+          "title": "No. 6 Vals sentimental (Quasi ad libitum (sentimental))",
+          "page": 24
+        },
+        {
+          "title": "No. 7 Vals mariposa (Vivo)",
+          "page": 26
+        },
+        {
+          "title": "No. 8 Vals ideal (Presto)",
+          "page": 28
+        },
+        {
+          "title": "Final (Tempo dil primo vals)",
+          "page": 30
+        }
+      ],
+      "song_count_captured": 14
+    },
+    {
+      "id": "schubert-moments-impromptus",
+      "title": "Schubert: Moments Musicaux, Op. 94 & Impromptus, Opp. 90, 142",
+      "title_confidence": "confident",
+      "composer": "Franz Schubert",
+      "series": "Masterwork Edition",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": "Edited by Murray Baylor",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5630.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 6 Moments Musicaux + 8 Impromptus to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "ravel-piano-masterpieces",
+      "title": "Ravel: Piano Masterpieces (Collection)",
+      "title_confidence": "probable",
+      "composer": "Maurice Ravel",
+      "series": null,
+      "volume": null,
+      "publisher": "Dover Publications, Inc.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "0-486-78950-X",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5631.jpeg"
+      ],
+      "flags": [
+        "Dover-style collection; exact title not captured. Contents low-res."
+      ],
+      "songs": [
+        {
+          "title": "Menuet antique (Old Minuet), composed 1895, dedicated to Ricardo Viñes",
+          "page": 1
+        },
+        {
+          "title": "Pavane pour une infante défunte (Pavane for a Dead Infanta), 1899, dedicated to Princess E. de Polignac",
+          "page": 9
+        },
+        {
+          "title": "Jeux d'eau (Play of Water), 1901, dedicated to his teacher Gabriel Fauré",
+          "page": 13
+        },
+        {
+          "title": "Sonatine, 1905, dedicated to Mr. and Mrs. Ida Godebski",
+          "page": 18
+        },
+        {
+          "title": "Miroirs, 1904-05",
+          "page": 26
+        },
+        {
+          "title": "Gaspard de la nuit (Aspild Dodger of the Night), 1908",
+          "page": 81
+        },
+        {
+          "title": "Menuet sur le nom d'Haydn (Minuet on the Name of Haydn), 1909",
+          "page": 125
+        }
+      ],
+      "song_count_captured": 7
+    },
+    {
+      "id": "chopin-schirmer",
+      "title": "Chopin: Compositions for the Piano (Schirmer's Library)",
+      "title_confidence": "uncertain",
+      "composer": "Frédéric Chopin",
+      "series": "Schirmer's Library of Musical Classics",
+      "volume": null,
+      "publisher": "G. Schirmer, Inc. (distributed by Hal Leonard Corporation)",
+      "arranger_editor": "Edited, Revised, and Fingered by Rafael Joseffy; Historical and Analytical Comments by James Huneker",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5632.jpeg"
+      ],
+      "flags": [
+        "Photographed page is the Schirmer Chopin SERIES catalog, not this volume's contents. Reshoot the actual contents."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "liszt-liebestraume",
+      "title": "Liszt: Liebesträume — Drei Notturnos (Henle Urtext)",
+      "title_confidence": "confident",
+      "composer": "Franz Liszt",
+      "series": "Urtext",
+      "volume": "634",
+      "publisher": "G. Henle Verlag",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5633.jpeg"
+      ],
+      "flags": [
+        "Cover only. Three Liebesträume to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "debussy-clair-de-lune",
+      "title": "Debussy: Clair de Lune (Alfred / Palmer)",
+      "title_confidence": "confident",
+      "composer": "Claude Debussy",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Willard A. Palmer",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5634.jpeg"
+      ],
+      "flags": [
+        "Cover only. Confirm whether single piece or full Suite Bergamasque."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "liszt-21-short-pieces",
+      "title": "Liszt: 21 Short Piano Pieces (Dover)",
+      "title_confidence": "confident",
+      "composer": "Franz Liszt",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5635.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Introduction",
+          "page": 3
+        },
+        {
+          "title": "Consolations, six pièces, S.172 (1849-50)",
+          "page": 4
+        },
+        {
+          "title": "'Frühling' ('Spring'), Chopin, arr. Liszt, S.480/2 (c.1860)",
+          "page": 20,
+          "composer_printed": "Chopin, arr. Liszt"
+        },
+        {
+          "title": "Vier kleine Klavierstücke (Four Short Piano Pieces), S.192 (1865-76)",
+          "page": 22
+        },
+        {
+          "title": "Fünf Ungarische Volkslieder (Five Hungarian Folksongs), S.245 (1873)",
+          "page": 27
+        },
+        {
+          "title": "Romance Oubliée (Forgotten Romance), S.527 (1880)",
+          "page": 34
+        },
+        {
+          "title": "from Weihnachtsbaum (The Christmas Tree), S.186 (1874-6) — 7 Schlummerlied (Slumber Song)",
+          "page": 35,
+          "from": "Weihnachtsbaum (The Christmas Tree), S.186 (1874-6)"
+        },
+        {
+          "title": "Abschied: Russisches Volkslied (Parting: Russian Folksong), S.251 (1885)",
+          "page": 38
+        },
+        {
+          "title": "En Rêve: Nocturne (Dreaming: Nocturne), S.207 (1885-6)",
+          "page": 42
+        },
+        {
+          "title": "Klavierstück, Fis Dur (Piano Piece, F sharp), S.193 [undated]",
+          "page": 44
+        }
+      ],
+      "song_count_captured": 10
+    },
+    {
+      "id": "mendelssohn-songs-without-words",
+      "title": "Mendelssohn: Songs Without Words (Complete, Alfred / Hinson)",
+      "title_confidence": "confident",
+      "composer": "Felix Mendelssohn",
+      "series": "An Alfred Masterwork Edition",
+      "volume": "Complete",
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5636.jpeg",
+        "IMG_5637.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 48 Songs Without Words to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "debussy-japanese-collection",
+      "title": "Debussy: Piano Collection (Japanese Edition)",
+      "title_confidence": "probable",
+      "composer": "Claude Debussy",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5638.jpeg"
+      ],
+      "flags": [
+        "Japanese-edition Debussy collection; exact title not captured."
+      ],
+      "songs": [
+        {
+          "title": "1 ) Deux Arabesques",
+          "page": 5
+        },
+        {
+          "title": "1ère Arabesque",
+          "page": 5
+        },
+        {
+          "title": "2ème Arabesque",
+          "page": 10
+        },
+        {
+          "title": "2 ) Suite Bergamasque",
+          "page": 16
+        },
+        {
+          "title": "Prélude",
+          "page": 16
+        },
+        {
+          "title": "Menuet",
+          "page": 21
+        },
+        {
+          "title": "Clair de lune",
+          "page": 27
+        },
+        {
+          "title": "Passepied",
+          "page": 33
+        },
+        {
+          "title": "3 ) Pour le Piano",
+          "page": 40
+        },
+        {
+          "title": "Sarabande",
+          "page": 50
+        },
+        {
+          "title": "Toccata",
+          "page": 53
+        },
+        {
+          "title": "4 ) Ballade",
+          "page": 65
+        },
+        {
+          "title": "5 ) Rêverie",
+          "page": 73
+        },
+        {
+          "title": "6 ) Valse romantique",
+          "page": 78
+        },
+        {
+          "title": "7 ) Nocturne",
+          "page": 83
+        },
+        {
+          "title": "8 ) Danse",
+          "page": 90
+        },
+        {
+          "title": "9 ) Mazurka",
+          "page": 100
+        },
+        {
+          "title": "10) D'un cahier d'esquisses",
+          "page": 105
+        },
+        {
+          "title": "11) Masques",
+          "page": 109
+        },
+        {
+          "title": "12) Hommage à Haydn",
+          "page": 121
+        },
+        {
+          "title": "13) La plus que lente",
+          "page": 125
+        },
+        {
+          "title": "14) Berceuse héroïque",
+          "page": 131
+        }
+      ],
+      "song_count_captured": 22
+    },
+    {
+      "id": "yann-tiersen-kerber",
+      "title": "Yann Tiersen: Kerber",
+      "title_confidence": "confident",
+      "composer": "Yann Tiersen",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5639.jpeg"
+      ],
+      "flags": [
+        "Identified by tracklist."
+      ],
+      "songs": [
+        {
+          "title": "Introduction",
+          "page": 7
+        },
+        {
+          "title": "Kerlann",
+          "page": 9
+        },
+        {
+          "title": "Ar Maner Kozh",
+          "page": 14
+        },
+        {
+          "title": "Kerdrall",
+          "page": 21
+        },
+        {
+          "title": "Ker Yegu",
+          "page": 28
+        },
+        {
+          "title": "Ker al Loch",
+          "page": 32
+        },
+        {
+          "title": "Kerber",
+          "page": 43
+        },
+        {
+          "title": "Poull Bojer",
+          "page": 56
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "philip-glass-complete-etudes",
+      "title": "Philip Glass: The Complete Piano Etudes",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": "Book 1 and Book 2",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5640.jpeg",
+        "IMG_5641.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ETUDE 1",
+          "page": 1
+        },
+        {
+          "title": "ETUDE 2",
+          "page": 6
+        },
+        {
+          "title": "ETUDE 3",
+          "page": 10
+        },
+        {
+          "title": "ETUDE 4",
+          "page": 16
+        },
+        {
+          "title": "ETUDE 5",
+          "page": 20
+        },
+        {
+          "title": "ETUDE 6",
+          "page": 23
+        },
+        {
+          "title": "ETUDE 7",
+          "page": 27
+        },
+        {
+          "title": "ETUDE 8",
+          "page": 31
+        },
+        {
+          "title": "ETUDE 9",
+          "page": 34
+        },
+        {
+          "title": "ETUDE 10",
+          "page": 38
+        },
+        {
+          "title": "ETUDE 11",
+          "page": 46
+        },
+        {
+          "title": "ETUDE 12",
+          "page": 54
+        },
+        {
+          "title": "ETUDE 13",
+          "page": 60
+        },
+        {
+          "title": "ETUDE 14",
+          "page": 65
+        },
+        {
+          "title": "ETUDE 15",
+          "page": 70
+        },
+        {
+          "title": "ETUDE 16",
+          "page": 80
+        },
+        {
+          "title": "ETUDE 17",
+          "page": 84
+        },
+        {
+          "title": "ETUDE 18",
+          "page": 92
+        },
+        {
+          "title": "ETUDE 19",
+          "page": 95
+        },
+        {
+          "title": "ETUDE 20",
+          "page": 102
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "library-of-piano-favorites",
+      "title": "The Library of Piano Favorites",
+      "title_confidence": "confident",
+      "series": "The Library of",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5642.jpeg",
+        "IMG_5643.jpeg"
+      ],
+      "flags": [
+        "Contents shot upside-down/low-res — NO songs captured. Reshoot contents pages."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "smta-mezzo-belter-v1",
+      "title": "The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 1",
+      "title_confidence": "probable",
+      "series": "The Singer's Musical Theatre Anthology",
+      "volume": "Mezzo-Soprano/Belter",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Mezzo-Soprano/Belter (voice)",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5644.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "I Got the Sun in the Morning",
+          "page": 14,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "Doin' What Comes Natur'lly",
+          "page": 18,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "Anyone Can Whistle",
+          "page": 26,
+          "from": "ANYONE CAN WHISTLE"
+        },
+        {
+          "title": "The Lady Is a Tramp",
+          "page": 30,
+          "from": "BABES IN ARMS"
+        },
+        {
+          "title": "Don't Tell Mama",
+          "page": 35,
+          "from": "CABARET"
+        },
+        {
+          "title": "What Would You Do?",
+          "page": 46,
+          "from": "CABARET"
+        },
+        {
+          "title": "Cabaret",
+          "page": 52,
+          "from": "CABARET"
+        },
+        {
+          "title": "The Hostess with the Mostes' on the Ball",
+          "page": 61,
+          "from": "CALL ME MADAM"
+        },
+        {
+          "title": "Memory",
+          "page": 68,
+          "from": "CATS"
+        },
+        {
+          "title": "Funny Honey",
+          "page": 73,
+          "from": "CHICAGO"
+        },
+        {
+          "title": "Dance: Ten; Looks: Three",
+          "page": 78,
+          "from": "A CHORUS LINE"
+        },
+        {
+          "title": "Stepsisters' Lament",
+          "page": 94,
+          "from": "CINDERELLA"
+        },
+        {
+          "title": "Don't Cry for Me Argentina",
+          "page": 98,
+          "from": "EVITA"
+        },
+        {
+          "title": "How Are Things in Glocca Morra?",
+          "page": 87,
+          "from": "FINIAN'S RAINBOW"
+        },
+        {
+          "title": "Look to the Rainbow",
+          "page": 90,
+          "from": "FINIAN'S RAINBOW"
+        },
+        {
+          "title": "I Enjoy Being a Girl",
+          "page": 104,
+          "from": "FLOWER DRUM SONG"
+        },
+        {
+          "title": "Broadway Baby",
+          "page": 114,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Could I Leave You",
+          "page": 120,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "In Buddy's Eyes",
+          "page": 136,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Losing My Mind",
+          "page": 131,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Diamonds Are a Girl's Best Friend",
+          "page": 142,
+          "from": "GENTLEMEN PREFER BLONDES"
+        },
+        {
+          "title": "Ain't There Anyone Here for Love?",
+          "page": 150,
+          "from": "GENTLEMEN PREFER BLONDES"
+        },
+        {
+          "title": "Turn Back, O Man",
+          "page": 154,
+          "from": "GODSPELL"
+        },
+        {
+          "title": "Take Back Your Mink",
+          "page": 160,
+          "from": "GUYS AND DOLLS"
+        },
+        {
+          "title": "Some People",
+          "page": 170,
+          "from": "GYPSY"
+        },
+        {
+          "title": "Happy to Keep His Dinner Warm",
+          "page": 165,
+          "from": "HOW TO SUCCEED IN BUSINESS WITHOUT REALLY TRYING"
+        },
+        {
+          "title": "Always True to You in My Fashion",
+          "page": 186,
+          "from": "KISS ME, KATE"
+        },
+        {
+          "title": "Why Can't You Behave?",
+          "page": 182,
+          "from": "KISS ME, KATE"
+        },
+        {
+          "title": "The Miller's Son",
+          "page": 191,
+          "from": "A LITTLE NIGHT MUSIC"
+        },
+        {
+          "title": "Send in the Clowns",
+          "page": 202,
+          "from": "A LITTLE NIGHT MUSIC"
+        },
+        {
+          "title": "I Cain't Say No",
+          "page": 206,
+          "from": "OKLAHOMA!"
+        },
+        {
+          "title": "He Wasn't You",
+          "page": 213,
+          "from": "ON A CLEAR DAY YOU CAN SEE FOREVER"
+        },
+        {
+          "title": "What Did I Have That I Don't Have?",
+          "page": 216,
+          "from": "ON A CLEAR DAY YOU CAN SEE FOREVER"
+        },
+        {
+          "title": "A Cockeyed Optimist",
+          "page": 222,
+          "from": "SOUTH PACIFIC"
+        },
+        {
+          "title": "I'm in Love with a Wonderful Guy",
+          "page": 226,
+          "from": "SOUTH PACIFIC"
+        },
+        {
+          "title": "By the Sea",
+          "page": 234,
+          "from": "SWEENEY TODD"
+        },
+        {
+          "title": "The Worst Pies in London",
+          "page": 243,
+          "from": "SWEENEY TODD"
+        },
+        {
+          "title": "An Old Man",
+          "page": 256,
+          "from": "TWO BY TWO"
+        },
+        {
+          "title": "I Ain't Down Yet",
+          "page": 250,
+          "from": "THE UNSINKABLE MOLLY BROWN"
+        }
+      ],
+      "song_count_captured": 39
+    },
+    {
+      "id": "smta-mezzo-belter-v2",
+      "title": "The Singer's Musical Theatre Anthology — Mezzo-Soprano/Belter, Vol. 2",
+      "title_confidence": "probable",
+      "series": "The Singer's Musical Theatre Anthology",
+      "volume": "Mezzo-Soprano/Belter Volume 2",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Mezzo-Soprano/Belter (voice)",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5645.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Gentleman Is a Dope",
+          "page": 20,
+          "from": "ALLEGRO"
+        },
+        {
+          "title": "There Won't Be Trumpets",
+          "page": 14,
+          "from": "ANYONE CAN WHISTLE"
+        },
+        {
+          "title": "I Got a Kick Out of You",
+          "page": 30,
+          "from": "ANYTHING GOES"
+        },
+        {
+          "title": "I Wish I Were in Love Again",
+          "page": 35,
+          "from": "BABES IN ARMS"
+        },
+        {
+          "title": "Johnny One Note",
+          "page": 40,
+          "from": "BABES IN ARMS"
+        },
+        {
+          "title": "Fifty Percent",
+          "page": 46,
+          "from": "BALLROOM"
+        },
+        {
+          "title": "The Party's Over",
+          "page": 75,
+          "from": "BELLS ARE RINGING"
+        },
+        {
+          "title": "Long Before I Knew You",
+          "page": 70,
+          "from": "BELLS ARE RINGING"
+        },
+        {
+          "title": "Someone Else's Story",
+          "page": 59,
+          "from": "CHESS"
+        },
+        {
+          "title": "What I Did for Love",
+          "page": 84,
+          "from": "A CHORUS LINE"
+        },
+        {
+          "title": "Another Hundred People",
+          "page": 90,
+          "from": "COMPANY"
+        },
+        {
+          "title": "I'd Be Surprisingly Good for You",
+          "page": 99,
+          "from": "EVITA"
+        },
+        {
+          "title": "The Music That Makes Me Dance",
+          "page": 79,
+          "from": "FUNNY GIRL"
+        },
+        {
+          "title": "I Want to Be Bad",
+          "page": 82,
+          "from": "GOOD NEWS"
+        },
+        {
+          "title": "Look at Me, I'm Sandra Dee",
+          "page": 86,
+          "from": "GREASE"
+        },
+        {
+          "title": "Adelaide's Lament",
+          "page": 93,
+          "from": "GUYS AND DOLLS"
+        },
+        {
+          "title": "Small World",
+          "page": 96,
+          "from": "GYPSY"
+        },
+        {
+          "title": "I Never Has Seen Snow",
+          "page": 104,
+          "from": "HOUSE OF FLOWERS"
+        },
+        {
+          "title": "Who Knows",
+          "page": 110,
+          "from": "I CAN GET IT FOR YOU WHOLESALE"
+        },
+        {
+          "title": "He Walked Into My Life",
+          "page": 119,
+          "from": "MAME"
+        },
+        {
+          "title": "He Deserves Each Other",
+          "page": 123,
+          "from": "ME AND JULIET"
+        },
+        {
+          "title": "On Now You Know",
+          "page": 129,
+          "from": "MERRILY WE ROLL ALONG"
+        },
+        {
+          "title": "I Dreamed a Dream",
+          "page": 132,
+          "from": "LES MISÉRABLES"
+        },
+        {
+          "title": "On My Own",
+          "page": 138,
+          "from": "LES MISÉRABLES"
+        },
+        {
+          "title": "The Wages of Sin",
+          "page": 144,
+          "from": "THE MYSTERY OF EDWIN DROOD"
+        },
+        {
+          "title": "My Husband Makes Movies",
+          "page": 146,
+          "from": "NINE"
+        },
+        {
+          "title": "The Sweetest Sounds",
+          "page": 156,
+          "from": "NO STRINGS"
+        },
+        {
+          "title": "As Long as He Needs Me",
+          "page": 170,
+          "from": "OLIVER!"
+        },
+        {
+          "title": "I Can Cook Too",
+          "page": 161,
+          "from": "ON THE TOWN"
+        },
+        {
+          "title": "Neverland",
+          "page": 188,
+          "from": "PETER PAN"
+        },
+        {
+          "title": "It's a Lovely Day to Run a Love Affair",
+          "page": 193,
+          "from": "PLAIN AND FANCY"
+        },
+        {
+          "title": "Hold On",
+          "page": 192,
+          "from": "THE SECRET GARDEN"
+        },
+        {
+          "title": "A Trip to the Library",
+          "page": 198,
+          "from": "SHE LOVES ME"
+        },
+        {
+          "title": "Tell Me on a Sunday",
+          "page": 207,
+          "from": "SONG AND DANCE"
+        },
+        {
+          "title": "Children and Art",
+          "page": 212,
+          "from": "SUNDAY IN THE PARK WITH GEORGE"
+        },
+        {
+          "title": "He Really Knows Me",
+          "page": 222,
+          "from": "THEY'RE PLAYING OUR SONG"
+        },
+        {
+          "title": "Paris Makes Me Horny",
+          "page": 198,
+          "from": "VICTOR/VICTORIA"
+        }
+      ],
+      "song_count_captured": 37
+    },
+    {
+      "id": "smta-volume-unconfirmed",
+      "title": "The Singer's Musical Theatre Anthology — (Volume Unconfirmed)",
+      "title_confidence": "uncertain",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5646.jpeg"
+      ],
+      "flags": [
+        "Contents page from an SMTA volume; which voice type/volume unconfirmed (may continue Vol. 2)."
+      ],
+      "songs": [
+        {
+          "title": "You Can't Get a Man With a Gun",
+          "page": null,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "They Say It's Wonderful",
+          "page": null,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "Gorgeous",
+          "page": null,
+          "from": "THE APPLE TREE"
+        },
+        {
+          "title": "A Change in Me",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "So What?",
+          "page": null,
+          "from": "CABARET"
+        },
+        {
+          "title": "Mein Herr",
+          "page": null,
+          "from": "CABARET"
+        },
+        {
+          "title": "Maybe This Time",
+          "page": null,
+          "from": "CABARET"
+        },
+        {
+          "title": "Class",
+          "page": null,
+          "from": "CHICAGO"
+        },
+        {
+          "title": "When You're Good to Mama",
+          "page": null,
+          "from": "CHICAGO"
+        },
+        {
+          "title": "Nothing",
+          "page": null,
+          "from": "A CHORUS LINE"
+        },
+        {
+          "title": "The Ladies Who Lunch",
+          "page": null,
+          "from": "COMPANY"
+        },
+        {
+          "title": "Heads or Tails",
+          "page": null,
+          "from": "COWGIRLS"
+        },
+        {
+          "title": "Don't Call Me Trailer Trash",
+          "page": null,
+          "from": "COWGIRLS"
+        },
+        {
+          "title": "Adventure",
+          "page": null,
+          "from": "DO RE MI"
+        },
+        {
+          "title": "Ah, But Underneath",
+          "page": null,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Uptown, Downtown",
+          "page": null,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Can You Find It in Your Heart?",
+          "page": null,
+          "from": "FOOTLOOSE"
+        },
+        {
+          "title": "Don't Rain on My Parade",
+          "page": null,
+          "from": "FUNNY GIRL"
+        },
+        {
+          "title": "But Not for Me",
+          "page": null,
+          "from": "GIRL CRAZY"
+        },
+        {
+          "title": "Everything's Coming Up Roses",
+          "page": null,
+          "from": "GYPSY"
+        },
+        {
+          "title": "Rose's Turn",
+          "page": null,
+          "from": "GYPSY"
+        },
+        {
+          "title": "Miss Marmelstein",
+          "page": 159,
+          "from": "I CAN GET IT FOR YOU WHOLESALE"
+        },
+        {
+          "title": "Always a Bridesmaid",
+          "page": 166,
+          "from": "I LOVE YOU, YOU'RE PERFECT, NOW CHANGE"
+        },
+        {
+          "title": "Nothing Really Happened",
+          "page": 174,
+          "from": "IS THERE LIFE AFTER HIGH SCHOOL?"
+        },
+        {
+          "title": "Someone Like You",
+          "page": 181,
+          "from": "JEKYLL & HYDE"
+        },
+        {
+          "title": "A New Life",
+          "page": 186,
+          "from": "JEKYLL & HYDE"
+        },
+        {
+          "title": "My Heart Belongs to Daddy",
+          "page": 192,
+          "from": "LEAVE IT TO ME"
+        },
+        {
+          "title": "I'd Give My Life for You",
+          "page": 196,
+          "from": "MISS SAIGON"
+        },
+        {
+          "title": "My Child Will Forgive Me",
+          "page": 202,
+          "from": "PARADE"
+        },
+        {
+          "title": "You Don't Know This Man",
+          "page": 206,
+          "from": "PARADE"
+        },
+        {
+          "title": "Teaching Third Grade",
+          "page": 210,
+          "from": "RUTHLESS"
+        },
+        {
+          "title": "I Had Myself a True Love",
+          "page": 218,
+          "from": "ST. LOUIS WOMAN"
+        },
+        {
+          "title": "Who Will Love Me As I Am?",
+          "page": 224,
+          "from": "SIDE SHOW"
+        },
+        {
+          "title": "Let Me Finish",
+          "page": 230,
+          "from": "SONG AND DANCE"
+        },
+        {
+          "title": "Third Letter Home",
+          "page": 237,
+          "from": "SONG AND DANCE"
+        },
+        {
+          "title": "Stars and the Moon",
+          "page": 268,
+          "from": "SONGS FOR A NEW WORLD"
+        },
+        {
+          "title": "Honey Bun",
+          "page": 240,
+          "from": "SOUTH PACIFIC"
+        },
+        {
+          "title": "As If We Never Said Goodbye",
+          "page": 244,
+          "from": "SUNSET BOULEVARD"
+        },
+        {
+          "title": "With One Look",
+          "page": 250,
+          "from": "SUNSET BOULEVARD"
+        },
+        {
+          "title": "Just a Housewife",
+          "page": 254,
+          "from": "WORKING"
+        },
+        {
+          "title": "My New Philosophy",
+          "page": 262,
+          "from": "YOU'RE A GOOD MAN, CHARLIE BROWN"
+        }
+      ],
+      "song_count_captured": 41
+    },
+    {
+      "id": "100-all-time-popular-hits",
+      "title": "100 All-Time Popular Hits",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5647.jpeg",
+        "IMG_5648.jpeg"
+      ],
+      "flags": [
+        "Only the A–J contents column captured (~47 of 100). Reshoot remaining contents pages."
+      ],
+      "songs": [
+        {
+          "title": "The Ace In The Hole",
+          "page": 5
+        },
+        {
+          "title": "Alexander's Ragtime Band",
+          "page": 8
+        },
+        {
+          "title": "All Through The Night",
+          "page": 12
+        },
+        {
+          "title": "Amazing Grace",
+          "page": 14
+        },
+        {
+          "title": "Angels We Have Heard On High",
+          "page": 16
+        },
+        {
+          "title": "Auld Lang Syne",
+          "page": 13
+        },
+        {
+          "title": "Away In A Manger",
+          "page": 18
+        },
+        {
+          "title": "Ballin' The Jack",
+          "page": 20
+        },
+        {
+          "title": "The Band Played On",
+          "page": 22
+        },
+        {
+          "title": "Beautiful Dreamer",
+          "page": 26
+        },
+        {
+          "title": "Beautiful Isle Of Somewhere",
+          "page": 28
+        },
+        {
+          "title": "Because",
+          "page": 30
+        },
+        {
+          "title": "Believe Me If All Those Endearing Young Charms",
+          "page": 32
+        },
+        {
+          "title": "Bill Bailey, Won't You Please Come Home?",
+          "page": 34
+        },
+        {
+          "title": "Black Is The Color",
+          "page": 38
+        },
+        {
+          "title": "By The Light Of The Silvery Moon",
+          "page": 39
+        },
+        {
+          "title": "Camptown Races",
+          "page": 42
+        },
+        {
+          "title": "Carol Of The Bells",
+          "page": 44
+        },
+        {
+          "title": "Come, Josephine, In My Flying Machine (Up She Goes!)",
+          "page": 46
+        },
+        {
+          "title": "Cuddle Up A Little Closer, Lovey Mine",
+          "page": 48
+        },
+        {
+          "title": "Daisy Bell (Bicycle Built For Two)",
+          "page": 49
+        },
+        {
+          "title": "Deck The Halls",
+          "page": 54
+        },
+        {
+          "title": "Deep River",
+          "page": 58
+        },
+        {
+          "title": "Down By The Old Mill Stream",
+          "page": 55
+        },
+        {
+          "title": "Down By The Riverside",
+          "page": 72
+        },
+        {
+          "title": "Fascination",
+          "page": 60
+        },
+        {
+          "title": "The First Noel",
+          "page": 62
+        },
+        {
+          "title": "Forty-Five Minutes From Broadway",
+          "page": 64
+        },
+        {
+          "title": "Give My Regards To Broadway",
+          "page": 68
+        },
+        {
+          "title": "Go Tell It On The Mountain",
+          "page": 75
+        },
+        {
+          "title": "God Rest Ye Merry Gentlemen",
+          "page": 76
+        },
+        {
+          "title": "Good Christian Men, Rejoice",
+          "page": 77
+        },
+        {
+          "title": "Hark! The Herald Angels Sing",
+          "page": 78
+        },
+        {
+          "title": "Hello! Ma Baby",
+          "page": 80
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 84
+        },
+        {
+          "title": "I Saw Three Ships",
+          "page": 86
+        },
+        {
+          "title": "I Want A Girl (Just Like The Girl)",
+          "page": 90
+        },
+        {
+          "title": "I Wonder Who's Kissing Her Now",
+          "page": 87
+        },
+        {
+          "title": "Ida! Sweet As Apple Cider",
+          "page": 92
+        },
+        {
+          "title": "In My Merry Oldsmobile",
+          "page": 97
+        },
+        {
+          "title": "In The Evening By The Moonlight",
+          "page": 100
+        },
+        {
+          "title": "In The Good Old Summertime",
+          "page": 102
+        },
+        {
+          "title": "In The Shade Of The Old Apple Tree",
+          "page": 105
+        },
+        {
+          "title": "It Came Upon The Midnight Clear",
+          "page": 110
+        },
+        {
+          "title": "I'll Take You Home Again, Kathleen",
+          "page": 112
+        },
+        {
+          "title": "Jeanie With The Light Brown Hair",
+          "page": 115
+        },
+        {
+          "title": "Jingle Bells",
+          "page": 118
+        }
+      ],
+      "song_count_captured": 47
+    },
+    {
+      "id": "joy-of-wedding-music",
+      "title": "The Joy of Wedding Music",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": "Denes Agay",
+      "instrumentation": "piano, with words and chord names",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5649.jpeg",
+        "IMG_5650.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Amazing Grace",
+          "page": 9,
+          "composer_printed": "Folk hymn"
+        },
+        {
+          "title": "Arioso",
+          "page": 16,
+          "composer_printed": "Johann Sebastian Bach"
+        },
+        {
+          "title": "Ave Maria",
+          "page": 20,
+          "composer_printed": "Franz Schubert"
+        },
+        {
+          "title": "Because",
+          "page": 28,
+          "composer_printed": "Guy d'Hardelot"
+        },
+        {
+          "title": "Canon",
+          "page": 75,
+          "composer_printed": "Johann Pachelbel"
+        },
+        {
+          "title": "Dedication",
+          "page": 44,
+          "composer_printed": "Robert Schumann"
+        },
+        {
+          "title": "I Love You",
+          "page": 43,
+          "composer_printed": "Edvard Grieg"
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 27,
+          "composer_printed": "Carrie Jacobs Bond"
+        },
+        {
+          "title": "In the Garden from Rustic Wedding Symphony",
+          "page": 26,
+          "composer_printed": "Karl Goldmark",
+          "from": "Rustic Wedding Symphony"
+        },
+        {
+          "title": "Jesu, Joy of Man's Desiring",
+          "page": 23,
+          "composer_printed": "Johann Sebastian Bach"
+        },
+        {
+          "title": "The Lord's Prayer",
+          "page": 32,
+          "composer_printed": "Albert Hay Malotte"
+        },
+        {
+          "title": "Morning Has Broken",
+          "page": 8,
+          "composer_printed": "Gaelic melody"
+        },
+        {
+          "title": "Old Irish Blessing",
+          "page": 54,
+          "composer_printed": "Denes Agay"
+        },
+        {
+          "title": "The Pachelbel Canon",
+          "page": 75,
+          "composer_printed": "Johann Pachelbel"
+        },
+        {
+          "title": "Sheep May Safely Graze",
+          "page": 18,
+          "composer_printed": "Johann Sebastian Bach"
+        },
+        {
+          "title": "Wedding Prayer",
+          "page": 40,
+          "composer_printed": "Fern Glasgow Dunlap"
+        },
+        {
+          "title": "Air from Water Music",
+          "page": 5,
+          "composer_printed": "George Frideric Handel",
+          "from": "Water Music"
+        },
+        {
+          "title": "Bridal Chorus from Lohengrin",
+          "page": 10,
+          "composer_printed": "Richard Wagner",
+          "from": "Lohengrin"
+        },
+        {
+          "title": "Joyful, Joyful We Adore Thee from Ninth Symphony",
+          "page": 3,
+          "composer_printed": "Ludwig van Beethoven",
+          "from": "Ninth Symphony"
+        },
+        {
+          "title": "Love Divine, All Loves Excelling",
+          "page": 17,
+          "composer_printed": "Charles Wesley-John Zundel"
+        },
+        {
+          "title": "Now Thank We All Our God",
+          "page": 80,
+          "composer_printed": "Martin Rinkart-Johann Cruger"
+        },
+        {
+          "title": "O Perfect Love",
+          "page": 6,
+          "composer_printed": "Dorothy F. Gurney-Sir Joseph Barnby"
+        },
+        {
+          "title": "Praise My Soul the King of Heaven",
+          "page": 7,
+          "composer_printed": "Henry F. Lyte-Sir John Goss"
+        },
+        {
+          "title": "Solemn Procession",
+          "page": 14,
+          "composer_printed": "Henry Purcell"
+        },
+        {
+          "title": "Trumpet Tune",
+          "page": 4,
+          "composer_printed": "Henry Purcell"
+        },
+        {
+          "title": "Trumpet Voluntary",
+          "page": 12,
+          "composer_printed": "Jeremiah Clark"
+        },
+        {
+          "title": "Baroque Fanfare",
+          "page": 30,
+          "composer_printed": "Jean Joseph Mouret"
+        },
+        {
+          "title": "Festival Rondo",
+          "page": 74,
+          "composer_printed": "Henry Purcell"
+        },
+        {
+          "title": "Psalm XVIII",
+          "page": 78,
+          "composer_printed": "Benedetto Marcello"
+        },
+        {
+          "title": "Wedding March from A Midsummer Night's Dream",
+          "page": 72,
+          "composer_printed": "Felix Mendelssohn",
+          "from": "A Midsummer Night's Dream"
+        },
+        {
+          "title": "Bridge Over Troubled Water",
+          "page": 62,
+          "composer_printed": "Paul Simon"
+        },
+        {
+          "title": "For You, My Love (solo or duet)",
+          "page": 35,
+          "composer_printed": "Sidney Leif-Denes Agay"
+        },
+        {
+          "title": "I Need You To Turn To",
+          "page": 60,
+          "composer_printed": "Elton John-Bernie Taupin"
+        },
+        {
+          "title": "One Hand-One Heart from West Side Story",
+          "page": 58,
+          "composer_printed": "Stephen Sondheim-Leonard Bernstein",
+          "from": "West Side Story"
+        },
+        {
+          "title": "Since You've Asked",
+          "page": 66,
+          "composer_printed": "Judy Collins"
+        },
+        {
+          "title": "Somewhere from West Side Story",
+          "page": 51,
+          "composer_printed": "Stephen Sondheim-Leonard Bernstein",
+          "from": "West Side Story"
+        },
+        {
+          "title": "We've Only Just Begun",
+          "page": 48,
+          "composer_printed": "Paul Williams-Roger Nichols"
+        },
+        {
+          "title": "A Whiter Shade Of Pale",
+          "page": 69,
+          "composer_printed": "Gary Brooker-Keith Reid"
+        }
+      ],
+      "song_count_captured": 38
+    },
+    {
+      "id": "60s-countdown",
+      "title": "60s Countdown",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "G. Schirmer / Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5651.jpeg",
+        "IMG_5652.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Ain't No Mountain High Enough",
+          "page": null
+        },
+        {
+          "title": "Ain't Too Proud to Beg",
+          "page": null
+        },
+        {
+          "title": "Aquarius/Let the Sunshine In",
+          "page": null
+        },
+        {
+          "title": "Baby, I Need Your Lovin'",
+          "page": null
+        },
+        {
+          "title": "Bad Moon Rising",
+          "page": null
+        },
+        {
+          "title": "Be True to Your School",
+          "page": null
+        },
+        {
+          "title": "Blue on Blue",
+          "page": null
+        },
+        {
+          "title": "California Girls",
+          "page": null
+        },
+        {
+          "title": "Catch the Wind",
+          "page": null
+        },
+        {
+          "title": "Cathy's Clown",
+          "page": null
+        },
+        {
+          "title": "The Cheater",
+          "page": null
+        },
+        {
+          "title": "Classical Gas",
+          "page": null
+        },
+        {
+          "title": "Crying",
+          "page": null
+        },
+        {
+          "title": "Dancing in the Street",
+          "page": null
+        },
+        {
+          "title": "Do You Love Me",
+          "page": null
+        },
+        {
+          "title": "(Sittin' On) The Dock of the Bay",
+          "page": null
+        },
+        {
+          "title": "Does Anybody Really Know What Time It Is?",
+          "page": null
+        },
+        {
+          "title": "Down in the Boondocks",
+          "page": null
+        },
+        {
+          "title": "Down on the Corner",
+          "page": null
+        },
+        {
+          "title": "Elusive Butterfly",
+          "page": null
+        },
+        {
+          "title": "Fingertips (Part 2)",
+          "page": null
+        },
+        {
+          "title": "For Once in My Life",
+          "page": null
+        },
+        {
+          "title": "Fun, Fun, Fun",
+          "page": null
+        },
+        {
+          "title": "Games People Play",
+          "page": null
+        },
+        {
+          "title": "Georgia on My Mind",
+          "page": null
+        },
+        {
+          "title": "Goldfinger",
+          "page": null
+        },
+        {
+          "title": "Good Morning Starshine",
+          "page": null
+        },
+        {
+          "title": "Green Onions",
+          "page": null
+        },
+        {
+          "title": "Hats Off to Larry",
+          "page": null
+        },
+        {
+          "title": "Help Me Rhonda",
+          "page": null
+        },
+        {
+          "title": "Hey! Baby!",
+          "page": null
+        },
+        {
+          "title": "Hold On! I'm Coming",
+          "page": null
+        },
+        {
+          "title": "The House of the Rising Sun",
+          "page": null
+        },
+        {
+          "title": "Hurdy Gurdy Man",
+          "page": null
+        },
+        {
+          "title": "I Heard It Through the Grapevine",
+          "page": null
+        },
+        {
+          "title": "I Knew You When",
+          "page": null
+        },
+        {
+          "title": "In Dreams",
+          "page": null
+        },
+        {
+          "title": "It's Over",
+          "page": null
+        },
+        {
+          "title": "It's Up to You",
+          "page": null
+        },
+        {
+          "title": "Knock on Wood",
+          "page": 7
+        },
+        {
+          "title": "Light My Fire",
+          "page": 80
+        },
+        {
+          "title": "Mellow Yellow",
+          "page": 152
+        },
+        {
+          "title": "Mockingbird",
+          "page": 54
+        },
+        {
+          "title": "Moon River",
+          "page": 142
+        },
+        {
+          "title": "Mother-in-Law",
+          "page": 46
+        },
+        {
+          "title": "Oh, Pretty Woman",
+          "page": 75
+        },
+        {
+          "title": "The Pink Panther Theme",
+          "page": 188
+        },
+        {
+          "title": "A Place in the Sun",
+          "page": 50
+        },
+        {
+          "title": "Reach Out of the Darkness",
+          "page": 174
+        },
+        {
+          "title": "(I'm A) Road Runner",
+          "page": 139
+        },
+        {
+          "title": "The Shadow of Your Smile",
+          "page": null
+        },
+        {
+          "title": "Sheila",
+          "page": 148
+        },
+        {
+          "title": "Somewhere, My Love (Lara's Theme From \"Doctor Zhivago\")",
+          "page": 162,
+          "from": "Doctor Zhivago"
+        },
+        {
+          "title": "Spooky",
+          "page": 56
+        },
+        {
+          "title": "Stormy",
+          "page": 150
+        },
+        {
+          "title": "Sunny",
+          "page": null
+        },
+        {
+          "title": "Sweet Pea",
+          "page": null
+        },
+        {
+          "title": "Then You Can Tell Me Goodbye",
+          "page": 113
+        },
+        {
+          "title": "A Time for Us (Love Theme From Romeo and Juliet)",
+          "page": 165,
+          "from": "Romeo and Juliet"
+        },
+        {
+          "title": "Too Busy Thinking About My Baby",
+          "page": 10
+        },
+        {
+          "title": "Traces",
+          "page": 52
+        },
+        {
+          "title": "The Tracks of My Tears",
+          "page": 84
+        },
+        {
+          "title": "Travelin' Man",
+          "page": 168
+        },
+        {
+          "title": "The Way You Do the Things You Do",
+          "page": 100
+        },
+        {
+          "title": "What Becomes of the Broken-Hearted",
+          "page": 197
+        },
+        {
+          "title": "When Will I Be Loved",
+          "page": 209
+        },
+        {
+          "title": "White Rabbit",
+          "page": 116
+        },
+        {
+          "title": "A Whiter Shade of Pale",
+          "page": 162
+        },
+        {
+          "title": "Winchester Cathedral",
+          "page": 110
+        },
+        {
+          "title": "The Windmills of Your Mind",
+          "page": 203
+        },
+        {
+          "title": "Wouldn't It Be Nice?",
+          "page": 146
+        },
+        {
+          "title": "Yester-Me, Yester-You, Yesterday",
+          "page": 63
+        },
+        {
+          "title": "You Can't Hurry Love",
+          "page": 155
+        },
+        {
+          "title": "Young World",
+          "page": 22
+        },
+        {
+          "title": "You've Made Me So Very Happy",
+          "page": 60
+        }
+      ],
+      "song_count_captured": 75
+    },
+    {
+      "id": "59-piano-solos",
+      "title": "59 Piano Solos You Like to Play",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "G. Schirmer, Inc. (distributed by Hal Leonard)",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5653.jpeg",
+        "IMG_5654.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Tango in D",
+          "page": 4,
+          "composer_printed": "Albeniz, Isaac (b. Camprodon, Spain, 1860; d. Cambro, 1909)"
+        },
+        {
+          "title": "Solfeggietto",
+          "page": 6,
+          "composer_printed": "Bach, C. P. E. (b. Weimar, Germany, 1714; d. Hamburg, 1788)"
+        },
+        {
+          "title": "Prelude in C (Well-Tempered Clavier, Book I)",
+          "page": 10,
+          "composer_printed": "Bach, J. S. (b. Eisenach, Germany, 1685; d. Leipzig, 1750)",
+          "from": "Well-Tempered Clavier, Book I"
+        },
+        {
+          "title": "Prelude in Bb minor (Well-Tempered Clavier, Book I)",
+          "page": 12,
+          "composer_printed": "Bach, J. S. (b. Eisenach, Germany, 1685; d. Leipzig, 1750)",
+          "from": "Well-Tempered Clavier, Book I"
+        },
+        {
+          "title": "Variations on \"Nel cor piu non mi sento\"",
+          "page": 14,
+          "composer_printed": "Beethoven, Ludwig van (b. Bonn, Germany, 1770; d. Vienna, 1827)"
+        },
+        {
+          "title": "Minuet in G",
+          "page": 24,
+          "composer_printed": "Beethoven, Ludwig van (b. Bonn, Germany, 1770; d. Vienna, 1827)"
+        },
+        {
+          "title": "Hungarian Dance, No. 5",
+          "page": 28,
+          "composer_printed": "Brahms, Johannes (b. Hamburg, Germany, 1833; d. Vienna, 1897)"
+        },
+        {
+          "title": "Waltz in A flat",
+          "page": 30,
+          "composer_printed": "Brahms, Johannes (b. Hamburg, Germany, 1833; d. Vienna, 1897)"
+        },
+        {
+          "title": "Scarf Dance",
+          "page": 33,
+          "composer_printed": "Chaminade, Cecile (b. Paris, France, 1861)"
+        },
+        {
+          "title": "Prelude in A, Op. 28, No. 7",
+          "page": 33,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Prelude in C Minor, Op. 28, No. 20",
+          "page": 34,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Waltz (\"Minute\") in Db, Op. 64, No. 1",
+          "page": 38,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Mazurka in Bb, Op. 7, No. 1",
+          "page": 40,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Polonaise (\"Military\") in A, Op. 40, No. 1",
+          "page": 47,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Orientale",
+          "page": 50,
+          "composer_printed": "Cui, Cesar (b. Vilna, Russia, 1835; d. Vilna, 1918)"
+        },
+        {
+          "title": "Humoreske",
+          "page": 54,
+          "composer_printed": "Dvorak, Antonin (b. Muhlhausen, Czechoslovakia, 1841; d. Prague, 1904)"
+        },
+        {
+          "title": "Love's Greeting (Salut d'amour)",
+          "page": 58,
+          "composer_printed": "Elgar, Sir Edward (b. Broadheath, England, 1857; d. Marl Bank, Worcester, England, 1934)"
+        },
+        {
+          "title": "Poem",
+          "page": 60,
+          "composer_printed": "Fibich, Zdenko (b. Seborsitz, Czechoslovakia, 1850; d. Prague, 1900)"
+        },
+        {
+          "title": "Chanson",
+          "page": 63,
+          "composer_printed": "Friml, Rudolf (b. Prague, Czechoslovakia, 1881)"
+        },
+        {
+          "title": "Spanish Dance (Playera)",
+          "page": 67,
+          "composer_printed": "Granados, Enrique (b. Lerida, Spain, 1867; d. at sea, 1916)"
+        },
+        {
+          "title": "Album-Leaf",
+          "page": 68,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "Anitra's Dance",
+          "page": null,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "To Spring",
+          "page": 71,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "March of the Dwarfs",
+          "page": 76,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "Largo",
+          "page": 82,
+          "composer_printed": "Handel, G. F. (b. Halle, Germany, 1685; d. London, 1759)"
+        },
+        {
+          "title": "Crescendo",
+          "page": 84,
+          "composer_printed": "Lasson, Per (b. Oslo, Norway, 1859; d. Oslo, 1883)"
+        },
+        {
+          "title": "Consolation, No. 5, in E",
+          "page": 87,
+          "composer_printed": "Liszt, Franz (b. Raiding, Hungary, 1811; d. Bayreuth, Germany, 1886)"
+        },
+        {
+          "title": "Liebestraum, No. 3, in Ab",
+          "page": 90,
+          "composer_printed": "Liszt, Franz (b. Raiding, Hungary, 1811; d. Bayreuth, Germany, 1886)"
+        },
+        {
+          "title": "Intermezzo from \"Cavalleria rusticana\"",
+          "page": 96,
+          "composer_printed": "Mascagni, Pietro (b. Leghorn, Italy, 1863)",
+          "from": "Cavalleria rusticana"
+        },
+        {
+          "title": "Melodie (Elegie)",
+          "page": 98,
+          "composer_printed": "Massenet, Jules (b. Montaud, France, 1842; d. Paris, 1912)"
+        },
+        {
+          "title": "Spring Song",
+          "page": 100,
+          "composer_printed": "Mendelssohn, Felix (b. Hamburg, Germany, 1809; d. Leipzig, 1847)"
+        },
+        {
+          "title": "Venetian Boat-Song, No. 1, in G Minor",
+          "page": 104,
+          "composer_printed": "Mendelssohn, Felix (b. Hamburg, Germany, 1809; d. Leipzig, 1847)"
+        },
+        {
+          "title": "Consolation",
+          "page": 106,
+          "composer_printed": "Mendelssohn, Felix (b. Hamburg, Germany, 1809; d. Leipzig, 1847)"
+        },
+        {
+          "title": "Serenata",
+          "page": 107,
+          "composer_printed": "Moszkowski, Moritz (b. Breslau, Germany, 1854; d. Paris, 1925)"
+        },
+        {
+          "title": "Rondo (alla turca)",
+          "page": 110,
+          "composer_printed": "Mozart, W. A. (b. Salzburg, Austria, 1756; d. Vienna, 1791)"
+        },
+        {
+          "title": "Barcarolle, from \"Les Contes d'Hoffmann\"",
+          "page": 114,
+          "composer_printed": "Offenbach, Jacques (b. Cologne, Germany, 1819; d. Paris, 1880)",
+          "from": "Les Contes d'Hoffmann"
+        },
+        {
+          "title": "May Night",
+          "page": 116,
+          "composer_printed": "Palmgren, Selim (b. Pori, Finland, 1878)"
+        },
+        {
+          "title": "Prelude in C# Minor",
+          "page": 119,
+          "composer_printed": "Rachmaninoff, Sergei (b. Onega, Russia, 1873)"
+        },
+        {
+          "title": "Prelude in G Minor",
+          "page": 124,
+          "composer_printed": "Rachmaninoff, Sergei (b. Onega, Russia, 1873)"
+        },
+        {
+          "title": "Song of India, from \"Sadko\"",
+          "page": 130,
+          "composer_printed": "Rimsky-Korsakoff, N. (b. Tikhvin, Russia, 1844; d. St. Petersburg, 1908)",
+          "from": "Sadko"
+        },
+        {
+          "title": "Kamennoi-Ostrow",
+          "page": 134,
+          "composer_printed": "Rubinstein, Anton (b. Wechwotynecz, Russia, 1830; d. Peterhof, 1894)"
+        },
+        {
+          "title": "Melodie (in F)",
+          "page": 142,
+          "composer_printed": "Rubinstein, Anton (b. Wechwotynecz, Russia, 1830; d. Peterhof, 1894)"
+        },
+        {
+          "title": "The Swan",
+          "page": 146,
+          "composer_printed": "Saint-Saens, Camille (b. Paris, 1835; d. Algiers, 1921)"
+        },
+        {
+          "title": "Polish Dance in Eb Minor",
+          "page": 149,
+          "composer_printed": "Scharwenka, Xaver (b. Samter, Germany, 1850; d. Berlin, 1924)"
+        },
+        {
+          "title": "Military March in D, Op. 51, No. 1",
+          "page": 153,
+          "composer_printed": "Schubert, Franz (b. Lichtenthal, Austria, 1797; d. Vienna, 1828)"
+        },
+        {
+          "title": "Moment Musical, No. 3, in F Minor",
+          "page": 156,
+          "composer_printed": "Schubert, Franz (b. Lichtenthal, Austria, 1797; d. Vienna, 1828)"
+        },
+        {
+          "title": "Romance in F#, Op. 28, No. 2",
+          "page": 158,
+          "composer_printed": "Schumann, Robert (b. Zwickau, Germany, 1810; d. Endenich, 1856)"
+        },
+        {
+          "title": "Traumerei",
+          "page": 160,
+          "composer_printed": "Schumann, Robert (b. Zwickau, Germany, 1810; d. Endenich, 1856)"
+        },
+        {
+          "title": "Romance",
+          "page": 161,
+          "composer_printed": "Sibelius, Jean (b. Tavastehus, Finland, 1865)"
+        },
+        {
+          "title": "Rustles of Spring",
+          "page": 166,
+          "composer_printed": "Sinding, Christian (b. Kongsberg, Norway, 1856)"
+        },
+        {
+          "title": "On the Beautiful Blue Danube",
+          "page": 174,
+          "composer_printed": "Strauss, Johann (Jr.) (b. Vienna, 1825; d. Vienna, 1899)"
+        },
+        {
+          "title": "None but the lonely heart (Nur wer die Sehnsucht kennt)",
+          "page": 181,
+          "composer_printed": "Tchaikovsky, P. I. (b. Kamsko-Wotkinsk, Russia, 1840; d. St. Petersburg, 1893)"
+        },
+        {
+          "title": "Andante Cantabile, from the Quartet, Op. 11",
+          "page": 184,
+          "composer_printed": "Tchaikovsky, P. I. (b. Kamsko-Wotkinsk, Russia, 1840; d. St. Petersburg, 1893)",
+          "from": "Quartet, Op. 11"
+        },
+        {
+          "title": "Song without words",
+          "page": 190,
+          "composer_printed": "Tchaikovsky, P. I. (b. Kamsko-Wotkinsk, Russia, 1840; d. St. Petersburg, 1893)"
+        },
+        {
+          "title": "Under the Leaves",
+          "page": 193,
+          "composer_printed": "Thome, F. (b. Island of Mauritius, 1850; d. Paris, 1909)"
+        },
+        {
+          "title": "Y... como le va?",
+          "page": 197,
+          "composer_printed": "Valverde, J. (d. Madrid, Spain, 1910)"
+        },
+        {
+          "title": "March, from \"Aida\"",
+          "page": 201,
+          "composer_printed": "Verdi, Giuseppe (b. Le Roncole, Italy, 1813; d. Milan, 1901)",
+          "from": "Aida"
+        },
+        {
+          "title": "Bridal Song, from \"Lohengrin\"",
+          "page": 203,
+          "composer_printed": "Wagner, Richard (b. Leipzig, Germany, 1813; d. Venice, 1883)",
+          "from": "Lohengrin"
+        },
+        {
+          "title": "\"Tannhauser\" March",
+          "page": 205,
+          "composer_printed": "Wagner, Richard (b. Leipzig, Germany, 1813; d. Venice, 1883)",
+          "from": "Tannhauser"
+        }
+      ],
+      "song_count_captured": 59
+    },
+    {
+      "id": "hall-of-fame-artists-hits",
+      "title": "Hall of Fame: Artists & Their Hits",
+      "title_confidence": "probable",
+      "series": "Armed Forces Song Folio Music Book",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5655.jpeg",
+        "IMG_5656.jpeg"
+      ],
+      "flags": [
+        "Cover (5655) + contents/artist-index (5656) grouped as one book."
+      ],
+      "songs": [
+        {
+          "title": "All Things Must Pass",
+          "page": 92
+        },
+        {
+          "title": "Another Door",
+          "page": 117
+        },
+        {
+          "title": "Apple Scruffs",
+          "page": 80
+        },
+        {
+          "title": "(That Balance Of) Nature",
+          "page": 8
+        },
+        {
+          "title": "Be Aware",
+          "page": 28
+        },
+        {
+          "title": "(Trip) Best Thing",
+          "page": 120
+        },
+        {
+          "title": "Born On The Bayou",
+          "page": 117
+        },
+        {
+          "title": "Cracklin' Rosie",
+          "page": 14
+        },
+        {
+          "title": "Dialogue",
+          "page": 35
+        },
+        {
+          "title": "Doesn't Anybody Know My Name",
+          "page": 110
+        },
+        {
+          "title": "Everybody's Out Of Town",
+          "page": 12
+        },
+        {
+          "title": "For You Blue",
+          "page": 94
+        },
+        {
+          "title": "(The) Garden",
+          "page": 78
+        },
+        {
+          "title": "Green River",
+          "page": 53
+        },
+        {
+          "title": "Have You Ever Seen The Rain?",
+          "page": 56
+        },
+        {
+          "title": "Here Comes The Sun",
+          "page": 86
+        },
+        {
+          "title": "I Wanna Be Your Man",
+          "page": 32
+        },
+        {
+          "title": "If I Never Knew Your Name",
+          "page": 111
+        },
+        {
+          "title": "I'll Catch The Sun",
+          "page": 112
+        },
+        {
+          "title": "Knowing When To Leave",
+          "page": 5
+        },
+        {
+          "title": "Loneliness Is Just A Word",
+          "page": 34
+        },
+        {
+          "title": "Love Me Do",
+          "page": 40
+        },
+        {
+          "title": "Love's Been Good To Me",
+          "page": 107
+        },
+        {
+          "title": "Memories Of Love",
+          "page": 41
+        },
+        {
+          "title": "Now More Than Ever",
+          "page": 40
+        },
+        {
+          "title": "Odds And Ends",
+          "page": 58
+        },
+        {
+          "title": "One More Time",
+          "page": 70
+        },
+        {
+          "title": "P.S. I Love You",
+          "page": 26
+        },
+        {
+          "title": "Features Green",
+          "page": 114
+        },
+        {
+          "title": "Penthouse Pauper",
+          "page": 68
+        },
+        {
+          "title": "Play Me",
+          "page": 20
+        },
+        {
+          "title": "Proud Mary",
+          "page": 65
+        },
+        {
+          "title": "Sentimental Journey",
+          "page": 81
+        },
+        {
+          "title": "She Loves You",
+          "page": 38
+        },
+        {
+          "title": "Something",
+          "page": 90
+        },
+        {
+          "title": "Sweet Caroline",
+          "page": 17
+        },
+        {
+          "title": "(A) Taste Of Honey",
+          "page": 30
+        },
+        {
+          "title": "Tweetin' Up The Country",
+          "page": 50
+        },
+        {
+          "title": "25 Or 6 To 4",
+          "page": 4
+        },
+        {
+          "title": "Wedding Bell Blues",
+          "page": 60
+        },
+        {
+          "title": "What Is Life",
+          "page": 88
+        },
+        {
+          "title": "While My Guitar Gently Weeps",
+          "page": 104
+        },
+        {
+          "title": "Whoever You Are I Love You",
+          "page": 96
+        },
+        {
+          "title": "Who'll Stop The Rain",
+          "page": 63
+        }
+      ],
+      "song_count_captured": 44
+    },
+    {
+      "id": "best-love-songs-ever",
+      "title": "The Best Love Songs Ever",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5657.jpeg",
+        "IMG_5658.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Anniversary Song",
+          "page": 2
+        },
+        {
+          "title": "Anniversary Waltz, The",
+          "page": 5
+        },
+        {
+          "title": "Can't Help Falling In Love",
+          "page": 8
+        },
+        {
+          "title": "Can't Smile Without You",
+          "page": 11
+        },
+        {
+          "title": "Candle On The Water",
+          "page": 14
+        },
+        {
+          "title": "Could I Have This Dance",
+          "page": 17
+        },
+        {
+          "title": "Darling, Je Vous Aime Beaucoup",
+          "page": 22
+        },
+        {
+          "title": "Devoted To You",
+          "page": 28
+        },
+        {
+          "title": "Endless Love",
+          "page": 25
+        },
+        {
+          "title": "Falling In Love With Love",
+          "page": 30
+        },
+        {
+          "title": "Feelings",
+          "page": 33
+        },
+        {
+          "title": "First Time Ever I Saw Your Face, The",
+          "page": 36
+        },
+        {
+          "title": "For All We Know",
+          "page": 39
+        },
+        {
+          "title": "Hold Me 'Til The Mornin' Comes",
+          "page": 42
+        },
+        {
+          "title": "Hopelessly Devoted To You",
+          "page": 48
+        },
+        {
+          "title": "How Deep Is Your Love",
+          "page": 50
+        },
+        {
+          "title": "I Just Fall In Love Again",
+          "page": 54
+        },
+        {
+          "title": "I Love You",
+          "page": 60
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 61
+        },
+        {
+          "title": "I Want You Forever",
+          "page": 64
+        },
+        {
+          "title": "I Want You, I Need You, I Love You",
+          "page": 53
+        },
+        {
+          "title": "I.O.U.",
+          "page": 64
+        },
+        {
+          "title": "If We Only Have Love",
+          "page": 66
+        },
+        {
+          "title": "If You Remember Me",
+          "page": 73
+        },
+        {
+          "title": "Islands In The Stream",
+          "page": 76
+        },
+        {
+          "title": "Just As I Am",
+          "page": 80
+        },
+        {
+          "title": "Last Time I Felt Like This, The",
+          "page": 86
+        },
+        {
+          "title": "Let It Be Me",
+          "page": 89
+        },
+        {
+          "title": "Let's Fall In Love Sweetheart",
+          "page": 92
+        },
+        {
+          "title": "Love Is Here To Stay",
+          "page": 97
+        },
+        {
+          "title": "Love Me Tender",
+          "page": 90
+        },
+        {
+          "title": "Love Song, A",
+          "page": 94
+        },
+        {
+          "title": "Love Theme From Flashdance",
+          "page": 100
+        },
+        {
+          "title": "Love's Grown Deep",
+          "page": 97
+        },
+        {
+          "title": "Loving You",
+          "page": 104
+        },
+        {
+          "title": "Making Love",
+          "page": 106
+        },
+        {
+          "title": "May You Always",
+          "page": 109
+        },
+        {
+          "title": "Misty",
+          "page": 110
+        },
+        {
+          "title": "My Cup Runneth Over",
+          "page": 117
+        },
+        {
+          "title": "My Funny Valentine",
+          "page": 120
+        },
+        {
+          "title": "P.S. I Love You",
+          "page": 122
+        },
+        {
+          "title": "Reminiscing",
+          "page": 130
+        },
+        {
+          "title": "Sea Of Love",
+          "page": 113
+        },
+        {
+          "title": "September Morn",
+          "page": 125
+        },
+        {
+          "title": "Shadows In The Moonlight",
+          "page": 136
+        },
+        {
+          "title": "She Believes In Me",
+          "page": 142
+        },
+        {
+          "title": "So In Love",
+          "page": 139
+        },
+        {
+          "title": "Some Enchanted Evening",
+          "page": 146
+        },
+        {
+          "title": "Sunrise, Sunset",
+          "page": 150
+        },
+        {
+          "title": "Through The Years",
+          "page": 156
+        },
+        {
+          "title": "Ties That Bind, The",
+          "page": 154
+        },
+        {
+          "title": "'Til",
+          "page": 169
+        },
+        {
+          "title": "'Til We Two Are One",
+          "page": 172
+        },
+        {
+          "title": "Time After Time",
+          "page": 174
+        },
+        {
+          "title": "To Love Again",
+          "page": 178
+        },
+        {
+          "title": "Touch Of Your Lips, The",
+          "page": 175
+        },
+        {
+          "title": "True Love",
+          "page": 184
+        },
+        {
+          "title": "Try To Remember",
+          "page": 186
+        },
+        {
+          "title": "Turn Around",
+          "page": 188
+        },
+        {
+          "title": "Valotte",
+          "page": 193
+        },
+        {
+          "title": "When I Fall In Love",
+          "page": 198
+        },
+        {
+          "title": "When I Need You",
+          "page": 196
+        },
+        {
+          "title": "Woman",
+          "page": 201
+        },
+        {
+          "title": "Woman In Love",
+          "page": 204
+        },
+        {
+          "title": "You Are Beautiful",
+          "page": 208
+        },
+        {
+          "title": "You Are My Lady",
+          "page": 210
+        },
+        {
+          "title": "You Give Good Love",
+          "page": 214
+        },
+        {
+          "title": "You Needed Me",
+          "page": 219
+        },
+        {
+          "title": "Your Song",
+          "page": 222
+        }
+      ],
+      "song_count_captured": 69
+    },
+    {
+      "id": "great-big-book-childrens-songs",
+      "title": "The Great Big Book of Children's Songs",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": "978-0-7935-3819",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5659.jpeg",
+        "IMG_5660.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "A-Hunting We Will Go",
+          "page": 2
+        },
+        {
+          "title": "ABC-DEF-GHI",
+          "page": 4
+        },
+        {
+          "title": "Are You Sleeping",
+          "page": 7
+        },
+        {
+          "title": "Ballad Of Davy Crockett, The",
+          "page": 8
+        },
+        {
+          "title": "Bare Necessities, The",
+          "page": 11
+        },
+        {
+          "title": "Be Kind To Your Parents",
+          "page": 14
+        },
+        {
+          "title": "Beauty And The Beast",
+          "page": 18
+        },
+        {
+          "title": "Bicycle Built For Two, A",
+          "page": 24
+        },
+        {
+          "title": "(a/k/a Daisy Bell)",
+          "page": 24
+        },
+        {
+          "title": "Brady Bunch, The",
+          "page": 26
+        },
+        {
+          "title": "Bridge Over The River Kwai (Colonel Bogey March)",
+          "page": 30
+        },
+        {
+          "title": "(a/k/a Daisy Bell) Tonight)",
+          "page": null
+        },
+        {
+          "title": "\"C\" Is For Cookie",
+          "page": 36
+        },
+        {
+          "title": "Candy Man, The",
+          "page": 38
+        },
+        {
+          "title": "Casper The Friendly Ghost",
+          "page": 42
+        },
+        {
+          "title": "Circle Of Life",
+          "page": 44
+        },
+        {
+          "title": "Crawford Gang, The",
+          "page": 48
+        },
+        {
+          "title": "Cruella de Vil",
+          "page": 52
+        },
+        {
+          "title": "Did You Ever See A Lassie?",
+          "page": 56
+        },
+        {
+          "title": "Ding-Wee (Tell Me Why)",
+          "page": 57
+        },
+        {
+          "title": "Down By The Station",
+          "page": 58
+        },
+        {
+          "title": "Edelweiss",
+          "page": 60
+        },
+        {
+          "title": "Everything Is Beautiful",
+          "page": 62
+        },
+        {
+          "title": "Feed The Birds",
+          "page": 66
+        },
+        {
+          "title": "Flintstones, (Meet) The",
+          "page": 70
+        },
+        {
+          "title": "Frog Went A-Courtin'",
+          "page": 76
+        },
+        {
+          "title": "Getting To Know You",
+          "page": 80
+        },
+        {
+          "title": "Go In And Out The Window",
+          "page": 84
+        },
+        {
+          "title": "Go Tell Aunt Rhody",
+          "page": 85
+        },
+        {
+          "title": "Happy Trails",
+          "page": 86
+        },
+        {
+          "title": "Heart And Soul",
+          "page": 94
+        },
+        {
+          "title": "Heigh-Ho",
+          "page": 98
+        },
+        {
+          "title": "Hi-Diddle-Dee-Dee (An Actor's Life For Me)",
+          "page": 100
+        },
+        {
+          "title": "Home On The Range",
+          "page": 91
+        },
+        {
+          "title": "House At Pooh Corner",
+          "page": 92
+        },
+        {
+          "title": "I Don't Want To Live On The Moon",
+          "page": 90
+        },
+        {
+          "title": "I Love Trash",
+          "page": 107
+        },
+        {
+          "title": "I'm Popeye The Sailor Man",
+          "page": 114
+        },
+        {
+          "title": "I've Got No Strings",
+          "page": 120
+        },
+        {
+          "title": "It's Raining, It's Pouring",
+          "page": 122
+        },
+        {
+          "title": "Jesus Loves Me",
+          "page": 124
+        },
+        {
+          "title": "Kum Ba Yah",
+          "page": 119
+        },
+        {
+          "title": "Long Mary, Will You Get Up?",
+          "page": 126
+        },
+        {
+          "title": "Let's Go Fly A Kite",
+          "page": 130
+        },
+        {
+          "title": "Li'l Liza Jane",
+          "page": 154
+        },
+        {
+          "title": "Magic Penny",
+          "page": 127
+        },
+        {
+          "title": "Marvelous Toy, The",
+          "page": 136
+        },
+        {
+          "title": "Mary Had A Little Lamb",
+          "page": 142
+        },
+        {
+          "title": "Michael Row The Boat Ashore",
+          "page": 144
+        },
+        {
+          "title": "Muffin Man, The",
+          "page": 146
+        },
+        {
+          "title": "My Bonnie Lies Over The Ocean",
+          "page": 149
+        },
+        {
+          "title": "On The Good Ship Lollipop",
+          "page": 148
+        },
+        {
+          "title": "Over The River And Through The Woods",
+          "page": 151
+        },
+        {
+          "title": "Paw Paw Patch, The",
+          "page": 152
+        },
+        {
+          "title": "People In Your Neighborhood",
+          "page": 156
+        },
+        {
+          "title": "Puff The Magic Dragon",
+          "page": 160
+        },
+        {
+          "title": "Rubber Duckie",
+          "page": 163
+        },
+        {
+          "title": "Sailing, Sailing",
+          "page": 164
+        },
+        {
+          "title": "Sing",
+          "page": 165
+        },
+        {
+          "title": "Sing A Song Of Sixpence",
+          "page": 169
+        },
+        {
+          "title": "Spoonful Of Sugar, A",
+          "page": 172
+        },
+        {
+          "title": "Sweet Betsy From Pike",
+          "page": 178
+        },
+        {
+          "title": "Take Me Out To The Ball Game",
+          "page": 175
+        },
+        {
+          "title": "There's A Hole In The Bucket",
+          "page": 180
+        },
+        {
+          "title": "There's A Hole In The Bottom Of The Sea",
+          "page": 184
+        },
+        {
+          "title": "Tica Tica",
+          "page": 195
+        },
+        {
+          "title": "Under The Sea",
+          "page": 198
+        },
+        {
+          "title": "When Johnny Comes Marching Home",
+          "page": 205
+        },
+        {
+          "title": "When The Saints Go Marching In",
+          "page": 210
+        },
+        {
+          "title": "Who's Afraid Of The Big Bad Wolf?",
+          "page": 212
+        },
+        {
+          "title": "Whole New World, A",
+          "page": 218
+        },
+        {
+          "title": "Won't You Be My Neighbor?",
+          "page": 214
+        },
+        {
+          "title": "(a/k/a It's A Beautiful Day In This Neighborhood)",
+          "page": null
+        },
+        {
+          "title": "Zip-A-Doo-Dah",
+          "page": 216
+        }
+      ],
+      "song_count_captured": 74
+    },
+    {
+      "id": "boogie-fun-for-piano",
+      "title": "Boogie Fun for the Piano",
+      "title_confidence": "confident",
+      "composer": "Hazel Martin",
+      "series": null,
+      "volume": null,
+      "publisher": "MILLS MUSIC, INC.",
+      "arranger_editor": "HAZEL MARTIN",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5661.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "CLOWNING AROUND",
+          "page": 2
+        },
+        {
+          "title": "JITTERBUG JIVE",
+          "page": 4
+        },
+        {
+          "title": "BUCKIN' BRONCO BOOGIE",
+          "page": 6
+        },
+        {
+          "title": "SOFT SHOE BOOGIE",
+          "page": 8
+        },
+        {
+          "title": "BARBECUE BOOGIE",
+          "page": 10
+        },
+        {
+          "title": "BOOGIE FUN",
+          "page": 12
+        },
+        {
+          "title": "ROCK-A-WAY BOOGIE",
+          "page": 14
+        },
+        {
+          "title": "THE DUNGAREE HOP",
+          "page": 16
+        },
+        {
+          "title": "SATURDAY NIGHT",
+          "page": 18
+        },
+        {
+          "title": "SCARLET SLIPPERS",
+          "page": 20
+        },
+        {
+          "title": "BLUE BOOGIE BLUES",
+          "page": 22
+        }
+      ],
+      "song_count_captured": 11
+    },
+    {
+      "id": "villalobos-a-mare-encheu",
+      "title": "A maré encheu (Nº 76)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5662.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "A maré encheu",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 76 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "villalobos-acordei-de-madrugada",
+      "title": "Acordei de madrugada (Nº 9)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5663.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Acordei de madrugada",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 9 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "villalobos-a-roseira",
+      "title": "A roseira (Nº 102)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5664.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "A roseira",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 102 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "villalobos-manquinha",
+      "title": "Manquinha (Nº 74)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5665.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Manquinha",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 74 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "villalobos-na-corda-da-viola",
+      "title": "Na corda da viola (Nº 43)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": "Irmãos Vitale",
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5666.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Na corda da viola",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 43 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

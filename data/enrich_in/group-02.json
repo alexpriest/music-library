@@ -1,0 +1,496 @@
+{
+  "group": "02",
+  "books": [
+    {
+      "id": "great-big-book-childrens-songs",
+      "title": "The Great Big Book of Children's Songs",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": "978-0-7935-3819",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5659.jpeg",
+        "IMG_5660.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "A-Hunting We Will Go",
+          "page": 2
+        },
+        {
+          "title": "ABC-DEF-GHI",
+          "page": 4
+        },
+        {
+          "title": "Are You Sleeping",
+          "page": 7
+        },
+        {
+          "title": "Ballad Of Davy Crockett, The",
+          "page": 8
+        },
+        {
+          "title": "Bare Necessities, The",
+          "page": 11
+        },
+        {
+          "title": "Be Kind To Your Parents",
+          "page": 14
+        },
+        {
+          "title": "Beauty And The Beast",
+          "page": 18
+        },
+        {
+          "title": "Bicycle Built For Two, A",
+          "page": 24
+        },
+        {
+          "title": "(a/k/a Daisy Bell)",
+          "page": 24
+        },
+        {
+          "title": "Brady Bunch, The",
+          "page": 26
+        },
+        {
+          "title": "Bridge Over The River Kwai (Colonel Bogey March)",
+          "page": 30
+        },
+        {
+          "title": "(a/k/a Daisy Bell) Tonight)",
+          "page": null
+        },
+        {
+          "title": "\"C\" Is For Cookie",
+          "page": 36
+        },
+        {
+          "title": "Candy Man, The",
+          "page": 38
+        },
+        {
+          "title": "Casper The Friendly Ghost",
+          "page": 42
+        },
+        {
+          "title": "Circle Of Life",
+          "page": 44
+        },
+        {
+          "title": "Crawford Gang, The",
+          "page": 48
+        },
+        {
+          "title": "Cruella de Vil",
+          "page": 52
+        },
+        {
+          "title": "Did You Ever See A Lassie?",
+          "page": 56
+        },
+        {
+          "title": "Ding-Wee (Tell Me Why)",
+          "page": 57
+        },
+        {
+          "title": "Down By The Station",
+          "page": 58
+        },
+        {
+          "title": "Edelweiss",
+          "page": 60
+        },
+        {
+          "title": "Everything Is Beautiful",
+          "page": 62
+        },
+        {
+          "title": "Feed The Birds",
+          "page": 66
+        },
+        {
+          "title": "Flintstones, (Meet) The",
+          "page": 70
+        },
+        {
+          "title": "Frog Went A-Courtin'",
+          "page": 76
+        },
+        {
+          "title": "Getting To Know You",
+          "page": 80
+        },
+        {
+          "title": "Go In And Out The Window",
+          "page": 84
+        },
+        {
+          "title": "Go Tell Aunt Rhody",
+          "page": 85
+        },
+        {
+          "title": "Happy Trails",
+          "page": 86
+        },
+        {
+          "title": "Heart And Soul",
+          "page": 94
+        },
+        {
+          "title": "Heigh-Ho",
+          "page": 98
+        },
+        {
+          "title": "Hi-Diddle-Dee-Dee (An Actor's Life For Me)",
+          "page": 100
+        },
+        {
+          "title": "Home On The Range",
+          "page": 91
+        },
+        {
+          "title": "House At Pooh Corner",
+          "page": 92
+        },
+        {
+          "title": "I Don't Want To Live On The Moon",
+          "page": 90
+        },
+        {
+          "title": "I Love Trash",
+          "page": 107
+        },
+        {
+          "title": "I'm Popeye The Sailor Man",
+          "page": 114
+        },
+        {
+          "title": "I've Got No Strings",
+          "page": 120
+        },
+        {
+          "title": "It's Raining, It's Pouring",
+          "page": 122
+        },
+        {
+          "title": "Jesus Loves Me",
+          "page": 124
+        },
+        {
+          "title": "Kum Ba Yah",
+          "page": 119
+        },
+        {
+          "title": "Long Mary, Will You Get Up?",
+          "page": 126
+        },
+        {
+          "title": "Let's Go Fly A Kite",
+          "page": 130
+        },
+        {
+          "title": "Li'l Liza Jane",
+          "page": 154
+        },
+        {
+          "title": "Magic Penny",
+          "page": 127
+        },
+        {
+          "title": "Marvelous Toy, The",
+          "page": 136
+        },
+        {
+          "title": "Mary Had A Little Lamb",
+          "page": 142
+        },
+        {
+          "title": "Michael Row The Boat Ashore",
+          "page": 144
+        },
+        {
+          "title": "Muffin Man, The",
+          "page": 146
+        },
+        {
+          "title": "My Bonnie Lies Over The Ocean",
+          "page": 149
+        },
+        {
+          "title": "On The Good Ship Lollipop",
+          "page": 148
+        },
+        {
+          "title": "Over The River And Through The Woods",
+          "page": 151
+        },
+        {
+          "title": "Paw Paw Patch, The",
+          "page": 152
+        },
+        {
+          "title": "People In Your Neighborhood",
+          "page": 156
+        },
+        {
+          "title": "Puff The Magic Dragon",
+          "page": 160
+        },
+        {
+          "title": "Rubber Duckie",
+          "page": 163
+        },
+        {
+          "title": "Sailing, Sailing",
+          "page": 164
+        },
+        {
+          "title": "Sing",
+          "page": 165
+        },
+        {
+          "title": "Sing A Song Of Sixpence",
+          "page": 169
+        },
+        {
+          "title": "Spoonful Of Sugar, A",
+          "page": 172
+        },
+        {
+          "title": "Sweet Betsy From Pike",
+          "page": 178
+        },
+        {
+          "title": "Take Me Out To The Ball Game",
+          "page": 175
+        },
+        {
+          "title": "There's A Hole In The Bucket",
+          "page": 180
+        },
+        {
+          "title": "There's A Hole In The Bottom Of The Sea",
+          "page": 184
+        },
+        {
+          "title": "Tica Tica",
+          "page": 195
+        },
+        {
+          "title": "Under The Sea",
+          "page": 198
+        },
+        {
+          "title": "When Johnny Comes Marching Home",
+          "page": 205
+        },
+        {
+          "title": "When The Saints Go Marching In",
+          "page": 210
+        },
+        {
+          "title": "Who's Afraid Of The Big Bad Wolf?",
+          "page": 212
+        },
+        {
+          "title": "Whole New World, A",
+          "page": 218
+        },
+        {
+          "title": "Won't You Be My Neighbor?",
+          "page": 214
+        },
+        {
+          "title": "(a/k/a It's A Beautiful Day In This Neighborhood)",
+          "page": null
+        },
+        {
+          "title": "Zip-A-Doo-Dah",
+          "page": 216
+        }
+      ],
+      "song_count_captured": 74
+    },
+    {
+      "id": "chopin-schirmer",
+      "title": "Chopin: Compositions for the Piano (Schirmer's Library)",
+      "title_confidence": "uncertain",
+      "composer": "Frédéric Chopin",
+      "series": "Schirmer's Library of Musical Classics",
+      "volume": null,
+      "publisher": "G. Schirmer, Inc. (distributed by Hal Leonard Corporation)",
+      "arranger_editor": "Edited, Revised, and Fingered by Rafael Joseffy; Historical and Analytical Comments by James Huneker",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5632.jpeg"
+      ],
+      "flags": [
+        "Photographed page is the Schirmer Chopin SERIES catalog, not this volume's contents. Reshoot the actual contents."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "shins-wincing",
+      "title": "The Shins: Wincing the Night Away",
+      "title_confidence": "confident",
+      "composer": "The Shins",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5600.jpeg"
+      ],
+      "flags": [
+        "Identified by tracklist; back-cover list, no page numbers."
+      ],
+      "songs": [
+        {
+          "title": "SLEEPING LESSONS",
+          "page": null
+        },
+        {
+          "title": "AUSTRALIA",
+          "page": null
+        },
+        {
+          "title": "PAM BERRY",
+          "page": null
+        },
+        {
+          "title": "PHANTOM LIMB",
+          "page": null
+        },
+        {
+          "title": "SEALEGS",
+          "page": null
+        },
+        {
+          "title": "RED RABBITS",
+          "page": null
+        },
+        {
+          "title": "TURN ON ME",
+          "page": null
+        },
+        {
+          "title": "BLACK WAVE",
+          "page": null
+        },
+        {
+          "title": "SPILT NEEDLES",
+          "page": null
+        },
+        {
+          "title": "GIRL SAILOR",
+          "page": null
+        },
+        {
+          "title": "A COMET APPEARS",
+          "page": null
+        }
+      ],
+      "song_count_captured": 11
+    },
+    {
+      "id": "hoagy-carmichael",
+      "title": "Hoagy Carmichael",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5395.jpeg"
+      ],
+      "flags": [
+        "Contents shot sideways/low-res — partial song list."
+      ],
+      "songs": [
+        {
+          "title": "Georgia on My Mind",
+          "page": null
+        },
+        {
+          "title": "Heart and Soul",
+          "page": null
+        },
+        {
+          "title": "Stardust",
+          "page": null
+        },
+        {
+          "title": "Skylark",
+          "page": null
+        },
+        {
+          "title": "The Nearness of You",
+          "page": null
+        },
+        {
+          "title": "In the Cool, Cool, Cool of the Evening",
+          "page": 222
+        },
+        {
+          "title": "Lazy River",
+          "page": 52
+        },
+        {
+          "title": "The Whole Song",
+          "page": null
+        },
+        {
+          "title": "Winter Moon",
+          "page": null
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "villalobos-a-mare-encheu",
+      "title": "A maré encheu (Nº 76)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5662.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "A maré encheu",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 76 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

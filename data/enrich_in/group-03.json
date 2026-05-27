@@ -1,0 +1,565 @@
+{
+  "group": "03",
+  "books": [
+    {
+      "id": "best-love-songs-ever",
+      "title": "The Best Love Songs Ever",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5657.jpeg",
+        "IMG_5658.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Anniversary Song",
+          "page": 2
+        },
+        {
+          "title": "Anniversary Waltz, The",
+          "page": 5
+        },
+        {
+          "title": "Can't Help Falling In Love",
+          "page": 8
+        },
+        {
+          "title": "Can't Smile Without You",
+          "page": 11
+        },
+        {
+          "title": "Candle On The Water",
+          "page": 14
+        },
+        {
+          "title": "Could I Have This Dance",
+          "page": 17
+        },
+        {
+          "title": "Darling, Je Vous Aime Beaucoup",
+          "page": 22
+        },
+        {
+          "title": "Devoted To You",
+          "page": 28
+        },
+        {
+          "title": "Endless Love",
+          "page": 25
+        },
+        {
+          "title": "Falling In Love With Love",
+          "page": 30
+        },
+        {
+          "title": "Feelings",
+          "page": 33
+        },
+        {
+          "title": "First Time Ever I Saw Your Face, The",
+          "page": 36
+        },
+        {
+          "title": "For All We Know",
+          "page": 39
+        },
+        {
+          "title": "Hold Me 'Til The Mornin' Comes",
+          "page": 42
+        },
+        {
+          "title": "Hopelessly Devoted To You",
+          "page": 48
+        },
+        {
+          "title": "How Deep Is Your Love",
+          "page": 50
+        },
+        {
+          "title": "I Just Fall In Love Again",
+          "page": 54
+        },
+        {
+          "title": "I Love You",
+          "page": 60
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 61
+        },
+        {
+          "title": "I Want You Forever",
+          "page": 64
+        },
+        {
+          "title": "I Want You, I Need You, I Love You",
+          "page": 53
+        },
+        {
+          "title": "I.O.U.",
+          "page": 64
+        },
+        {
+          "title": "If We Only Have Love",
+          "page": 66
+        },
+        {
+          "title": "If You Remember Me",
+          "page": 73
+        },
+        {
+          "title": "Islands In The Stream",
+          "page": 76
+        },
+        {
+          "title": "Just As I Am",
+          "page": 80
+        },
+        {
+          "title": "Last Time I Felt Like This, The",
+          "page": 86
+        },
+        {
+          "title": "Let It Be Me",
+          "page": 89
+        },
+        {
+          "title": "Let's Fall In Love Sweetheart",
+          "page": 92
+        },
+        {
+          "title": "Love Is Here To Stay",
+          "page": 97
+        },
+        {
+          "title": "Love Me Tender",
+          "page": 90
+        },
+        {
+          "title": "Love Song, A",
+          "page": 94
+        },
+        {
+          "title": "Love Theme From Flashdance",
+          "page": 100
+        },
+        {
+          "title": "Love's Grown Deep",
+          "page": 97
+        },
+        {
+          "title": "Loving You",
+          "page": 104
+        },
+        {
+          "title": "Making Love",
+          "page": 106
+        },
+        {
+          "title": "May You Always",
+          "page": 109
+        },
+        {
+          "title": "Misty",
+          "page": 110
+        },
+        {
+          "title": "My Cup Runneth Over",
+          "page": 117
+        },
+        {
+          "title": "My Funny Valentine",
+          "page": 120
+        },
+        {
+          "title": "P.S. I Love You",
+          "page": 122
+        },
+        {
+          "title": "Reminiscing",
+          "page": 130
+        },
+        {
+          "title": "Sea Of Love",
+          "page": 113
+        },
+        {
+          "title": "September Morn",
+          "page": 125
+        },
+        {
+          "title": "Shadows In The Moonlight",
+          "page": 136
+        },
+        {
+          "title": "She Believes In Me",
+          "page": 142
+        },
+        {
+          "title": "So In Love",
+          "page": 139
+        },
+        {
+          "title": "Some Enchanted Evening",
+          "page": 146
+        },
+        {
+          "title": "Sunrise, Sunset",
+          "page": 150
+        },
+        {
+          "title": "Through The Years",
+          "page": 156
+        },
+        {
+          "title": "Ties That Bind, The",
+          "page": 154
+        },
+        {
+          "title": "'Til",
+          "page": 169
+        },
+        {
+          "title": "'Til We Two Are One",
+          "page": 172
+        },
+        {
+          "title": "Time After Time",
+          "page": 174
+        },
+        {
+          "title": "To Love Again",
+          "page": 178
+        },
+        {
+          "title": "Touch Of Your Lips, The",
+          "page": 175
+        },
+        {
+          "title": "True Love",
+          "page": 184
+        },
+        {
+          "title": "Try To Remember",
+          "page": 186
+        },
+        {
+          "title": "Turn Around",
+          "page": 188
+        },
+        {
+          "title": "Valotte",
+          "page": 193
+        },
+        {
+          "title": "When I Fall In Love",
+          "page": 198
+        },
+        {
+          "title": "When I Need You",
+          "page": 196
+        },
+        {
+          "title": "Woman",
+          "page": 201
+        },
+        {
+          "title": "Woman In Love",
+          "page": 204
+        },
+        {
+          "title": "You Are Beautiful",
+          "page": 208
+        },
+        {
+          "title": "You Are My Lady",
+          "page": 210
+        },
+        {
+          "title": "You Give Good Love",
+          "page": 214
+        },
+        {
+          "title": "You Needed Me",
+          "page": 219
+        },
+        {
+          "title": "Your Song",
+          "page": 222
+        }
+      ],
+      "song_count_captured": 69
+    },
+    {
+      "id": "philip-glass-complete-etudes",
+      "title": "Philip Glass: The Complete Piano Etudes",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": "Book 1 and Book 2",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5640.jpeg",
+        "IMG_5641.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ETUDE 1",
+          "page": 1
+        },
+        {
+          "title": "ETUDE 2",
+          "page": 6
+        },
+        {
+          "title": "ETUDE 3",
+          "page": 10
+        },
+        {
+          "title": "ETUDE 4",
+          "page": 16
+        },
+        {
+          "title": "ETUDE 5",
+          "page": 20
+        },
+        {
+          "title": "ETUDE 6",
+          "page": 23
+        },
+        {
+          "title": "ETUDE 7",
+          "page": 27
+        },
+        {
+          "title": "ETUDE 8",
+          "page": 31
+        },
+        {
+          "title": "ETUDE 9",
+          "page": 34
+        },
+        {
+          "title": "ETUDE 10",
+          "page": 38
+        },
+        {
+          "title": "ETUDE 11",
+          "page": 46
+        },
+        {
+          "title": "ETUDE 12",
+          "page": 54
+        },
+        {
+          "title": "ETUDE 13",
+          "page": 60
+        },
+        {
+          "title": "ETUDE 14",
+          "page": 65
+        },
+        {
+          "title": "ETUDE 15",
+          "page": 70
+        },
+        {
+          "title": "ETUDE 16",
+          "page": 80
+        },
+        {
+          "title": "ETUDE 17",
+          "page": 84
+        },
+        {
+          "title": "ETUDE 18",
+          "page": 92
+        },
+        {
+          "title": "ETUDE 19",
+          "page": 95
+        },
+        {
+          "title": "ETUDE 20",
+          "page": 102
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "granados-valses-poeticos",
+      "title": "Granados: Valses Poéticos",
+      "title_confidence": "confident",
+      "composer": "Enrique Granados",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5629.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "About the Composer",
+          "page": 4
+        },
+        {
+          "title": "About the Composition",
+          "page": 6
+        },
+        {
+          "title": "About the Edition",
+          "page": 7
+        },
+        {
+          "title": "About the Editor",
+          "page": 7
+        },
+        {
+          "title": "VALSES POÉTICOS — Introducción (Vivace molto)",
+          "page": 8
+        },
+        {
+          "title": "No. 1 Vals melódico (Cadencioso)",
+          "page": 12
+        },
+        {
+          "title": "No. 2 Vals apasionado (Tempo de vals noble)",
+          "page": 14
+        },
+        {
+          "title": "No. 3 Vals lento (Tempo de vals lento)",
+          "page": 18
+        },
+        {
+          "title": "No. 4 Vals humorístico (Allegro humorístico)",
+          "page": 20
+        },
+        {
+          "title": "No. 5 Vals brillante (Allegretto (elegante))",
+          "page": 22
+        },
+        {
+          "title": "No. 6 Vals sentimental (Quasi ad libitum (sentimental))",
+          "page": 24
+        },
+        {
+          "title": "No. 7 Vals mariposa (Vivo)",
+          "page": 26
+        },
+        {
+          "title": "No. 8 Vals ideal (Presto)",
+          "page": 28
+        },
+        {
+          "title": "Final (Tempo dil primo vals)",
+          "page": 30
+        }
+      ],
+      "song_count_captured": 14
+    },
+    {
+      "id": "encanto",
+      "title": "Encanto",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5396.jpeg",
+        "IMG_5397.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Family Madrigal",
+          "page": 9
+        },
+        {
+          "title": "Waiting On A Miracle",
+          "page": 32
+        },
+        {
+          "title": "Surface Pressure",
+          "page": 24
+        },
+        {
+          "title": "We Don't Talk About Bruno",
+          "page": 40
+        },
+        {
+          "title": "What Else Can I Do?",
+          "page": 60
+        },
+        {
+          "title": "Dos Oruguitas",
+          "page": 70
+        },
+        {
+          "title": "All Of You",
+          "page": 50
+        },
+        {
+          "title": "Colombia, Mi Encanto",
+          "page": 91
+        },
+        {
+          "title": "Two Oruguitas",
+          "page": 80
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "villalobos-acordei-de-madrugada",
+      "title": "Acordei de madrugada (Nº 9)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5663.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Acordei de madrugada",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 9 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

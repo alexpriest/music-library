@@ -1,0 +1,3029 @@
+{
+  "group": "03",
+  "books": [
+    {
+      "id": "best-love-songs-ever",
+      "title": "The Best Love Songs Ever",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5657.jpeg",
+        "IMG_5658.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Anniversary Song",
+          "page": 2,
+          "composer": "Al Jolson and Saul Chaplin",
+          "original_artist": "Al Jolson",
+          "from": "The Jolson Story",
+          "year": 1946,
+          "era": "1940s",
+          "genre": "Great American Songbook",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "sentimental",
+            "romantic",
+            "nostalgic",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": "Adapted from Ivanovici's waltz 'Danube Waves'."
+        },
+        {
+          "title": "Anniversary Waltz, The",
+          "page": 5,
+          "composer": "Al Dubin and Dave Franklin",
+          "original_artist": null,
+          "from": null,
+          "year": 1941,
+          "era": "1940s",
+          "genre": "Great American Songbook",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "sentimental",
+            "romantic",
+            "nostalgic",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Can't Help Falling In Love",
+          "page": 8,
+          "composer": "Hugo Peretti, Luigi Creatore and George David Weiss",
+          "original_artist": "Elvis Presley",
+          "from": "Blue Hawaii",
+          "year": 1961,
+          "era": "1960s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "intimate"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "wedding",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": "Melody based on the 18th-century French 'Plaisir d'amour'."
+        },
+        {
+          "title": "Can't Smile Without You",
+          "page": 11,
+          "composer": "Chris Arnold, David Martin and Geoff Morrow",
+          "original_artist": "Barry Manilow",
+          "from": null,
+          "year": 1975,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop",
+          "mood_tags": [
+            "longing",
+            "warm",
+            "sentimental",
+            "cheerful"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "sing-along"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Candle On The Water",
+          "page": 14,
+          "composer": "Al Kasha and Joel Hirschhorn",
+          "original_artist": "Helen Reddy",
+          "from": "Pete's Dragon",
+          "year": 1977,
+          "era": "1970s",
+          "genre": "Film/TV Score",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "hopeful",
+            "tender",
+            "longing",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "kids"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Could I Have This Dance",
+          "page": 17,
+          "composer": "Wayland Holyfield and Bob House",
+          "original_artist": "Anne Murray",
+          "from": "Urban Cowboy",
+          "year": 1980,
+          "era": "1980s",
+          "genre": "Country",
+          "subgenre": "Country Waltz",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Darling, Je Vous Aime Beaucoup",
+          "page": 22,
+          "composer": "Anna Sosenko",
+          "original_artist": "Hildegarde",
+          "from": null,
+          "year": 1935,
+          "era": "1930s",
+          "genre": "Great American Songbook",
+          "subgenre": "Cabaret Ballad",
+          "mood_tags": [
+            "romantic",
+            "elegant",
+            "tender",
+            "intimate"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Devoted To You",
+          "page": 28,
+          "composer": "Boudleaux Bryant",
+          "original_artist": "The Everly Brothers",
+          "from": null,
+          "year": 1958,
+          "era": "1950s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "romantic evening",
+            "wedding"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Endless Love",
+          "page": 25,
+          "composer": "Lionel Richie",
+          "original_artist": "Diana Ross and Lionel Richie",
+          "from": "Endless Love",
+          "year": 1981,
+          "era": "1980s",
+          "genre": "R&B/Soul",
+          "subgenre": "Power Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "longing",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Falling In Love With Love",
+          "page": 30,
+          "composer": "Richard Rodgers and Lorenz Hart",
+          "original_artist": null,
+          "from": "The Boys from Syracuse",
+          "year": 1938,
+          "era": "1930s",
+          "genre": "Musical Theatre",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "bittersweet",
+            "elegant",
+            "wistful",
+            "romantic"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Feelings",
+          "page": 33,
+          "composer": "Morris Albert",
+          "original_artist": "Morris Albert",
+          "from": null,
+          "year": 1974,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop Ballad",
+          "mood_tags": [
+            "melancholy",
+            "longing",
+            "sentimental",
+            "wistful"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "late night",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "First Time Ever I Saw Your Face, The",
+          "page": 36,
+          "composer": "Ewan MacColl",
+          "original_artist": "Roberta Flack",
+          "from": null,
+          "year": 1957,
+          "era": "1970s",
+          "genre": "Folk",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "intimate",
+            "tender",
+            "longing",
+            "serene"
+          ],
+          "tempo": "very slow",
+          "energy": 1,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": "Written 1957 by MacColl; Flack's 1972 No. 1 recording made it famous."
+        },
+        {
+          "title": "For All We Know",
+          "page": 39,
+          "composer": "Fred Karlin, Robb Wilson and Arthur James",
+          "original_artist": "The Carpenters",
+          "from": "Lovers and Other Strangers",
+          "year": 1970,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "hopeful",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": "The 1970 Oscar-winning film song, not the 1934 standard of the same title."
+        },
+        {
+          "title": "Hold Me 'Til The Mornin' Comes",
+          "page": 42,
+          "composer": "Paul Anka and David Foster",
+          "original_artist": "Paul Anka",
+          "from": null,
+          "year": 1983,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Soft Rock Ballad",
+          "mood_tags": [
+            "longing",
+            "bittersweet",
+            "warm",
+            "romantic"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": "Features backing vocals by Peter Cetera."
+        },
+        {
+          "title": "Hopelessly Devoted To You",
+          "page": 48,
+          "composer": "John Farrar",
+          "original_artist": "Olivia Newton-John",
+          "from": "Grease",
+          "year": 1978,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "longing",
+            "wistful",
+            "tender",
+            "melancholy"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "How Deep Is Your Love",
+          "page": 50,
+          "composer": "Barry Gibb, Robin Gibb and Maurice Gibb",
+          "original_artist": "Bee Gees",
+          "from": "Saturday Night Fever",
+          "year": 1977,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop Ballad",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "warm",
+            "intimate"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "wedding"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "I Just Fall In Love Again",
+          "page": 54,
+          "composer": "Larry Herbstritt, Stephen Dorff, Gloria Sklerov and Harry Lloyd",
+          "original_artist": "Anne Murray",
+          "from": null,
+          "year": 1979,
+          "era": "1970s",
+          "genre": "Country",
+          "subgenre": "Country Pop Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "I Love You",
+          "page": 60,
+          "composer": "Cole Porter",
+          "original_artist": null,
+          "from": "Mexican Hayride",
+          "year": 1944,
+          "era": "1940s",
+          "genre": "Great American Songbook",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "elegant",
+            "tender",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "romantic evening"
+          ],
+          "confidence": "medium",
+          "notes": "Likely the Cole Porter standard from Mexican Hayride; title is generic."
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 61,
+          "composer": "Carrie Jacobs-Bond",
+          "original_artist": null,
+          "from": null,
+          "year": 1901,
+          "era": "1900s",
+          "genre": "Great American Songbook",
+          "subgenre": "Parlor Ballad",
+          "mood_tags": [
+            "sentimental",
+            "tender",
+            "romantic",
+            "nostalgic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": "Early-1900s parlor song, long a wedding staple."
+        },
+        {
+          "title": "I Want You Forever",
+          "page": 64,
+          "composer": "Carl Carlton",
+          "original_artist": "Carl Carlton",
+          "from": null,
+          "year": 1985,
+          "era": "1980s",
+          "genre": "R&B/Soul",
+          "subgenre": "Quiet Storm",
+          "mood_tags": [
+            "romantic",
+            "longing",
+            "sultry",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "low",
+          "notes": "Common title; likely the Carl Carlton 1980s R&B ballad given the book's era, but not verified — also collides with the I.O.U. page number (64)."
+        },
+        {
+          "title": "I Want You, I Need You, I Love You",
+          "page": 53,
+          "composer": "Maurice Mysels and Ira Kosloff",
+          "original_artist": "Elvis Presley",
+          "from": null,
+          "year": 1956,
+          "era": "1950s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "longing",
+            "warm",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "I.O.U.",
+          "page": 64,
+          "composer": "Kerry Chater and Austin Roberts",
+          "original_artist": "Lee Greenwood",
+          "from": null,
+          "year": 1983,
+          "era": "1980s",
+          "genre": "Country",
+          "subgenre": "Country Pop Ballad",
+          "mood_tags": [
+            "sentimental",
+            "warm",
+            "tender",
+            "romantic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "anniversary",
+            "wedding"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "If We Only Have Love",
+          "page": 66,
+          "composer": "Jacques Brel, Mort Shuman and Eric Blau",
+          "original_artist": null,
+          "from": "Jacques Brel Is Alive and Well and Living in Paris",
+          "year": 1968,
+          "era": "1960s",
+          "genre": "Musical Theatre",
+          "subgenre": "Anthem",
+          "mood_tags": [
+            "hopeful",
+            "uplifting",
+            "tender",
+            "spiritual"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "ceremony"
+          ],
+          "confidence": "high",
+          "notes": "English adaptation of Brel's 'Quand on n'a que l'amour'."
+        },
+        {
+          "title": "If You Remember Me",
+          "page": 73,
+          "composer": "Marvin Hamlisch and Carole Bayer Sager",
+          "original_artist": "Chris Thompson",
+          "from": "The Champ",
+          "year": 1979,
+          "era": "1970s",
+          "genre": "Film/TV Score",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "wistful",
+            "longing",
+            "bittersweet",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Islands In The Stream",
+          "page": 76,
+          "composer": "Barry Gibb, Robin Gibb and Maurice Gibb",
+          "original_artist": "Kenny Rogers and Dolly Parton",
+          "from": null,
+          "year": 1983,
+          "era": "1980s",
+          "genre": "Country",
+          "subgenre": "Country Pop",
+          "mood_tags": [
+            "warm",
+            "cheerful",
+            "romantic",
+            "uplifting"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "sing-along",
+            "party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Just As I Am",
+          "page": 80,
+          "composer": "Rob Hegel and Dick Wagner",
+          "original_artist": "Air Supply",
+          "from": null,
+          "year": 1985,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Soft Rock Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "longing"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": "The Air Supply 1985 single (not the hymn of the same title)."
+        },
+        {
+          "title": "Last Time I Felt Like This, The",
+          "page": 86,
+          "composer": "Marvin Hamlisch, Alan Bergman and Marilyn Bergman",
+          "original_artist": "Johnny Mathis and Jane Olivor",
+          "from": "Same Time, Next Year",
+          "year": 1978,
+          "era": "1970s",
+          "genre": "Film/TV Score",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "warm",
+            "tender",
+            "nostalgic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "dinner"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Let It Be Me",
+          "page": 89,
+          "composer": "Gilbert Bécaud, Pierre Delanoë and Mann Curtis",
+          "original_artist": "The Everly Brothers",
+          "from": null,
+          "year": 1955,
+          "era": "1960s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "longing",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "romantic evening",
+            "wedding"
+          ],
+          "confidence": "high",
+          "notes": "English version of the French 'Je t'appartiens' (1955)."
+        },
+        {
+          "title": "Let's Fall In Love Sweetheart",
+          "page": 92,
+          "composer": null,
+          "original_artist": null,
+          "from": null,
+          "year": null,
+          "era": "1950s",
+          "genre": "Great American Songbook",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening"
+          ],
+          "confidence": "low",
+          "notes": "Could not confidently identify composer or origin; title is generic and may be a lesser-known sentimental ballad."
+        },
+        {
+          "title": "Love Is Here To Stay",
+          "page": 97,
+          "composer": "George Gershwin and Ira Gershwin",
+          "original_artist": null,
+          "from": "The Goldwyn Follies",
+          "year": 1938,
+          "era": "1930s",
+          "genre": "Jazz Standard",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "warm",
+            "elegant",
+            "tender"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "wedding"
+          ],
+          "confidence": "high",
+          "notes": "George Gershwin's last completed song."
+        },
+        {
+          "title": "Love Me Tender",
+          "page": 90,
+          "composer": "Elvis Presley and Vera Matson",
+          "original_artist": "Elvis Presley",
+          "from": "Love Me Tender",
+          "year": 1956,
+          "era": "1950s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "wedding",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": "Melody adapted from the Civil War-era 'Aura Lee'."
+        },
+        {
+          "title": "Love Song, A",
+          "page": 94,
+          "composer": "Kenny Loggins and Donna Lyn George",
+          "original_artist": "Anne Murray",
+          "from": null,
+          "year": 1973,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop Ballad",
+          "mood_tags": [
+            "tender",
+            "warm",
+            "romantic",
+            "serene"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "rainy day"
+          ],
+          "confidence": "medium",
+          "notes": "Generic title; most likely the Loggins-penned song that was an Anne Murray hit."
+        },
+        {
+          "title": "Love Theme From Flashdance",
+          "page": 100,
+          "composer": "Giorgio Moroder",
+          "original_artist": null,
+          "from": "Flashdance",
+          "year": 1983,
+          "era": "1980s",
+          "genre": "Film/TV Score",
+          "subgenre": "Instrumental Theme",
+          "mood_tags": [
+            "dreamy",
+            "romantic",
+            "longing",
+            "wistful"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "medium",
+          "notes": "Instrumental love theme from the Flashdance score."
+        },
+        {
+          "title": "Love's Grown Deep",
+          "page": 97,
+          "composer": "Kenny Nolan",
+          "original_artist": "Kenny Nolan",
+          "from": null,
+          "year": 1977,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop Ballad",
+          "mood_tags": [
+            "romantic",
+            "warm",
+            "tender",
+            "longing"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Loving You",
+          "page": 104,
+          "composer": "Minnie Riperton and Richard Rudolph",
+          "original_artist": "Minnie Riperton",
+          "from": null,
+          "year": 1974,
+          "era": "1970s",
+          "genre": "R&B/Soul",
+          "subgenre": "Soul Ballad",
+          "mood_tags": [
+            "tender",
+            "warm",
+            "dreamy",
+            "romantic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "medium",
+          "notes": "Most likely Minnie Riperton's 1974/75 hit; title is generic."
+        },
+        {
+          "title": "Making Love",
+          "page": 106,
+          "composer": "Burt Bacharach, Carole Bayer Sager and Bruce Roberts",
+          "original_artist": "Roberta Flack",
+          "from": "Making Love",
+          "year": 1982,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "intimate",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "May You Always",
+          "page": 109,
+          "composer": "Larry Markes and Dick Charles",
+          "original_artist": "The McGuire Sisters",
+          "from": null,
+          "year": 1958,
+          "era": "1950s",
+          "genre": "Great American Songbook",
+          "subgenre": "Sentimental Ballad",
+          "mood_tags": [
+            "sentimental",
+            "warm",
+            "hopeful",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Misty",
+          "page": 110,
+          "composer": "Erroll Garner and Johnny Burke",
+          "original_artist": "Johnny Mathis",
+          "from": null,
+          "year": 1954,
+          "era": "1950s",
+          "genre": "Jazz Standard",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "dreamy",
+            "elegant",
+            "wistful"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": "Garner's instrumental (1954); Burke added lyrics (1955)."
+        },
+        {
+          "title": "My Cup Runneth Over",
+          "page": 117,
+          "composer": "Harvey Schmidt and Tom Jones",
+          "original_artist": "Ed Ames",
+          "from": "I Do! I Do!",
+          "year": 1966,
+          "era": "1960s",
+          "genre": "Musical Theatre",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "tender",
+            "warm",
+            "romantic",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "My Funny Valentine",
+          "page": 120,
+          "composer": "Richard Rodgers and Lorenz Hart",
+          "original_artist": null,
+          "from": "Babes in Arms",
+          "year": 1937,
+          "era": "1930s",
+          "genre": "Jazz Standard",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "tender",
+            "wistful",
+            "romantic",
+            "bittersweet"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "dinner"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "P.S. I Love You",
+          "page": 122,
+          "composer": "Gordon Jenkins and Johnny Mercer",
+          "original_artist": "Rudy Vallée",
+          "from": null,
+          "year": 1934,
+          "era": "1930s",
+          "genre": "Great American Songbook",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "warm",
+            "longing",
+            "elegant"
+          ],
+          "tempo": "medium",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": "The 1934 Jenkins/Mercer standard, not the Beatles song."
+        },
+        {
+          "title": "Reminiscing",
+          "page": 130,
+          "composer": "Graeham Goble",
+          "original_artist": "Little River Band",
+          "from": null,
+          "year": 1978,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Rock",
+          "mood_tags": [
+            "nostalgic",
+            "warm",
+            "wistful",
+            "romantic"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Sea Of Love",
+          "page": 113,
+          "composer": "Phil Phillips and George Khoury",
+          "original_artist": "Phil Phillips",
+          "from": null,
+          "year": 1959,
+          "era": "1950s",
+          "genre": "R&B/Soul",
+          "subgenre": "Doo-Wop Ballad",
+          "mood_tags": [
+            "romantic",
+            "dreamy",
+            "longing",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "September Morn",
+          "page": 125,
+          "composer": "Neil Diamond and Gilbert Bécaud",
+          "original_artist": "Neil Diamond",
+          "from": null,
+          "year": 1979,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Rock Ballad",
+          "mood_tags": [
+            "nostalgic",
+            "romantic",
+            "wistful",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Shadows In The Moonlight",
+          "page": 136,
+          "composer": "Charlie Black and Rory Bourke",
+          "original_artist": "Anne Murray",
+          "from": null,
+          "year": 1979,
+          "era": "1970s",
+          "genre": "Country",
+          "subgenre": "Country Pop",
+          "mood_tags": [
+            "romantic",
+            "playful",
+            "warm",
+            "dreamy"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "She Believes In Me",
+          "page": 142,
+          "composer": "Steve Gibb",
+          "original_artist": "Kenny Rogers",
+          "from": null,
+          "year": 1979,
+          "era": "1970s",
+          "genre": "Country",
+          "subgenre": "Country Pop Ballad",
+          "mood_tags": [
+            "tender",
+            "warm",
+            "sentimental",
+            "longing"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "So In Love",
+          "page": 139,
+          "composer": "Cole Porter",
+          "original_artist": null,
+          "from": "Kiss Me, Kate",
+          "year": 1948,
+          "era": "1940s",
+          "genre": "Musical Theatre",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "dramatic",
+            "longing",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "dinner",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Some Enchanted Evening",
+          "page": 146,
+          "composer": "Richard Rodgers and Oscar Hammerstein II",
+          "original_artist": null,
+          "from": "South Pacific",
+          "year": 1949,
+          "era": "1940s",
+          "genre": "Musical Theatre",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "grand",
+            "dreamy",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Sunrise, Sunset",
+          "page": 150,
+          "composer": "Jerry Bock and Sheldon Harnick",
+          "original_artist": null,
+          "from": "Fiddler on the Roof",
+          "year": 1964,
+          "era": "1960s",
+          "genre": "Musical Theatre",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "nostalgic",
+            "bittersweet",
+            "sentimental",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Through The Years",
+          "page": 156,
+          "composer": "Steve Dorff and Marty Panzer",
+          "original_artist": "Kenny Rogers",
+          "from": null,
+          "year": 1981,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "sentimental",
+            "warm",
+            "romantic",
+            "nostalgic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Ties That Bind, The",
+          "page": 154,
+          "composer": null,
+          "original_artist": null,
+          "from": null,
+          "year": null,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "warm",
+            "sentimental",
+            "tender",
+            "romantic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "low",
+          "notes": "Could not confidently identify; not Springsteen's same-titled song given this book's content. Composer/origin unverified."
+        },
+        {
+          "title": "'Til",
+          "page": 169,
+          "composer": "Charles Danvers and Pierre Buisson",
+          "original_artist": "The Angels",
+          "from": null,
+          "year": 1957,
+          "era": "1950s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "longing",
+            "romantic",
+            "tender",
+            "wistful"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "medium",
+          "notes": "The standard '(Til) The End of Time' lyric by Sigman set to a French melody; popularized by The Angels and Tom Jones."
+        },
+        {
+          "title": "'Til We Two Are One",
+          "page": 172,
+          "composer": "Tom Glazer, Larry Markes and Dick Charles",
+          "original_artist": "Georgie Shaw",
+          "from": null,
+          "year": 1954,
+          "era": "1950s",
+          "genre": "Great American Songbook",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "romantic evening"
+          ],
+          "confidence": "medium",
+          "notes": null
+        },
+        {
+          "title": "Time After Time",
+          "page": 174,
+          "composer": "Jule Styne and Sammy Cahn",
+          "original_artist": "Frank Sinatra",
+          "from": "It Happened in Brooklyn",
+          "year": 1947,
+          "era": "1940s",
+          "genre": "Jazz Standard",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": "The 1947 Styne/Cahn standard, not the 1983 Cyndi Lauper song."
+        },
+        {
+          "title": "To Love Again",
+          "page": 178,
+          "composer": "Frédéric Chopin, adapted by Morris Stoloff and George Sidney",
+          "original_artist": "Carmen Cavallaro",
+          "from": "The Eddy Duchin Story",
+          "year": 1956,
+          "era": "1950s",
+          "genre": "Film/TV Score",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "nostalgic",
+            "wistful",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "romantic evening"
+          ],
+          "confidence": "medium",
+          "notes": "Theme from The Eddy Duchin Story, adapted from Chopin's Nocturne in E-flat (Op. 9 No. 2)."
+        },
+        {
+          "title": "Touch Of Your Lips, The",
+          "page": 175,
+          "composer": "Ray Noble",
+          "original_artist": "Ray Noble",
+          "from": null,
+          "year": 1936,
+          "era": "1930s",
+          "genre": "Jazz Standard",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "intimate",
+            "elegant",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "True Love",
+          "page": 184,
+          "composer": "Cole Porter",
+          "original_artist": "Bing Crosby and Grace Kelly",
+          "from": "High Society",
+          "year": 1956,
+          "era": "1950s",
+          "genre": "Great American Songbook",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "warm",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "easy",
+          "good_for": [
+            "wedding",
+            "anniversary"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Try To Remember",
+          "page": 186,
+          "composer": "Harvey Schmidt and Tom Jones",
+          "original_artist": null,
+          "from": "The Fantasticks",
+          "year": 1960,
+          "era": "1960s",
+          "genre": "Musical Theatre",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "nostalgic",
+            "wistful",
+            "tender",
+            "bittersweet"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Turn Around",
+          "page": 188,
+          "composer": "Malvina Reynolds, Alan Greene and Harry Belafonte",
+          "original_artist": "Harry Belafonte",
+          "from": null,
+          "year": 1958,
+          "era": "1950s",
+          "genre": "Folk",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "nostalgic",
+            "tender",
+            "bittersweet",
+            "sentimental"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "family",
+            "rainy day"
+          ],
+          "confidence": "medium",
+          "notes": "Sentimental song about a child growing up; later used in a famous Kodak ad."
+        },
+        {
+          "title": "Valotte",
+          "page": 193,
+          "composer": "Julian Lennon, Justin Clayton and Carlton Morales",
+          "original_artist": "Julian Lennon",
+          "from": null,
+          "year": 1984,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Soft Rock Ballad",
+          "mood_tags": [
+            "wistful",
+            "melancholy",
+            "dreamy",
+            "longing"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "When I Fall In Love",
+          "page": 198,
+          "composer": "Victor Young and Edward Heyman",
+          "original_artist": "Doris Day",
+          "from": null,
+          "year": 1952,
+          "era": "1950s",
+          "genre": "Jazz Standard",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "romantic",
+            "tender",
+            "warm",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "wedding",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "When I Need You",
+          "page": 196,
+          "composer": "Albert Hammond and Carole Bayer Sager",
+          "original_artist": "Leo Sayer",
+          "from": null,
+          "year": 1976,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop Ballad",
+          "mood_tags": [
+            "longing",
+            "romantic",
+            "warm",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Woman",
+          "page": 201,
+          "composer": "John Lennon",
+          "original_artist": "John Lennon",
+          "from": "Double Fantasy",
+          "year": 1980,
+          "era": "1980s",
+          "genre": "Rock",
+          "subgenre": "Soft Rock Ballad",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "warm",
+            "longing"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Woman In Love",
+          "page": 204,
+          "composer": "Barry Gibb and Robin Gibb",
+          "original_artist": "Barbra Streisand",
+          "from": "Guilty",
+          "year": 1980,
+          "era": "1980s",
+          "genre": "Pop",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "longing",
+            "dramatic",
+            "romantic",
+            "warm"
+          ],
+          "tempo": "medium",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "You Are Beautiful",
+          "page": 208,
+          "composer": "Richard Rodgers and Oscar Hammerstein II",
+          "original_artist": null,
+          "from": "Flower Drum Song",
+          "year": 1958,
+          "era": "1950s",
+          "genre": "Musical Theatre",
+          "subgenre": "Ballad",
+          "mood_tags": [
+            "tender",
+            "romantic",
+            "dreamy",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "dinner",
+            "romantic evening"
+          ],
+          "confidence": "medium",
+          "notes": "Likely 'You Are Beautiful' from Flower Drum Song given the songbook's standards content."
+        },
+        {
+          "title": "You Are My Lady",
+          "page": 210,
+          "composer": "Barry Eastmond",
+          "original_artist": "Freddie Jackson",
+          "from": "Rock Me Tonight",
+          "year": 1985,
+          "era": "1980s",
+          "genre": "R&B/Soul",
+          "subgenre": "Quiet Storm",
+          "mood_tags": [
+            "romantic",
+            "warm",
+            "tender",
+            "sultry"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "You Give Good Love",
+          "page": 214,
+          "composer": "LaLa (LaForrest Cope)",
+          "original_artist": "Whitney Houston",
+          "from": "Whitney Houston",
+          "year": 1985,
+          "era": "1980s",
+          "genre": "R&B/Soul",
+          "subgenre": "Quiet Storm",
+          "mood_tags": [
+            "romantic",
+            "warm",
+            "sultry",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "late night",
+            "romantic evening"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "You Needed Me",
+          "page": 219,
+          "composer": "Randy Goodrum",
+          "original_artist": "Anne Murray",
+          "from": null,
+          "year": 1978,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Pop Ballad",
+          "mood_tags": [
+            "tender",
+            "warm",
+            "sentimental",
+            "longing"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Your Song",
+          "page": 222,
+          "composer": "Elton John and Bernie Taupin",
+          "original_artist": "Elton John",
+          "from": "Elton John",
+          "year": 1970,
+          "era": "1970s",
+          "genre": "Pop",
+          "subgenre": "Soft Rock Ballad",
+          "mood_tags": [
+            "tender",
+            "warm",
+            "romantic",
+            "nostalgic"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "romantic evening",
+            "wedding"
+          ],
+          "confidence": "high",
+          "notes": null
+        }
+      ],
+      "song_count_captured": 69
+    },
+    {
+      "id": "philip-glass-complete-etudes",
+      "title": "Philip Glass: The Complete Piano Etudes",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": "Book 1 and Book 2",
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5640.jpeg",
+        "IMG_5641.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ETUDE 1",
+          "page": 1,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "contemplative",
+            "energetic",
+            "brooding"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": "Etudes 1-10 (Book 1) composed in the 1990s."
+        },
+        {
+          "title": "ETUDE 2",
+          "page": 6,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "melancholy",
+            "dreamy",
+            "brooding"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 3",
+          "page": 10,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "energetic",
+            "tense",
+            "contemplative"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 4",
+          "page": 16,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "brooding",
+            "dramatic",
+            "melancholy"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 5",
+          "page": 20,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "serene",
+            "contemplative",
+            "peaceful",
+            "dreamy"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 6",
+          "page": 23,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "energetic",
+            "tense",
+            "dramatic"
+          ],
+          "tempo": "fast",
+          "energy": 5,
+          "difficulty": "virtuosic",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": "One of the most demanding of the set, with relentless toccata-like motion."
+        },
+        {
+          "title": "ETUDE 7",
+          "page": 27,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "energetic",
+            "majestic",
+            "dramatic"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 8",
+          "page": 31,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "warm",
+            "serene",
+            "dreamy"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 9",
+          "page": 34,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "majestic",
+            "dramatic",
+            "driving",
+            "brooding"
+          ],
+          "tempo": "medium",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 10",
+          "page": 38,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 1994,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "energetic",
+            "majestic",
+            "triumphant"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 11",
+          "page": 46,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "brooding",
+            "melancholy",
+            "dramatic"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": "Etudes 11-20 (Book 2) composed in the 2000s, completed 2012."
+        },
+        {
+          "title": "ETUDE 12",
+          "page": 54,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "energetic",
+            "dramatic",
+            "tense"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 13",
+          "page": 60,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "serene",
+            "dreamy",
+            "peaceful"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 14",
+          "page": 65,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "serene",
+            "peaceful",
+            "contemplative",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 15",
+          "page": 70,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "dramatic",
+            "energetic",
+            "brooding"
+          ],
+          "tempo": "medium",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 16",
+          "page": 80,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "driving",
+            "energetic",
+            "tense",
+            "dramatic"
+          ],
+          "tempo": "fast",
+          "energy": 5,
+          "difficulty": "virtuosic",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 17",
+          "page": 84,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "brooding",
+            "melancholy",
+            "dreamy"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "practice"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 18",
+          "page": 92,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "contemplative",
+            "serene",
+            "peaceful",
+            "warm"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 19",
+          "page": 95,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "serene",
+            "contemplative",
+            "dreamy",
+            "peaceful"
+          ],
+          "tempo": "medium",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "ETUDE 20",
+          "page": 102,
+          "composer": "Philip Glass",
+          "original_artist": null,
+          "from": "The Complete Piano Etudes",
+          "year": 2012,
+          "era": "Contemporary",
+          "genre": "New Age/Minimalist",
+          "subgenre": "Étude",
+          "mood_tags": [
+            "serene",
+            "peaceful",
+            "contemplative",
+            "tender"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "advanced",
+          "good_for": [
+            "focus",
+            "rainy day"
+          ],
+          "confidence": "high",
+          "notes": "Final etude; reflective, hymn-like close to the cycle."
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "granados-valses-poeticos",
+      "title": "Granados: Valses Poéticos",
+      "title_confidence": "confident",
+      "composer": "Enrique Granados",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5629.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "About the Composer",
+          "page": 4,
+          "composer": null,
+          "original_artist": null,
+          "from": null,
+          "year": null,
+          "era": null,
+          "genre": "Classical",
+          "subgenre": "Front Matter",
+          "mood_tags": [
+            "contemplative",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 1,
+          "difficulty": "beginner",
+          "good_for": [],
+          "confidence": "high",
+          "notes": "Editorial front matter, not a musical piece."
+        },
+        {
+          "title": "About the Composition",
+          "page": 6,
+          "composer": null,
+          "original_artist": null,
+          "from": null,
+          "year": null,
+          "era": null,
+          "genre": "Classical",
+          "subgenre": "Front Matter",
+          "mood_tags": [
+            "contemplative",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 1,
+          "difficulty": "beginner",
+          "good_for": [],
+          "confidence": "high",
+          "notes": "Editorial front matter, not a musical piece."
+        },
+        {
+          "title": "About the Edition",
+          "page": 7,
+          "composer": null,
+          "original_artist": null,
+          "from": null,
+          "year": null,
+          "era": null,
+          "genre": "Classical",
+          "subgenre": "Front Matter",
+          "mood_tags": [
+            "contemplative",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 1,
+          "difficulty": "beginner",
+          "good_for": [],
+          "confidence": "high",
+          "notes": "Editorial front matter, not a musical piece."
+        },
+        {
+          "title": "About the Editor",
+          "page": 7,
+          "composer": null,
+          "original_artist": null,
+          "from": null,
+          "year": null,
+          "era": null,
+          "genre": "Classical",
+          "subgenre": "Front Matter",
+          "mood_tags": [
+            "contemplative",
+            "elegant"
+          ],
+          "tempo": "slow",
+          "energy": 1,
+          "difficulty": "beginner",
+          "good_for": [],
+          "confidence": "high",
+          "notes": "Editorial front matter, not a musical piece."
+        },
+        {
+          "title": "VALSES POÉTICOS — Introducción (Vivace molto)",
+          "page": 8,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "dramatic",
+            "majestic",
+            "energetic",
+            "elegant"
+          ],
+          "tempo": "fast",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": "Brisk introduction that opens the waltz cycle."
+        },
+        {
+          "title": "No. 1 Vals melódico (Cadencioso)",
+          "page": 12,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "elegant",
+            "tender",
+            "romantic",
+            "warm"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "dinner"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "No. 2 Vals apasionado (Tempo de vals noble)",
+          "page": 14,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "romantic",
+            "dramatic",
+            "elegant",
+            "longing"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "dinner"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "No. 3 Vals lento (Tempo de vals lento)",
+          "page": 18,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "tender",
+            "wistful",
+            "elegant",
+            "serene"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "No. 4 Vals humorístico (Allegro humorístico)",
+          "page": 20,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "playful",
+            "whimsical",
+            "cheerful",
+            "elegant"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "No. 5 Vals brillante (Allegretto (elegante))",
+          "page": 22,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "elegant",
+            "playful",
+            "cheerful",
+            "energetic"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "No. 6 Vals sentimental (Quasi ad libitum (sentimental))",
+          "page": 24,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "sentimental",
+            "tender",
+            "wistful",
+            "romantic"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "No. 7 Vals mariposa (Vivo)",
+          "page": 26,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "playful",
+            "whimsical",
+            "lively",
+            "cheerful"
+          ],
+          "tempo": "fast",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": "'Butterfly Waltz' — light and fluttering."
+        },
+        {
+          "title": "No. 8 Vals ideal (Presto)",
+          "page": 28,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "energetic",
+            "lively",
+            "elegant",
+            "cheerful"
+          ],
+          "tempo": "fast",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "cocktail party"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Final (Tempo dil primo vals)",
+          "page": 30,
+          "composer": "Enrique Granados",
+          "original_artist": null,
+          "from": "Valses Poéticos",
+          "year": 1887,
+          "era": "Romantic",
+          "genre": "Classical",
+          "subgenre": "Waltz",
+          "mood_tags": [
+            "elegant",
+            "triumphant",
+            "warm",
+            "romantic"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "recital",
+            "dinner"
+          ],
+          "confidence": "high",
+          "notes": "Recalls the opening waltz to close the set; printed 'dil' is a typo for 'del'."
+        }
+      ],
+      "song_count_captured": 14
+    },
+    {
+      "id": "encanto",
+      "title": "Encanto",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5396.jpeg",
+        "IMG_5397.jpeg"
+      ],
+      "flags": [],
+      "title_suggestion": "Encanto: Music from the Motion Picture Soundtrack (Piano/Vocal/Guitar)",
+      "identification_note": "Captured 9-song list matches exactly the Hal Leonard Encanto P/V/G songbook (HL 00398900), all songs by Lin-Manuel Miranda.",
+      "songs": [
+        {
+          "title": "The Family Madrigal",
+          "page": 9,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Stephanie Beatriz",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Musical Theatre / Latin Pop",
+          "mood_tags": [
+            "playful",
+            "lively",
+            "cheerful",
+            "whimsical"
+          ],
+          "tempo": "fast",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "kids",
+            "family"
+          ],
+          "confidence": "high",
+          "notes": "Rapid patter song; demanding to play and sing."
+        },
+        {
+          "title": "Waiting On A Miracle",
+          "page": 32,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Stephanie Beatriz",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Musical Theatre / I Want Song",
+          "mood_tags": [
+            "longing",
+            "hopeful",
+            "wistful",
+            "dramatic"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "intermediate",
+          "good_for": [
+            "kids",
+            "family"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Surface Pressure",
+          "page": 24,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Jessica Darrow",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Reggaeton / Latin Pop",
+          "mood_tags": [
+            "energetic",
+            "driving",
+            "tense",
+            "playful"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "kids",
+            "family"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "We Don't Talk About Bruno",
+          "page": 40,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Encanto Cast",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Musical Theatre / Latin Pop",
+          "mood_tags": [
+            "mysterious",
+            "playful",
+            "lively",
+            "quirky"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "kids",
+            "family",
+            "party"
+          ],
+          "confidence": "high",
+          "notes": "Multi-section ensemble number with overlapping vocal lines."
+        },
+        {
+          "title": "What Else Can I Do?",
+          "page": 60,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Diane Guerrero and Stephanie Beatriz",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Latin Pop / Empowerment Anthem",
+          "mood_tags": [
+            "uplifting",
+            "joyful",
+            "energetic",
+            "triumphant"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "kids",
+            "family"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Dos Oruguitas",
+          "page": 70,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Sebastián Yatra",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Latin Folk Ballad (Spanish)",
+          "mood_tags": [
+            "tender",
+            "bittersweet",
+            "longing",
+            "melancholy"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "family",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": "Spanish-language ballad; Oscar-nominated for Best Original Song."
+        },
+        {
+          "title": "All Of You",
+          "page": 50,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Encanto Cast",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Musical Theatre Finale / Latin Pop",
+          "mood_tags": [
+            "uplifting",
+            "joyful",
+            "festive",
+            "triumphant"
+          ],
+          "tempo": "upbeat",
+          "energy": 4,
+          "difficulty": "advanced",
+          "good_for": [
+            "kids",
+            "family",
+            "party"
+          ],
+          "confidence": "high",
+          "notes": "Large ensemble finale."
+        },
+        {
+          "title": "Colombia, Mi Encanto",
+          "page": 91,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Carlos Vives",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Latin/World",
+          "subgenre": "Cumbia / Vallenato",
+          "mood_tags": [
+            "festive",
+            "joyful",
+            "lively",
+            "energetic"
+          ],
+          "tempo": "fast",
+          "energy": 4,
+          "difficulty": "intermediate",
+          "good_for": [
+            "party",
+            "family"
+          ],
+          "confidence": "high",
+          "notes": null
+        },
+        {
+          "title": "Two Oruguitas",
+          "page": 80,
+          "composer": "Lin-Manuel Miranda",
+          "original_artist": "Sebastián Yatra",
+          "from": "Encanto",
+          "year": 2021,
+          "era": "2020s",
+          "genre": "Film/TV Score",
+          "subgenre": "Latin Folk Ballad (English)",
+          "mood_tags": [
+            "tender",
+            "bittersweet",
+            "longing",
+            "melancholy"
+          ],
+          "tempo": "slow",
+          "energy": 2,
+          "difficulty": "intermediate",
+          "good_for": [
+            "family",
+            "late night"
+          ],
+          "confidence": "high",
+          "notes": "English-language version of 'Dos Oruguitas'."
+        }
+      ],
+      "song_count_captured": 9
+    },
+    {
+      "id": "villalobos-acordei-de-madrugada",
+      "title": "Acordei de madrugada (Nº 9)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5663.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Acordei de madrugada",
+          "page": null,
+          "composer": "Heitor Villa-Lobos",
+          "original_artist": null,
+          "from": "Guia Prático, Álbum 1 (No. 9)",
+          "year": 1932,
+          "era": "20th-Century",
+          "genre": "Classical",
+          "subgenre": "Brazilian Folk Arrangement",
+          "mood_tags": [
+            "folksy",
+            "playful",
+            "tender",
+            "whimsical"
+          ],
+          "tempo": "medium",
+          "energy": 3,
+          "difficulty": "easy",
+          "good_for": [
+            "practice",
+            "kids"
+          ],
+          "confidence": "high",
+          "notes": "Villa-Lobos's piano arrangement of a Brazilian children's/folk tune ('I awoke at dawn') from his Guia Prático pedagogical collection.",
+          "composer_printed": "H. Villa-Lobos"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

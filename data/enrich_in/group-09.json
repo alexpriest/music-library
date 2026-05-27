@@ -1,0 +1,589 @@
+{
+  "group": "09",
+  "books": [
+    {
+      "id": "hall-of-fame-artists-hits",
+      "title": "Hall of Fame: Artists & Their Hits",
+      "title_confidence": "probable",
+      "series": "Armed Forces Song Folio Music Book",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5655.jpeg",
+        "IMG_5656.jpeg"
+      ],
+      "flags": [
+        "Cover (5655) + contents/artist-index (5656) grouped as one book."
+      ],
+      "songs": [
+        {
+          "title": "All Things Must Pass",
+          "page": 92
+        },
+        {
+          "title": "Another Door",
+          "page": 117
+        },
+        {
+          "title": "Apple Scruffs",
+          "page": 80
+        },
+        {
+          "title": "(That Balance Of) Nature",
+          "page": 8
+        },
+        {
+          "title": "Be Aware",
+          "page": 28
+        },
+        {
+          "title": "(Trip) Best Thing",
+          "page": 120
+        },
+        {
+          "title": "Born On The Bayou",
+          "page": 117
+        },
+        {
+          "title": "Cracklin' Rosie",
+          "page": 14
+        },
+        {
+          "title": "Dialogue",
+          "page": 35
+        },
+        {
+          "title": "Doesn't Anybody Know My Name",
+          "page": 110
+        },
+        {
+          "title": "Everybody's Out Of Town",
+          "page": 12
+        },
+        {
+          "title": "For You Blue",
+          "page": 94
+        },
+        {
+          "title": "(The) Garden",
+          "page": 78
+        },
+        {
+          "title": "Green River",
+          "page": 53
+        },
+        {
+          "title": "Have You Ever Seen The Rain?",
+          "page": 56
+        },
+        {
+          "title": "Here Comes The Sun",
+          "page": 86
+        },
+        {
+          "title": "I Wanna Be Your Man",
+          "page": 32
+        },
+        {
+          "title": "If I Never Knew Your Name",
+          "page": 111
+        },
+        {
+          "title": "I'll Catch The Sun",
+          "page": 112
+        },
+        {
+          "title": "Knowing When To Leave",
+          "page": 5
+        },
+        {
+          "title": "Loneliness Is Just A Word",
+          "page": 34
+        },
+        {
+          "title": "Love Me Do",
+          "page": 40
+        },
+        {
+          "title": "Love's Been Good To Me",
+          "page": 107
+        },
+        {
+          "title": "Memories Of Love",
+          "page": 41
+        },
+        {
+          "title": "Now More Than Ever",
+          "page": 40
+        },
+        {
+          "title": "Odds And Ends",
+          "page": 58
+        },
+        {
+          "title": "One More Time",
+          "page": 70
+        },
+        {
+          "title": "P.S. I Love You",
+          "page": 26
+        },
+        {
+          "title": "Features Green",
+          "page": 114
+        },
+        {
+          "title": "Penthouse Pauper",
+          "page": 68
+        },
+        {
+          "title": "Play Me",
+          "page": 20
+        },
+        {
+          "title": "Proud Mary",
+          "page": 65
+        },
+        {
+          "title": "Sentimental Journey",
+          "page": 81
+        },
+        {
+          "title": "She Loves You",
+          "page": 38
+        },
+        {
+          "title": "Something",
+          "page": 90
+        },
+        {
+          "title": "Sweet Caroline",
+          "page": 17
+        },
+        {
+          "title": "(A) Taste Of Honey",
+          "page": 30
+        },
+        {
+          "title": "Tweetin' Up The Country",
+          "page": 50
+        },
+        {
+          "title": "25 Or 6 To 4",
+          "page": 4
+        },
+        {
+          "title": "Wedding Bell Blues",
+          "page": 60
+        },
+        {
+          "title": "What Is Life",
+          "page": 88
+        },
+        {
+          "title": "While My Guitar Gently Weeps",
+          "page": 104
+        },
+        {
+          "title": "Whoever You Are I Love You",
+          "page": 96
+        },
+        {
+          "title": "Who'll Stop The Rain",
+          "page": 63
+        }
+      ],
+      "song_count_captured": 44
+    },
+    {
+      "id": "yann-tiersen-piano-works",
+      "title": "Yann Tiersen: Piano Works 1994–2003",
+      "title_confidence": "confident",
+      "composer": "Yann Tiersen",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5398.jpeg",
+        "IMG_5399.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "COMPTINE D'ETE n°2",
+          "page": 4
+        },
+        {
+          "title": "COMPTINE D'ETE n°3",
+          "page": 8
+        },
+        {
+          "title": "NAOMI",
+          "page": 11
+        },
+        {
+          "title": "LE VIEUX EN VEUT ENCORE",
+          "page": 15
+        },
+        {
+          "title": "TOUJOURS LA",
+          "page": 18
+        },
+        {
+          "title": "COMPTINE D'ETE n°1",
+          "page": 20
+        },
+        {
+          "title": "LA PIECE VIDE",
+          "page": 23
+        },
+        {
+          "title": "LA DISPUTE",
+          "page": 26
+        },
+        {
+          "title": "SUR LE FIL",
+          "page": 29
+        },
+        {
+          "title": "LES JOURS HEUREUX",
+          "page": 32
+        },
+        {
+          "title": "LA CHUTE",
+          "page": 34
+        },
+        {
+          "title": "L'ABSENTE",
+          "page": 39
+        },
+        {
+          "title": "L'ECHEC",
+          "page": 43
+        },
+        {
+          "title": "LE RETOUR",
+          "page": 47
+        },
+        {
+          "title": "LA VALSE D'AMELIE",
+          "page": 50
+        },
+        {
+          "title": "COMPTINE D'UN AUTRE ETE : L'APRES-MIDI",
+          "page": 55
+        },
+        {
+          "title": "LE MOULIN",
+          "page": 58
+        },
+        {
+          "title": "PLUS D'HIVER",
+          "page": 63
+        },
+        {
+          "title": "LE MATIN",
+          "page": 67
+        },
+        {
+          "title": "LA PLAGE",
+          "page": 70
+        },
+        {
+          "title": "MARY",
+          "page": 74
+        },
+        {
+          "title": "LES RETROUVAILLES",
+          "page": 78
+        },
+        {
+          "title": "LA JETEE",
+          "page": 82
+        }
+      ],
+      "song_count_captured": 23
+    },
+    {
+      "id": "scarlatti-selected-sonatas",
+      "title": "Scarlatti: Selected Sonatas for the Piano (Alfred / Hinson)",
+      "title_confidence": "confident",
+      "composer": "Domenico Scarlatti",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5618.jpeg",
+        "IMG_5619.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Foreword",
+          "page": 4
+        },
+        {
+          "title": "About Scarlatti",
+          "page": 4
+        },
+        {
+          "title": "About This Collection",
+          "page": 4
+        },
+        {
+          "title": "Explanation of K. and L. Numbers",
+          "page": 5
+        },
+        {
+          "title": "About Each Sonata",
+          "page": 6
+        },
+        {
+          "title": "Sonata in F Major, K. 6 (L. 479)",
+          "page": 9
+        },
+        {
+          "title": "Sonata in D Minor, K. 9 (L. 413)",
+          "page": 12
+        },
+        {
+          "title": "Sonata in G Major, K. 14 (L. 387)",
+          "page": 14
+        },
+        {
+          "title": "Sonata in E Major, K. 20 (L. 375)",
+          "page": 18
+        },
+        {
+          "title": "Sonata in D Major, K. 29 (L. 461)",
+          "page": 21
+        },
+        {
+          "title": "Sonata in D Major, K. 96 (L. 465)",
+          "page": 26
+        },
+        {
+          "title": "Sonata in A Major, K. 113 (L. 345)",
+          "page": 30
+        },
+        {
+          "title": "Sonata in C Major, K. 132 (L. 457)",
+          "page": 34
+        },
+        {
+          "title": "Sonata in G Major, K. 146 (L. 349)",
+          "page": 38
+        },
+        {
+          "title": "Sonata in C Major, K. 159 (L. 104)",
+          "page": 40
+        },
+        {
+          "title": "Sonata in G Major, K. 260 (L. 124)",
+          "page": 42
+        },
+        {
+          "title": "Sonata in A Major, K. 322 (L. 483)",
+          "page": 48
+        },
+        {
+          "title": "Sonata in C Major, K. 420 (L.S. 2)",
+          "page": 52
+        },
+        {
+          "title": "Sonata in G Major, K. 455 (L. 209)",
+          "page": 56
+        },
+        {
+          "title": "Sonata in G Minor, K. 476 (L. 340)",
+          "page": 60
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "satie-piano-works",
+      "title": "Satie: Piano Works (Collection)",
+      "title_confidence": "uncertain",
+      "composer": "Erik Satie",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5626.jpeg",
+        "IMG_5627.jpeg"
+      ],
+      "flags": [
+        "Comprehensive Satie collection; exact edition/title not captured."
+      ],
+      "songs": [
+        {
+          "title": "Sarabandes (1887)",
+          "page": 1
+        },
+        {
+          "title": "Gymnopédies (Gymnopaedias) (1888)",
+          "page": 11
+        },
+        {
+          "title": "Trois Gnossiennes [Three Dances of Knossos (?)] (1890)",
+          "page": 21
+        },
+        {
+          "title": "Le Fils des Étoiles: Wagnérie Kaldéenne du Sâr Péladan [The Son of the Stars: A Chaldean Wagnery by Sâr Péladan] (1891)",
+          "page": 27
+        },
+        {
+          "title": "Sonneries de la Rose + Croix [Trumpet Calls of the Rose + Cross] (1892)",
+          "page": 34
+        },
+        {
+          "title": "Prélude de La Porte Héroïque du Ciel [Prelude to The Heroic Gate of Heaven] (1894)",
+          "page": 44
+        },
+        {
+          "title": "Pièces Froides [Cold Pieces] (1897)",
+          "page": 46
+        },
+        {
+          "title": "Poudre d'Or [Gold Dust] (c. 1901)",
+          "page": 61
+        },
+        {
+          "title": "5 Morceaux en Forme de Poire (à 4 mains) avec une Manière de Commencement, une Prolongation du même & un En Plus, suivi d'une Redite [5 Pieces in Pear Form (for four hands) with a By Way of a Beginning, an Extension of the Same, and an In Addition, followed by a Repetition] (1903)",
+          "page": 66
+        },
+        {
+          "title": "En Habit de Cheval [In Riding Habit] (four hands) (1911)",
+          "page": 96
+        },
+        {
+          "title": "Aperçus Désagréables [Unpleasant Observations] (four hands) (1912)",
+          "page": 108
+        },
+        {
+          "title": "Véritables Préludes Flasques (pour un chien) [Genuine Flabby Preludes (for a dog)] (1912)",
+          "page": 120
+        },
+        {
+          "title": "Descriptions Automatiques [Automatic Descriptions] (1913)",
+          "page": 125
+        },
+        {
+          "title": "Embryons Desséchés [Dried Embryos] (1913)",
+          "page": 135
+        },
+        {
+          "title": "Croquis et Agaceries d'un Gros Bonhomme en Bois [Sketches and Provocations of a Portly Wooden Mannikin] (1913)",
+          "page": 144
+        },
+        {
+          "title": "Chapitres Tournés en Tous Sens [Chapters Turned Every Which Way] (1913)",
+          "page": 156
+        },
+        {
+          "title": "Vieux Sequins et Vieilles Cuirasses [Old Sequins and Old Breastplates] (1913)",
+          "page": 165
+        }
+      ],
+      "song_count_captured": 17
+    },
+    {
+      "id": "ravel-piano-masterpieces",
+      "title": "Ravel: Piano Masterpieces (Collection)",
+      "title_confidence": "probable",
+      "composer": "Maurice Ravel",
+      "series": null,
+      "volume": null,
+      "publisher": "Dover Publications, Inc.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "0-486-78950-X",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5631.jpeg"
+      ],
+      "flags": [
+        "Dover-style collection; exact title not captured. Contents low-res."
+      ],
+      "songs": [
+        {
+          "title": "Menuet antique (Old Minuet), composed 1895, dedicated to Ricardo Viñes",
+          "page": 1
+        },
+        {
+          "title": "Pavane pour une infante défunte (Pavane for a Dead Infanta), 1899, dedicated to Princess E. de Polignac",
+          "page": 9
+        },
+        {
+          "title": "Jeux d'eau (Play of Water), 1901, dedicated to his teacher Gabriel Fauré",
+          "page": 13
+        },
+        {
+          "title": "Sonatine, 1905, dedicated to Mr. and Mrs. Ida Godebski",
+          "page": 18
+        },
+        {
+          "title": "Miroirs, 1904-05",
+          "page": 26
+        },
+        {
+          "title": "Gaspard de la nuit (Aspild Dodger of the Night), 1908",
+          "page": 81
+        },
+        {
+          "title": "Menuet sur le nom d'Haydn (Minuet on the Name of Haydn), 1909",
+          "page": 125
+        }
+      ],
+      "song_count_captured": 7
+    },
+    {
+      "id": "joplin-chrysanthemum",
+      "title": "The Chrysanthemum",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis, Mo.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5592.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Chrysanthemum",
+          "page": null,
+          "composer_printed": "Scott Joplin"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

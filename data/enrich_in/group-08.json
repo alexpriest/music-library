@@ -1,0 +1,538 @@
+{
+  "group": "08",
+  "books": [
+    {
+      "id": "grieg-album",
+      "title": "Grieg: Album of Selected Piano Works",
+      "title_confidence": "uncertain",
+      "composer": "Edvard Grieg",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5613.jpeg"
+      ],
+      "flags": [
+        "Alphabetical-index page; exact edition/title unknown. All-Grieg (Lyric Pieces, Peer Gynt, etc.)."
+      ],
+      "songs": [
+        {
+          "title": "Album-Leaf, Op. 12, No. 7",
+          "page": 32
+        },
+        {
+          "title": "Album-Leaf, Op. 28, No. 3",
+          "page": 50
+        },
+        {
+          "title": "Anitra's Dance, Op. 46, No. 3",
+          "page": 54
+        },
+        {
+          "title": "Arietta, Op. 12, No. 1",
+          "page": 12
+        },
+        {
+          "title": "Ase's Death, Op. 46, No. 2",
+          "page": 92
+        },
+        {
+          "title": "Berceuse, Op. 38, No. 1",
+          "page": 12
+        },
+        {
+          "title": "Birdling, Op. 43, No. 4",
+          "page": 64
+        },
+        {
+          "title": "Butterfly, Op. 43, No. 1",
+          "page": 35
+        },
+        {
+          "title": "By the Cradle, Op. 68, No. 5",
+          "page": 129
+        },
+        {
+          "title": "Canon, Op. 38, No. 8",
+          "page": 24
+        },
+        {
+          "title": "Dance Caprice, Op. 28, No. 3",
+          "page": 54
+        },
+        {
+          "title": "Elegie, Op. 38, No. 6",
+          "page": 22
+        },
+        {
+          "title": "Elfin Dance, Op. 12, No. 4",
+          "page": 18
+        },
+        {
+          "title": "Folk-Song, Op. 12, No. 5",
+          "page": 18
+        },
+        {
+          "title": "Folk-Song, Op. 38, No. 2",
+          "page": 46
+        },
+        {
+          "title": "Grandmother's Minuet, Op. 68, No. 2",
+          "page": 120
+        },
+        {
+          "title": "Humoreske, Op. 6, No. 3",
+          "page": null
+        },
+        {
+          "title": "I Love Thee",
+          "page": 141
+        },
+        {
+          "title": "In the Hall of the Mountain-King, Op. 46, No. 4",
+          "page": 89
+        },
+        {
+          "title": "Love-Poem, Op. 43, No. 5",
+          "page": 46
+        },
+        {
+          "title": "March of the Dwarfs, Op. 54, No. 3",
+          "page": 96
+        },
+        {
+          "title": "Morning-Mood, Op. 46, No. 1",
+          "page": 77
+        },
+        {
+          "title": "Norwegian Bridal Procession, Op. 19, No. 2",
+          "page": null
+        },
+        {
+          "title": "Norwegian Dance, Op. 35, No. 2",
+          "page": 30
+        },
+        {
+          "title": "Norwegian Melody, Op. 12, No. 6",
+          "page": 8
+        },
+        {
+          "title": "Notturno, Op. 54, No. 4",
+          "page": null
+        },
+        {
+          "title": "Patriotic Song, Op. 12, No. 8",
+          "page": 9
+        },
+        {
+          "title": "Peer Gynt Suite (First), Op. 46",
+          "page": null
+        },
+        {
+          "title": "1. Morning-Mood",
+          "page": 77
+        },
+        {
+          "title": "2. Ase's Death",
+          "page": 92
+        },
+        {
+          "title": "3. Anitra's Dance",
+          "page": 84
+        },
+        {
+          "title": "4. In the Hall of the Mountain-King",
+          "page": 89
+        },
+        {
+          "title": "Puck, Op. 71, No. 3",
+          "page": 130
+        },
+        {
+          "title": "Remembrances, Op. 71, No. 7",
+          "page": 134
+        },
+        {
+          "title": "Sailor's Song, Op. 68, No. 1",
+          "page": 118
+        },
+        {
+          "title": "Skip-Dance, Op. 38, No. 5",
+          "page": null
+        },
+        {
+          "title": "Solitary Wanderer, Op. 43, No. 2",
+          "page": 42
+        },
+        {
+          "title": "Solveig's Song, Op. 52, No. 4",
+          "page": 137
+        },
+        {
+          "title": "Spring-Dance, Op. 47, No. 6",
+          "page": 38
+        },
+        {
+          "title": "To Spring, Op. 43, No. 6",
+          "page": 50
+        },
+        {
+          "title": "Waltz, Op. 12, No. 2",
+          "page": 10
+        },
+        {
+          "title": "Waltz, Op. 38, No. 7",
+          "page": 28
+        },
+        {
+          "title": "Watchman's Song, Op. 12, No. 3",
+          "page": null
+        },
+        {
+          "title": "Wedding-Day in Troldhaugen, Op. 65, No. 6",
+          "page": 108
+        }
+      ],
+      "song_count_captured": 44
+    },
+    {
+      "id": "james-bond-songbook",
+      "title": "James Bond: 26 Songs from 24 Films",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal/Guitar",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5610.jpeg"
+      ],
+      "flags": [
+        "Back-cover header; exact book title not captured."
+      ],
+      "songs": [
+        {
+          "title": "The James Bond Theme",
+          "page": null,
+          "from": "DR. NO"
+        },
+        {
+          "title": "From Russia with Love",
+          "page": null,
+          "from": "FROM RUSSIA WITH LOVE"
+        },
+        {
+          "title": "007 Theme",
+          "page": null,
+          "from": "FROM RUSSIA WITH LOVE"
+        },
+        {
+          "title": "Goldfinger",
+          "page": null,
+          "from": "GOLDFINGER"
+        },
+        {
+          "title": "Thunderball",
+          "page": null,
+          "from": "THUNDERBALL"
+        },
+        {
+          "title": "You Only Live Twice",
+          "page": null,
+          "from": "YOU ONLY LIVE TWICE"
+        },
+        {
+          "title": "On Her Majesty's Secret Service",
+          "page": null,
+          "from": "ON HER MAJESTY'S SECRET SERVICE"
+        },
+        {
+          "title": "We Have All the Time in the World",
+          "page": null,
+          "from": "ON HER MAJESTY'S SECRET SERVICE"
+        },
+        {
+          "title": "Diamonds Are Forever",
+          "page": null,
+          "from": "DIAMONDS ARE FOREVER"
+        },
+        {
+          "title": "Live and Let Die",
+          "page": null,
+          "from": "LIVE AND LET DIE"
+        },
+        {
+          "title": "The Man with the Golden Gun",
+          "page": null,
+          "from": "THE MAN WITH THE GOLDEN GUN"
+        },
+        {
+          "title": "Nobody Does It Better",
+          "page": null,
+          "from": "THE SPY WHO LOVED ME"
+        },
+        {
+          "title": "Moonraker",
+          "page": null,
+          "from": "MOONRAKER"
+        },
+        {
+          "title": "For Your Eyes Only",
+          "page": null,
+          "from": "FOR YOUR EYES ONLY"
+        },
+        {
+          "title": "A View to a Kill",
+          "page": null,
+          "from": "A VIEW TO A KILL"
+        },
+        {
+          "title": "The Living Daylights",
+          "page": null,
+          "from": "THE LIVING DAYLIGHTS"
+        },
+        {
+          "title": "Licence to Kill",
+          "page": null,
+          "from": "LICENCE TO KILL"
+        },
+        {
+          "title": "GoldenEye",
+          "page": null,
+          "from": "GOLDENEYE"
+        },
+        {
+          "title": "Tomorrow Never Dies",
+          "page": null,
+          "from": "TOMORROW NEVER DIES"
+        },
+        {
+          "title": "The World Is Not Enough",
+          "page": null,
+          "from": "THE WORLD IS NOT ENOUGH"
+        },
+        {
+          "title": "Die Another Day",
+          "page": null,
+          "from": "DIE ANOTHER DAY"
+        },
+        {
+          "title": "You Know My Name",
+          "page": null,
+          "from": "CASINO ROYALE"
+        },
+        {
+          "title": "Another Way to Die",
+          "page": null,
+          "from": "QUANTUM OF SOLACE"
+        },
+        {
+          "title": "Skyfall",
+          "page": null,
+          "from": "SKYFALL"
+        },
+        {
+          "title": "Writing's on the Wall",
+          "page": null,
+          "from": "SPECTRE"
+        }
+      ],
+      "song_count_captured": 25
+    },
+    {
+      "id": "field-18-nocturnes",
+      "title": "Field: Eighteen Nocturnes for the Piano",
+      "title_confidence": "confident",
+      "composer": "John Field",
+      "series": "Schirmer's Library of Musical Classics, Vol. 42",
+      "volume": "Vol. 42",
+      "publisher": "G. Schirmer",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5394.jpeg"
+      ],
+      "flags": [
+        "Cover only; no contents captured. Canonical 18 nocturnes to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "hamilton",
+      "title": "Hamilton",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5603.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ALEXANDER HAMILTON",
+          "page": 6
+        },
+        {
+          "title": "MY SHOT",
+          "page": 16
+        },
+        {
+          "title": "THE SCHUYLER SISTERS",
+          "page": 37
+        },
+        {
+          "title": "YOU'LL BE BACK",
+          "page": 51
+        },
+        {
+          "title": "HELPLESS",
+          "page": 58
+        },
+        {
+          "title": "SATISFIED",
+          "page": 71
+        },
+        {
+          "title": "WAIT FOR IT",
+          "page": 86
+        },
+        {
+          "title": "THAT WOULD BE ENOUGH",
+          "page": 97
+        },
+        {
+          "title": "HISTORY HAS ITS EYES ON YOU",
+          "page": 100
+        },
+        {
+          "title": "DEAR THEODOSIA",
+          "page": 106
+        },
+        {
+          "title": "WHAT'D I MISS",
+          "page": 113
+        },
+        {
+          "title": "THE ROOM WHERE IT HAPPENS",
+          "page": 126
+        },
+        {
+          "title": "WASHINGTON ON YOUR SIDE",
+          "page": 145
+        },
+        {
+          "title": "ONE LAST TIME",
+          "page": 158
+        },
+        {
+          "title": "HURRICANE",
+          "page": 174
+        },
+        {
+          "title": "BURN",
+          "page": 180
+        },
+        {
+          "title": "IT'S QUIET UPTOWN",
+          "page": 187
+        }
+      ],
+      "song_count_captured": 17
+    },
+    {
+      "id": "library-of-disney-songs",
+      "title": "The Library of Disney Songs",
+      "title_confidence": "confident",
+      "series": "The Library of",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano, Voice and Guitar",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5389.jpeg",
+        "IMG_5390.jpeg"
+      ],
+      "flags": [
+        "Only ~7 of many songs captured — contents page low-res. Reshoot for full list."
+      ],
+      "songs": [
+        {
+          "title": "Alice in Wonderland",
+          "page": null
+        },
+        {
+          "title": "The Aristocats",
+          "page": null
+        },
+        {
+          "title": "The Ballad of Davy Crockett",
+          "page": null
+        },
+        {
+          "title": "The Bare Necessities",
+          "page": null
+        },
+        {
+          "title": "Cruella De Vil",
+          "page": null
+        },
+        {
+          "title": "Beauty and the Beast",
+          "page": null
+        },
+        {
+          "title": "It's a Small World",
+          "page": null
+        }
+      ],
+      "song_count_captured": 7
+    },
+    {
+      "id": "joplin-elite-syncopations",
+      "title": "Elite Syncopations",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, Sheet Music Publishers, St. Louis",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5591.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ELITE SYNCOPATIONS",
+          "page": null,
+          "composer_printed": "Scott Joplin"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

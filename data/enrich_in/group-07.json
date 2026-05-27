@@ -1,0 +1,591 @@
+{
+  "group": "07",
+  "books": [
+    {
+      "id": "100-all-time-popular-hits",
+      "title": "100 All-Time Popular Hits",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5647.jpeg",
+        "IMG_5648.jpeg"
+      ],
+      "flags": [
+        "Only the A–J contents column captured (~47 of 100). Reshoot remaining contents pages."
+      ],
+      "songs": [
+        {
+          "title": "The Ace In The Hole",
+          "page": 5
+        },
+        {
+          "title": "Alexander's Ragtime Band",
+          "page": 8
+        },
+        {
+          "title": "All Through The Night",
+          "page": 12
+        },
+        {
+          "title": "Amazing Grace",
+          "page": 14
+        },
+        {
+          "title": "Angels We Have Heard On High",
+          "page": 16
+        },
+        {
+          "title": "Auld Lang Syne",
+          "page": 13
+        },
+        {
+          "title": "Away In A Manger",
+          "page": 18
+        },
+        {
+          "title": "Ballin' The Jack",
+          "page": 20
+        },
+        {
+          "title": "The Band Played On",
+          "page": 22
+        },
+        {
+          "title": "Beautiful Dreamer",
+          "page": 26
+        },
+        {
+          "title": "Beautiful Isle Of Somewhere",
+          "page": 28
+        },
+        {
+          "title": "Because",
+          "page": 30
+        },
+        {
+          "title": "Believe Me If All Those Endearing Young Charms",
+          "page": 32
+        },
+        {
+          "title": "Bill Bailey, Won't You Please Come Home?",
+          "page": 34
+        },
+        {
+          "title": "Black Is The Color",
+          "page": 38
+        },
+        {
+          "title": "By The Light Of The Silvery Moon",
+          "page": 39
+        },
+        {
+          "title": "Camptown Races",
+          "page": 42
+        },
+        {
+          "title": "Carol Of The Bells",
+          "page": 44
+        },
+        {
+          "title": "Come, Josephine, In My Flying Machine (Up She Goes!)",
+          "page": 46
+        },
+        {
+          "title": "Cuddle Up A Little Closer, Lovey Mine",
+          "page": 48
+        },
+        {
+          "title": "Daisy Bell (Bicycle Built For Two)",
+          "page": 49
+        },
+        {
+          "title": "Deck The Halls",
+          "page": 54
+        },
+        {
+          "title": "Deep River",
+          "page": 58
+        },
+        {
+          "title": "Down By The Old Mill Stream",
+          "page": 55
+        },
+        {
+          "title": "Down By The Riverside",
+          "page": 72
+        },
+        {
+          "title": "Fascination",
+          "page": 60
+        },
+        {
+          "title": "The First Noel",
+          "page": 62
+        },
+        {
+          "title": "Forty-Five Minutes From Broadway",
+          "page": 64
+        },
+        {
+          "title": "Give My Regards To Broadway",
+          "page": 68
+        },
+        {
+          "title": "Go Tell It On The Mountain",
+          "page": 75
+        },
+        {
+          "title": "God Rest Ye Merry Gentlemen",
+          "page": 76
+        },
+        {
+          "title": "Good Christian Men, Rejoice",
+          "page": 77
+        },
+        {
+          "title": "Hark! The Herald Angels Sing",
+          "page": 78
+        },
+        {
+          "title": "Hello! Ma Baby",
+          "page": 80
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 84
+        },
+        {
+          "title": "I Saw Three Ships",
+          "page": 86
+        },
+        {
+          "title": "I Want A Girl (Just Like The Girl)",
+          "page": 90
+        },
+        {
+          "title": "I Wonder Who's Kissing Her Now",
+          "page": 87
+        },
+        {
+          "title": "Ida! Sweet As Apple Cider",
+          "page": 92
+        },
+        {
+          "title": "In My Merry Oldsmobile",
+          "page": 97
+        },
+        {
+          "title": "In The Evening By The Moonlight",
+          "page": 100
+        },
+        {
+          "title": "In The Good Old Summertime",
+          "page": 102
+        },
+        {
+          "title": "In The Shade Of The Old Apple Tree",
+          "page": 105
+        },
+        {
+          "title": "It Came Upon The Midnight Clear",
+          "page": 110
+        },
+        {
+          "title": "I'll Take You Home Again, Kathleen",
+          "page": 112
+        },
+        {
+          "title": "Jeanie With The Light Brown Hair",
+          "page": 115
+        },
+        {
+          "title": "Jingle Bells",
+          "page": 118
+        }
+      ],
+      "song_count_captured": 47
+    },
+    {
+      "id": "mozart-21-popular",
+      "title": "Mozart: 21 of His Most Popular Pieces",
+      "title_confidence": "confident",
+      "composer": "W.A. Mozart",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5620.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ADAGIO IN C MAJOR, for Glass Harmonica",
+          "page": 22
+        },
+        {
+          "title": "ALLEGRETTO IN F MAJOR",
+          "page": 28
+        },
+        {
+          "title": "ALLEGRO IN F MAJOR",
+          "page": null
+        },
+        {
+          "title": "ANDANTE from \"THE HAFFNER SERENADE\"",
+          "page": 17
+        },
+        {
+          "title": "ANDANTINO IN F MAJOR",
+          "page": 9
+        },
+        {
+          "title": "ARIA from \"THE MARRIAGE OF FIGARO\"",
+          "page": 18
+        },
+        {
+          "title": "CONCERTINO, Op. 21, THEME",
+          "page": 40
+        },
+        {
+          "title": "CONTREDANCE IN G MAJOR",
+          "page": 13
+        },
+        {
+          "title": "MINUET from \"DON GIOVANNI\"",
+          "page": 16
+        },
+        {
+          "title": "FANTASIA IN D MINOR",
+          "page": 33
+        },
+        {
+          "title": "FUNERAL MARCH for Signor Maestro Contrapunto",
+          "page": 20
+        },
+        {
+          "title": "MINUET IN C MAJOR",
+          "page": 4
+        },
+        {
+          "title": "RONDO IN C MAJOR",
+          "page": 6
+        },
+        {
+          "title": "RONDO IN D MAJOR",
+          "page": 14
+        },
+        {
+          "title": "SONATA IN C MAJOR (1st Movement)",
+          "page": 32
+        },
+        {
+          "title": "SONATA No. 6",
+          "page": null
+        },
+        {
+          "title": "Minuet I",
+          "page": 24
+        },
+        {
+          "title": "Minuet II",
+          "page": 26
+        },
+        {
+          "title": "TURKISH MARCH from SONATA No. 11",
+          "page": 44
+        },
+        {
+          "title": "TWO PIECES from THE LONDON NOTEBOOK",
+          "page": null
+        },
+        {
+          "title": "No. 1, Allegro",
+          "page": 10
+        },
+        {
+          "title": "No. II, Andante",
+          "page": 11
+        }
+      ],
+      "song_count_captured": 22
+    },
+    {
+      "id": "chopin-19-popular",
+      "title": "Chopin: 19 of His Most Popular Piano Selections",
+      "title_confidence": "confident",
+      "composer": "Frédéric Chopin",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5622.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ETUDE IN E MAJOR, Op. 10, No. 3",
+          "page": null
+        },
+        {
+          "title": "FANTASIE-IMPROMPTU, Op. 66 (Posthumous)",
+          "page": null
+        },
+        {
+          "title": "LARGO IN E-flat MAJOR (Posthumous)",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN A MINOR, Op. 7, No. 2",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN B-flat MAJOR, Op. 7, No. 1",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN C MAJOR, Op. 7, No. 5",
+          "page": null
+        },
+        {
+          "title": "MAZURKA IN G MINOR, Op. 67, No. 2 (Posthumous)",
+          "page": null
+        },
+        {
+          "title": "NOCTURNE IN E-flat MAJOR, Op. 9, No. 2",
+          "page": null
+        },
+        {
+          "title": "POLONAISE IN A MAJOR, Op. 40, No. 1",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN A MAJOR, Op. 28, No. 7",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN B MINOR, Op. 28, No. 6",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN C MAJOR, Op. 28, No. 1",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN C MINOR, Op. 28, No. 20",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN D-flat MAJOR, Op. 28, No. 15",
+          "page": null
+        },
+        {
+          "title": "PRELUDE IN E MINOR, Op. 28, No. 4",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN A MINOR, Op. 34, No. 2",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN A MINOR, Op. 64, No. 1",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN D-flat MAJOR, Op. 64, No. 1",
+          "page": null
+        },
+        {
+          "title": "WALTZ IN E MINOR (Posthumous)",
+          "page": null
+        }
+      ],
+      "song_count_captured": 19
+    },
+    {
+      "id": "debussy-selected-favorites",
+      "title": "Debussy: Selected Favorites for the Piano (Alfred)",
+      "title_confidence": "confident",
+      "composer": "Claude Debussy",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred Publishing Co., Inc.",
+      "arranger_editor": "EDITED BY LYNN FREEMAN OLSON",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5624.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Foreword",
+          "page": 3
+        },
+        {
+          "title": "Glossary",
+          "page": 4
+        },
+        {
+          "title": "Reverie",
+          "page": 5
+        },
+        {
+          "title": "La Petit Nègre",
+          "page": 13
+        },
+        {
+          "title": "Deux Arabesques",
+          "page": 19
+        },
+        {
+          "title": "from Suite Bergamasque",
+          "page": null
+        },
+        {
+          "title": "Prélude",
+          "page": 27
+        },
+        {
+          "title": "Clair de lune",
+          "page": 36
+        },
+        {
+          "title": "Passepied",
+          "page": 39
+        },
+        {
+          "title": "Children's Corner",
+          "page": 47
+        },
+        {
+          "title": "from Pour le piano",
+          "page": null
+        },
+        {
+          "title": "Sarabande",
+          "page": 86
+        },
+        {
+          "title": "Nocturne in D-flat",
+          "page": 98
+        },
+        {
+          "title": "Jardins sous la pluie",
+          "page": 107
+        },
+        {
+          "title": "En bateau",
+          "page": null
+        }
+      ],
+      "song_count_captured": 15
+    },
+    {
+      "id": "star-wars",
+      "title": "Star Wars (Trilogy Songbook)",
+      "title_confidence": "probable",
+      "series": null,
+      "volume": null,
+      "publisher": "International Music Publications Limited, Southend Road, Woodford Green, Essex IG8 8HN, England",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": "1-57623-358-1",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5594.jpeg"
+      ],
+      "flags": [
+        "Back cover groups themes by film; specific book title not captured."
+      ],
+      "songs": [
+        {
+          "title": "Cantina Band",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "Princess Leia's Theme",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "Star Wars (Main Theme)",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "The Throne Room",
+          "page": null,
+          "from": "STAR WARS"
+        },
+        {
+          "title": "The Imperial March",
+          "page": null,
+          "from": "THE EMPIRE STRIKES BACK"
+        },
+        {
+          "title": "Ewok Celebration",
+          "page": null,
+          "from": "RETURN OF THE JEDI"
+        },
+        {
+          "title": "Luke and Leia",
+          "page": null,
+          "from": "RETURN OF THE JEDI"
+        },
+        {
+          "title": "Victory Celebration",
+          "page": null,
+          "from": "RETURN OF THE JEDI"
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "joplin-sunflower-slow-drag",
+      "title": "Sunflower Slow Drag",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin & Scott Hayden",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5590.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "SUNFLOWER SLOW DRAG.",
+          "page": null,
+          "composer_printed": "SCOTT JOPLIN & SCOTT HAYDEN"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+photos/
+data/raw/
+data/enrich_in/
+data/enriched/
+tests/
+scripts/
+*.log
+.git/
+.DS_Store

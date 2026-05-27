@@ -1,0 +1,190 @@
+{
+  "batch": "03",
+  "photos": [
+    {
+      "photo": "IMG_5586.jpeg",
+      "type": "cover",
+      "orientation": "upright",
+      "book_title": "RHAPSODY IN BLUE",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": "piano solo",
+      "songs": [
+        {"title": "RHAPSODY IN BLUE", "page": null, "composer_printed": "george gershwin's", "from_printed": null}
+      ],
+      "legibility": "clear",
+      "notes": "Purple cover. Printed text: 'george gershwin's' (with registered-trademark symbol) / 'RHAPSODY IN BLUE' (with TM symbol) / 'piano solo'. Other unrelated books/objects visible in background at top of photo."
+    },
+    {
+      "photo": "IMG_5587.jpeg",
+      "type": "loose_sheet",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "Stark Music Co.",
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "MAPLE LEAF RAG.", "page": null, "composer_printed": "Scott Joplin", "from_printed": null}
+      ],
+      "legibility": "clear",
+      "notes": "Loose sheet with green maple-leaf illustration and red lettering. Printed: 'By King of Ragtime writers Scott Joplin.' and 'Composer of... The Cascades, Sunflower Slow Drag, Elite Syncopations'. Publisher cartouche reads 'Published by ... Rag time ... Starka Music Co.' (publisher text partly stylized/illegible; reads as Stark Music Co.)."
+    },
+    {
+      "photo": "IMG_5588.jpeg",
+      "type": "loose_sheet",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "Stark Music Company, St. Louis, U.S.A.",
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "\"THE EASY WINNERS\"", "page": null, "composer_printed": "SCOTT JOPLIN", "from_printed": null}
+      ],
+      "legibility": "clear",
+      "notes": "Blue/cyan loose sheet with portrait. Subtitle 'A RAG TIME TWO STEP'. 'BY SCOTT JOPLIN'. 'PUBLISHED BY Stark Music Company, ST LOUIS, U.S.A.' Small mark 'GRONK' in lower-left corner."
+    },
+    {
+      "photo": "IMG_5589.jpeg",
+      "type": "loose_sheet",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis",
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "THE ENTERTAINER", "page": null, "composer_printed": "SCOTT JOPLIN", "from_printed": null}
+      ],
+      "legibility": "partial",
+      "notes": "Blue/red loose sheet with illustration of a man in top hat. Subtitle 'A RAG TIME TWO-STEP'. 'BY SCOTT JOPLIN COMPOSER OF' followed by a list of works partly legible: 'MAPLE LEAF RAG', 'SUNFLOWER SLOW DRAG', 'PEACHERINE RAG', 'SWIPESY CAKE WALK', 'THE STRENUOUS LIFE (RAG)', 'THE RAGTIME DANCE (SONG)', 'ETC. ETC.'. Price '50'. Publisher 'JOHN STARK & SON SHEET MUSIC PUBLISHERS ST. LOUIS'. Tiny line of text along top edge above title is illegible."
+    },
+    {
+      "photo": "IMG_5590.jpeg",
+      "type": "loose_sheet",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis",
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "SUNFLOWER SLOW DRAG.", "page": null, "composer_printed": "SCOTT JOPLIN & SCOTT HAYDEN", "from_printed": null}
+      ],
+      "legibility": "partial",
+      "notes": "Loose sheet with sunflower illustration in brown/yellow. Subtitle 'A RAG TIME TWO-STEP.'. 'By SCOTT JOPLIN & SCOTT HAYDEN' (composer surname reads 'HAYDE' / 'HAYDEN' — right edge slightly cropped). Small side note 'Scott Joplin Composer of: \"Maple Leaf Rag\", \"Swipesy Cake Walk\", \"Augustan Club Waltz\"' (handwritten-style, partly illegible). 'Published by JOHN STARK & SON ST. LOUIS'."
+    },
+    {
+      "photo": "IMG_5591.jpeg",
+      "type": "loose_sheet",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, Sheet Music Publishers, St. Louis",
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "ELITE SYNCOPATIONS", "page": null, "composer_printed": "Scott Joplin", "from_printed": null}
+      ],
+      "legibility": "partial",
+      "notes": "Yellow loose sheet with illustration of a seated man and woman on a musical staff. 'BY THE KING OF RAG TIME WRITERS'. 'Scott Joplin'. 'COMPOSER OF MAPLE LEAF RAG, THE ENTERTAINER, ETC. ETC.'. Word 'Dolce.' printed at right. Publisher 'JOHN STARK & SON, SHEET MUSIC PUBLISHERS, ST. LOUIS'. Price '5' at lower left."
+    },
+    {
+      "photo": "IMG_5592.jpeg",
+      "type": "loose_sheet",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis, Mo.",
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "The Chrysanthemum", "page": null, "composer_printed": "Scott Joplin", "from_printed": null}
+      ],
+      "legibility": "clear",
+      "notes": "Pale green loose sheet with red chrysanthemum illustration. Subtitle 'AN AFRO-INTERMEZZO'. 'By Scott Joplin'. 'Published by John Stark & Son, St. Louis Mo.'. Small '5' at lower left."
+    },
+    {
+      "photo": "IMG_5593.jpeg",
+      "type": "back_cover",
+      "orientation": "upright",
+      "book_title": null,
+      "series": "The Phantom of the Opera",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": null,
+      "songs": [
+        {"title": "THINK OF ME", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "ANGEL OF MUSIC", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "THE PHANTOM OF THE OPERA", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "THE MUSIC OF THE NIGHT", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "PRIMA DONNA", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "ALL I ASK OF YOU", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "MASQUERADE", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "WISHING YOU WERE SOMEHOW HERE AGAIN", "page": null, "composer_printed": null, "from_printed": null},
+        {"title": "THE POINT OF NO RETURN", "page": null, "composer_printed": null, "from_printed": null}
+      ],
+      "legibility": "clear",
+      "notes": "Black back cover with white half-mask and red rose illustration (Phantom of the Opera). No book title or page numbers printed; song list only. No explicit 'Phantom of the Opera' title text on this page — series inferred from the iconic mask/rose artwork and the song list; recorded as series only because the artwork is unambiguous, no title text printed."
+    },
+    {
+      "photo": "IMG_5594.jpeg",
+      "type": "back_cover",
+      "orientation": "upright",
+      "book_title": null,
+      "series": null,
+      "volume": null,
+      "publisher": "International Music Publications Limited, Southend Road, Woodford Green, Essex IG8 8HN, England",
+      "arranger_editor": null,
+      "isbn": "1-57623-358-1",
+      "instrumentation": null,
+      "songs": [
+        {"title": "Cantina Band", "page": null, "composer_printed": null, "from_printed": "STAR WARS"},
+        {"title": "Princess Leia's Theme", "page": null, "composer_printed": null, "from_printed": "STAR WARS"},
+        {"title": "Star Wars (Main Theme)", "page": null, "composer_printed": null, "from_printed": "STAR WARS"},
+        {"title": "The Throne Room", "page": null, "composer_printed": null, "from_printed": "STAR WARS"},
+        {"title": "The Imperial March", "page": null, "composer_printed": null, "from_printed": "THE EMPIRE STRIKES BACK"},
+        {"title": "Ewok Celebration", "page": null, "composer_printed": null, "from_printed": "RETURN OF THE JEDI"},
+        {"title": "Luke and Leia", "page": null, "composer_printed": null, "from_printed": "RETURN OF THE JEDI"},
+        {"title": "Victory Celebration", "page": null, "composer_printed": null, "from_printed": "RETURN OF THE JEDI"}
+      ],
+      "legibility": "partial",
+      "notes": "Black Star Wars-themed back cover with three movie posters/headings: 'STAR WARS', 'THE EMPIRE STRIKES BACK', 'RETURN OF THE JEDI'. Songs are grouped under each film heading (recorded in from_printed). Bottom-left publisher line partly obscured/illegible — reads '...NER BROS. PUBLICATIONS' (likely Warner Bros. Publications). ISBN printed top-right: '1-57623-358-1' with barcode '9 781576 233584'. Price '$12.95'. 'Order No.' field with number partly illegible (appears '00208')."
+    },
+    {
+      "photo": "IMG_5595.jpeg",
+      "type": "cover",
+      "orientation": "upright",
+      "book_title": "MEMORY",
+      "series": "CATS",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "isbn": null,
+      "instrumentation": "PIANO/VOCAL/GUITAR",
+      "songs": [
+        {"title": "MEMORY", "page": null, "composer_printed": "Music by ANDREW LLOYD WEBBER; Text by TREVOR NUNN after T.S. ELIOT", "from_printed": "CATS"}
+      ],
+      "legibility": "clear",
+      "notes": "Black cover with yellow cat-eyes artwork. 'MEMORY' / 'Featured in the hit musical \"CATS\"' / 'Music by ANDREW LLOYD WEBBER' / 'Text by TREVOR NUNN after T.S. ELIOT'. Large 'CATS' lettering with 'FROM THE MUSICAL BY ANDREW LLOYD WEBBER' / 'BASED ON 'OLD POSSUM'S BOOK OF PRACTICAL CATS' BY T.S. ELIOT'. Instrumentation banner top-right 'PIANO/VOCAL/GUITAR' (slightly cropped at right edge)."
+    }
+  ]
+}

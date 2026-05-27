@@ -1,0 +1,613 @@
+{
+  "group": "04",
+  "books": [
+    {
+      "id": "59-piano-solos",
+      "title": "59 Piano Solos You Like to Play",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "G. Schirmer, Inc. (distributed by Hal Leonard)",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5653.jpeg",
+        "IMG_5654.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Tango in D",
+          "page": 4,
+          "composer_printed": "Albeniz, Isaac (b. Camprodon, Spain, 1860; d. Cambro, 1909)"
+        },
+        {
+          "title": "Solfeggietto",
+          "page": 6,
+          "composer_printed": "Bach, C. P. E. (b. Weimar, Germany, 1714; d. Hamburg, 1788)"
+        },
+        {
+          "title": "Prelude in C (Well-Tempered Clavier, Book I)",
+          "page": 10,
+          "composer_printed": "Bach, J. S. (b. Eisenach, Germany, 1685; d. Leipzig, 1750)",
+          "from": "Well-Tempered Clavier, Book I"
+        },
+        {
+          "title": "Prelude in Bb minor (Well-Tempered Clavier, Book I)",
+          "page": 12,
+          "composer_printed": "Bach, J. S. (b. Eisenach, Germany, 1685; d. Leipzig, 1750)",
+          "from": "Well-Tempered Clavier, Book I"
+        },
+        {
+          "title": "Variations on \"Nel cor piu non mi sento\"",
+          "page": 14,
+          "composer_printed": "Beethoven, Ludwig van (b. Bonn, Germany, 1770; d. Vienna, 1827)"
+        },
+        {
+          "title": "Minuet in G",
+          "page": 24,
+          "composer_printed": "Beethoven, Ludwig van (b. Bonn, Germany, 1770; d. Vienna, 1827)"
+        },
+        {
+          "title": "Hungarian Dance, No. 5",
+          "page": 28,
+          "composer_printed": "Brahms, Johannes (b. Hamburg, Germany, 1833; d. Vienna, 1897)"
+        },
+        {
+          "title": "Waltz in A flat",
+          "page": 30,
+          "composer_printed": "Brahms, Johannes (b. Hamburg, Germany, 1833; d. Vienna, 1897)"
+        },
+        {
+          "title": "Scarf Dance",
+          "page": 33,
+          "composer_printed": "Chaminade, Cecile (b. Paris, France, 1861)"
+        },
+        {
+          "title": "Prelude in A, Op. 28, No. 7",
+          "page": 33,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Prelude in C Minor, Op. 28, No. 20",
+          "page": 34,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Waltz (\"Minute\") in Db, Op. 64, No. 1",
+          "page": 38,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Mazurka in Bb, Op. 7, No. 1",
+          "page": 40,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Polonaise (\"Military\") in A, Op. 40, No. 1",
+          "page": 47,
+          "composer_printed": "Chopin, Frederic (b. Zelazowa Wola, Poland, 1810; d. Paris, 1849)"
+        },
+        {
+          "title": "Orientale",
+          "page": 50,
+          "composer_printed": "Cui, Cesar (b. Vilna, Russia, 1835; d. Vilna, 1918)"
+        },
+        {
+          "title": "Humoreske",
+          "page": 54,
+          "composer_printed": "Dvorak, Antonin (b. Muhlhausen, Czechoslovakia, 1841; d. Prague, 1904)"
+        },
+        {
+          "title": "Love's Greeting (Salut d'amour)",
+          "page": 58,
+          "composer_printed": "Elgar, Sir Edward (b. Broadheath, England, 1857; d. Marl Bank, Worcester, England, 1934)"
+        },
+        {
+          "title": "Poem",
+          "page": 60,
+          "composer_printed": "Fibich, Zdenko (b. Seborsitz, Czechoslovakia, 1850; d. Prague, 1900)"
+        },
+        {
+          "title": "Chanson",
+          "page": 63,
+          "composer_printed": "Friml, Rudolf (b. Prague, Czechoslovakia, 1881)"
+        },
+        {
+          "title": "Spanish Dance (Playera)",
+          "page": 67,
+          "composer_printed": "Granados, Enrique (b. Lerida, Spain, 1867; d. at sea, 1916)"
+        },
+        {
+          "title": "Album-Leaf",
+          "page": 68,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "Anitra's Dance",
+          "page": null,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "To Spring",
+          "page": 71,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "March of the Dwarfs",
+          "page": 76,
+          "composer_printed": "Grieg, Edvard (b. Bergen, Norway, 1843; d. Bergen, 1907)"
+        },
+        {
+          "title": "Largo",
+          "page": 82,
+          "composer_printed": "Handel, G. F. (b. Halle, Germany, 1685; d. London, 1759)"
+        },
+        {
+          "title": "Crescendo",
+          "page": 84,
+          "composer_printed": "Lasson, Per (b. Oslo, Norway, 1859; d. Oslo, 1883)"
+        },
+        {
+          "title": "Consolation, No. 5, in E",
+          "page": 87,
+          "composer_printed": "Liszt, Franz (b. Raiding, Hungary, 1811; d. Bayreuth, Germany, 1886)"
+        },
+        {
+          "title": "Liebestraum, No. 3, in Ab",
+          "page": 90,
+          "composer_printed": "Liszt, Franz (b. Raiding, Hungary, 1811; d. Bayreuth, Germany, 1886)"
+        },
+        {
+          "title": "Intermezzo from \"Cavalleria rusticana\"",
+          "page": 96,
+          "composer_printed": "Mascagni, Pietro (b. Leghorn, Italy, 1863)",
+          "from": "Cavalleria rusticana"
+        },
+        {
+          "title": "Melodie (Elegie)",
+          "page": 98,
+          "composer_printed": "Massenet, Jules (b. Montaud, France, 1842; d. Paris, 1912)"
+        },
+        {
+          "title": "Spring Song",
+          "page": 100,
+          "composer_printed": "Mendelssohn, Felix (b. Hamburg, Germany, 1809; d. Leipzig, 1847)"
+        },
+        {
+          "title": "Venetian Boat-Song, No. 1, in G Minor",
+          "page": 104,
+          "composer_printed": "Mendelssohn, Felix (b. Hamburg, Germany, 1809; d. Leipzig, 1847)"
+        },
+        {
+          "title": "Consolation",
+          "page": 106,
+          "composer_printed": "Mendelssohn, Felix (b. Hamburg, Germany, 1809; d. Leipzig, 1847)"
+        },
+        {
+          "title": "Serenata",
+          "page": 107,
+          "composer_printed": "Moszkowski, Moritz (b. Breslau, Germany, 1854; d. Paris, 1925)"
+        },
+        {
+          "title": "Rondo (alla turca)",
+          "page": 110,
+          "composer_printed": "Mozart, W. A. (b. Salzburg, Austria, 1756; d. Vienna, 1791)"
+        },
+        {
+          "title": "Barcarolle, from \"Les Contes d'Hoffmann\"",
+          "page": 114,
+          "composer_printed": "Offenbach, Jacques (b. Cologne, Germany, 1819; d. Paris, 1880)",
+          "from": "Les Contes d'Hoffmann"
+        },
+        {
+          "title": "May Night",
+          "page": 116,
+          "composer_printed": "Palmgren, Selim (b. Pori, Finland, 1878)"
+        },
+        {
+          "title": "Prelude in C# Minor",
+          "page": 119,
+          "composer_printed": "Rachmaninoff, Sergei (b. Onega, Russia, 1873)"
+        },
+        {
+          "title": "Prelude in G Minor",
+          "page": 124,
+          "composer_printed": "Rachmaninoff, Sergei (b. Onega, Russia, 1873)"
+        },
+        {
+          "title": "Song of India, from \"Sadko\"",
+          "page": 130,
+          "composer_printed": "Rimsky-Korsakoff, N. (b. Tikhvin, Russia, 1844; d. St. Petersburg, 1908)",
+          "from": "Sadko"
+        },
+        {
+          "title": "Kamennoi-Ostrow",
+          "page": 134,
+          "composer_printed": "Rubinstein, Anton (b. Wechwotynecz, Russia, 1830; d. Peterhof, 1894)"
+        },
+        {
+          "title": "Melodie (in F)",
+          "page": 142,
+          "composer_printed": "Rubinstein, Anton (b. Wechwotynecz, Russia, 1830; d. Peterhof, 1894)"
+        },
+        {
+          "title": "The Swan",
+          "page": 146,
+          "composer_printed": "Saint-Saens, Camille (b. Paris, 1835; d. Algiers, 1921)"
+        },
+        {
+          "title": "Polish Dance in Eb Minor",
+          "page": 149,
+          "composer_printed": "Scharwenka, Xaver (b. Samter, Germany, 1850; d. Berlin, 1924)"
+        },
+        {
+          "title": "Military March in D, Op. 51, No. 1",
+          "page": 153,
+          "composer_printed": "Schubert, Franz (b. Lichtenthal, Austria, 1797; d. Vienna, 1828)"
+        },
+        {
+          "title": "Moment Musical, No. 3, in F Minor",
+          "page": 156,
+          "composer_printed": "Schubert, Franz (b. Lichtenthal, Austria, 1797; d. Vienna, 1828)"
+        },
+        {
+          "title": "Romance in F#, Op. 28, No. 2",
+          "page": 158,
+          "composer_printed": "Schumann, Robert (b. Zwickau, Germany, 1810; d. Endenich, 1856)"
+        },
+        {
+          "title": "Traumerei",
+          "page": 160,
+          "composer_printed": "Schumann, Robert (b. Zwickau, Germany, 1810; d. Endenich, 1856)"
+        },
+        {
+          "title": "Romance",
+          "page": 161,
+          "composer_printed": "Sibelius, Jean (b. Tavastehus, Finland, 1865)"
+        },
+        {
+          "title": "Rustles of Spring",
+          "page": 166,
+          "composer_printed": "Sinding, Christian (b. Kongsberg, Norway, 1856)"
+        },
+        {
+          "title": "On the Beautiful Blue Danube",
+          "page": 174,
+          "composer_printed": "Strauss, Johann (Jr.) (b. Vienna, 1825; d. Vienna, 1899)"
+        },
+        {
+          "title": "None but the lonely heart (Nur wer die Sehnsucht kennt)",
+          "page": 181,
+          "composer_printed": "Tchaikovsky, P. I. (b. Kamsko-Wotkinsk, Russia, 1840; d. St. Petersburg, 1893)"
+        },
+        {
+          "title": "Andante Cantabile, from the Quartet, Op. 11",
+          "page": 184,
+          "composer_printed": "Tchaikovsky, P. I. (b. Kamsko-Wotkinsk, Russia, 1840; d. St. Petersburg, 1893)",
+          "from": "Quartet, Op. 11"
+        },
+        {
+          "title": "Song without words",
+          "page": 190,
+          "composer_printed": "Tchaikovsky, P. I. (b. Kamsko-Wotkinsk, Russia, 1840; d. St. Petersburg, 1893)"
+        },
+        {
+          "title": "Under the Leaves",
+          "page": 193,
+          "composer_printed": "Thome, F. (b. Island of Mauritius, 1850; d. Paris, 1909)"
+        },
+        {
+          "title": "Y... como le va?",
+          "page": 197,
+          "composer_printed": "Valverde, J. (d. Madrid, Spain, 1910)"
+        },
+        {
+          "title": "March, from \"Aida\"",
+          "page": 201,
+          "composer_printed": "Verdi, Giuseppe (b. Le Roncole, Italy, 1813; d. Milan, 1901)",
+          "from": "Aida"
+        },
+        {
+          "title": "Bridal Song, from \"Lohengrin\"",
+          "page": 203,
+          "composer_printed": "Wagner, Richard (b. Leipzig, Germany, 1813; d. Venice, 1883)",
+          "from": "Lohengrin"
+        },
+        {
+          "title": "\"Tannhauser\" March",
+          "page": 205,
+          "composer_printed": "Wagner, Richard (b. Leipzig, Germany, 1813; d. Venice, 1883)",
+          "from": "Tannhauser"
+        }
+      ],
+      "song_count_captured": 59
+    },
+    {
+      "id": "disney-recital-suites",
+      "title": "Disney Recital Suites (The Phillip Keveren Series)",
+      "title_confidence": "confident",
+      "series": "THE PHILLIP KEVEREN SERIES",
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": "Phillip Keveren",
+      "instrumentation": "PIANO SOLO",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5604.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ARABIAN NIGHTS",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "FRIEND LIKE ME",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "ONE JUMP AHEAD",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "PRINCE ALI",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "A WHOLE NEW WORLD",
+          "page": null,
+          "from": "ALADDIN"
+        },
+        {
+          "title": "BE OUR GUEST",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "BEAUTY AND THE BEAST",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "BELLE",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "GASTON",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "SOMETHING THERE",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "BE PREPARED",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "CAN YOU FEEL THE LOVE TONIGHT",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "CIRCLE OF LIFE",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "HAKUNA MATATA",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "I JUST CAN'T WAIT TO BE KING",
+          "page": null,
+          "from": "THE LION KING"
+        },
+        {
+          "title": "FATHOMS BELOW",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "KISS THE GIRL",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "LES POISSONS",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "PART OF YOUR WORLD",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        },
+        {
+          "title": "UNDER THE SEA",
+          "page": null,
+          "from": "THE LITTLE MERMAID"
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "mendelssohn-songs-without-words",
+      "title": "Mendelssohn: Songs Without Words (Complete, Alfred / Hinson)",
+      "title_confidence": "confident",
+      "composer": "Felix Mendelssohn",
+      "series": "An Alfred Masterwork Edition",
+      "volume": "Complete",
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Maurice Hinson",
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5636.jpeg",
+        "IMG_5637.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 48 Songs Without Words to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "yann-tiersen-eusa",
+      "title": "Yann Tiersen: EUSA",
+      "title_confidence": "confident",
+      "composer": "Yann Tiersen",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5581.jpeg",
+        "IMG_5582.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "PENN",
+          "page": 7
+        },
+        {
+          "title": "PORZ GORET",
+          "page": 17
+        },
+        {
+          "title": "LOK GWELTAZ",
+          "page": 27
+        },
+        {
+          "title": "PENN AR ROC'H",
+          "page": 35
+        },
+        {
+          "title": "KEREON",
+          "page": null
+        },
+        {
+          "title": "YUZIN",
+          "page": 51
+        },
+        {
+          "title": "ROC'H AR VUGALE",
+          "page": 57
+        },
+        {
+          "title": "PENN AR LANN",
+          "page": 67
+        },
+        {
+          "title": "ENEZ NEIN",
+          "page": 77
+        },
+        {
+          "title": "KADORAN",
+          "page": 87
+        }
+      ],
+      "song_count_captured": 10
+    },
+    {
+      "id": "gershwin-rhapsody-in-blue",
+      "title": "Rhapsody in Blue",
+      "title_confidence": "confident",
+      "composer": "George Gershwin",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "piano solo",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5586.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "RHAPSODY IN BLUE",
+          "page": null,
+          "composer_printed": "george gershwin's"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-maple-leaf-rag",
+      "title": "Maple Leaf Rag",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "Stark Music Co.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5587.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "MAPLE LEAF RAG.",
+          "page": null,
+          "composer_printed": "Scott Joplin"
+        }
+      ],
+      "song_count_captured": 1
+    },
+    {
+      "id": "joplin-entertainer",
+      "title": "The Entertainer",
+      "title_confidence": "confident",
+      "composer": "Scott Joplin",
+      "series": null,
+      "volume": null,
+      "publisher": "John Stark & Son, St. Louis",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5589.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "THE ENTERTAINER",
+          "page": null,
+          "composer_printed": "SCOTT JOPLIN"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

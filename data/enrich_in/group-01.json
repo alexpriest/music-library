@@ -1,0 +1,490 @@
+{
+  "group": "01",
+  "books": [
+    {
+      "id": "60s-countdown",
+      "title": "60s Countdown",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "G. Schirmer / Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5651.jpeg",
+        "IMG_5652.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Ain't No Mountain High Enough",
+          "page": null
+        },
+        {
+          "title": "Ain't Too Proud to Beg",
+          "page": null
+        },
+        {
+          "title": "Aquarius/Let the Sunshine In",
+          "page": null
+        },
+        {
+          "title": "Baby, I Need Your Lovin'",
+          "page": null
+        },
+        {
+          "title": "Bad Moon Rising",
+          "page": null
+        },
+        {
+          "title": "Be True to Your School",
+          "page": null
+        },
+        {
+          "title": "Blue on Blue",
+          "page": null
+        },
+        {
+          "title": "California Girls",
+          "page": null
+        },
+        {
+          "title": "Catch the Wind",
+          "page": null
+        },
+        {
+          "title": "Cathy's Clown",
+          "page": null
+        },
+        {
+          "title": "The Cheater",
+          "page": null
+        },
+        {
+          "title": "Classical Gas",
+          "page": null
+        },
+        {
+          "title": "Crying",
+          "page": null
+        },
+        {
+          "title": "Dancing in the Street",
+          "page": null
+        },
+        {
+          "title": "Do You Love Me",
+          "page": null
+        },
+        {
+          "title": "(Sittin' On) The Dock of the Bay",
+          "page": null
+        },
+        {
+          "title": "Does Anybody Really Know What Time It Is?",
+          "page": null
+        },
+        {
+          "title": "Down in the Boondocks",
+          "page": null
+        },
+        {
+          "title": "Down on the Corner",
+          "page": null
+        },
+        {
+          "title": "Elusive Butterfly",
+          "page": null
+        },
+        {
+          "title": "Fingertips (Part 2)",
+          "page": null
+        },
+        {
+          "title": "For Once in My Life",
+          "page": null
+        },
+        {
+          "title": "Fun, Fun, Fun",
+          "page": null
+        },
+        {
+          "title": "Games People Play",
+          "page": null
+        },
+        {
+          "title": "Georgia on My Mind",
+          "page": null
+        },
+        {
+          "title": "Goldfinger",
+          "page": null
+        },
+        {
+          "title": "Good Morning Starshine",
+          "page": null
+        },
+        {
+          "title": "Green Onions",
+          "page": null
+        },
+        {
+          "title": "Hats Off to Larry",
+          "page": null
+        },
+        {
+          "title": "Help Me Rhonda",
+          "page": null
+        },
+        {
+          "title": "Hey! Baby!",
+          "page": null
+        },
+        {
+          "title": "Hold On! I'm Coming",
+          "page": null
+        },
+        {
+          "title": "The House of the Rising Sun",
+          "page": null
+        },
+        {
+          "title": "Hurdy Gurdy Man",
+          "page": null
+        },
+        {
+          "title": "I Heard It Through the Grapevine",
+          "page": null
+        },
+        {
+          "title": "I Knew You When",
+          "page": null
+        },
+        {
+          "title": "In Dreams",
+          "page": null
+        },
+        {
+          "title": "It's Over",
+          "page": null
+        },
+        {
+          "title": "It's Up to You",
+          "page": null
+        },
+        {
+          "title": "Knock on Wood",
+          "page": 7
+        },
+        {
+          "title": "Light My Fire",
+          "page": 80
+        },
+        {
+          "title": "Mellow Yellow",
+          "page": 152
+        },
+        {
+          "title": "Mockingbird",
+          "page": 54
+        },
+        {
+          "title": "Moon River",
+          "page": 142
+        },
+        {
+          "title": "Mother-in-Law",
+          "page": 46
+        },
+        {
+          "title": "Oh, Pretty Woman",
+          "page": 75
+        },
+        {
+          "title": "The Pink Panther Theme",
+          "page": 188
+        },
+        {
+          "title": "A Place in the Sun",
+          "page": 50
+        },
+        {
+          "title": "Reach Out of the Darkness",
+          "page": 174
+        },
+        {
+          "title": "(I'm A) Road Runner",
+          "page": 139
+        },
+        {
+          "title": "The Shadow of Your Smile",
+          "page": null
+        },
+        {
+          "title": "Sheila",
+          "page": 148
+        },
+        {
+          "title": "Somewhere, My Love (Lara's Theme From \"Doctor Zhivago\")",
+          "page": 162,
+          "from": "Doctor Zhivago"
+        },
+        {
+          "title": "Spooky",
+          "page": 56
+        },
+        {
+          "title": "Stormy",
+          "page": 150
+        },
+        {
+          "title": "Sunny",
+          "page": null
+        },
+        {
+          "title": "Sweet Pea",
+          "page": null
+        },
+        {
+          "title": "Then You Can Tell Me Goodbye",
+          "page": 113
+        },
+        {
+          "title": "A Time for Us (Love Theme From Romeo and Juliet)",
+          "page": 165,
+          "from": "Romeo and Juliet"
+        },
+        {
+          "title": "Too Busy Thinking About My Baby",
+          "page": 10
+        },
+        {
+          "title": "Traces",
+          "page": 52
+        },
+        {
+          "title": "The Tracks of My Tears",
+          "page": 84
+        },
+        {
+          "title": "Travelin' Man",
+          "page": 168
+        },
+        {
+          "title": "The Way You Do the Things You Do",
+          "page": 100
+        },
+        {
+          "title": "What Becomes of the Broken-Hearted",
+          "page": 197
+        },
+        {
+          "title": "When Will I Be Loved",
+          "page": 209
+        },
+        {
+          "title": "White Rabbit",
+          "page": 116
+        },
+        {
+          "title": "A Whiter Shade of Pale",
+          "page": 162
+        },
+        {
+          "title": "Winchester Cathedral",
+          "page": 110
+        },
+        {
+          "title": "The Windmills of Your Mind",
+          "page": 203
+        },
+        {
+          "title": "Wouldn't It Be Nice?",
+          "page": 146
+        },
+        {
+          "title": "Yester-Me, Yester-You, Yesterday",
+          "page": 63
+        },
+        {
+          "title": "You Can't Hurry Love",
+          "page": 155
+        },
+        {
+          "title": "Young World",
+          "page": 22
+        },
+        {
+          "title": "You've Made Me So Very Happy",
+          "page": 60
+        }
+      ],
+      "song_count_captured": 75
+    },
+    {
+      "id": "debussy-clair-de-lune",
+      "title": "Debussy: Clair de Lune (Alfred / Palmer)",
+      "title_confidence": "confident",
+      "composer": "Claude Debussy",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Willard A. Palmer",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5634.jpeg"
+      ],
+      "flags": [
+        "Cover only. Confirm whether single piece or full Suite Bergamasque."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "boogie-fun-for-piano",
+      "title": "Boogie Fun for the Piano",
+      "title_confidence": "confident",
+      "composer": "Hazel Martin",
+      "series": null,
+      "volume": null,
+      "publisher": "MILLS MUSIC, INC.",
+      "arranger_editor": "HAZEL MARTIN",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5661.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "CLOWNING AROUND",
+          "page": 2
+        },
+        {
+          "title": "JITTERBUG JIVE",
+          "page": 4
+        },
+        {
+          "title": "BUCKIN' BRONCO BOOGIE",
+          "page": 6
+        },
+        {
+          "title": "SOFT SHOE BOOGIE",
+          "page": 8
+        },
+        {
+          "title": "BARBECUE BOOGIE",
+          "page": 10
+        },
+        {
+          "title": "BOOGIE FUN",
+          "page": 12
+        },
+        {
+          "title": "ROCK-A-WAY BOOGIE",
+          "page": 14
+        },
+        {
+          "title": "THE DUNGAREE HOP",
+          "page": 16
+        },
+        {
+          "title": "SATURDAY NIGHT",
+          "page": 18
+        },
+        {
+          "title": "SCARLET SLIPPERS",
+          "page": 20
+        },
+        {
+          "title": "BLUE BOOGIE BLUES",
+          "page": 22
+        }
+      ],
+      "song_count_captured": 11
+    },
+    {
+      "id": "gershwin-complete-preludes",
+      "title": "The Complete Gershwin Preludes for Piano",
+      "title_confidence": "confident",
+      "composer": "George Gershwin",
+      "series": null,
+      "volume": null,
+      "publisher": "Warner Bros. Publications",
+      "arranger_editor": "Editor: Alicia Zizzo; Project Manager: Tony Esposito; Engraver: Fred Smith",
+      "instrumentation": "piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5628.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "PRELUDE I",
+          "page": 7
+        },
+        {
+          "title": "PRELUDE II (Blue Lullaby)",
+          "page": 18
+        },
+        {
+          "title": "PRELUDE (Fragment)",
+          "page": 31
+        },
+        {
+          "title": "PRELUDE (Melody No. 17)",
+          "page": 13
+        },
+        {
+          "title": "PRELUDE (Novelette in Fourths)",
+          "page": 22
+        },
+        {
+          "title": "PRELUDE (Rubato)",
+          "page": 16
+        },
+        {
+          "title": "PRELUDE (Sleepless Night)",
+          "page": 33
+        },
+        {
+          "title": "PRELUDE III (Spanish Prelude)",
+          "page": 27
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "library-of-piano-favorites",
+      "title": "The Library of Piano Favorites",
+      "title_confidence": "confident",
+      "series": "The Library of",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5642.jpeg",
+        "IMG_5643.jpeg"
+      ],
+      "flags": [
+        "Contents shot upside-down/low-res — NO songs captured. Reshoot contents pages."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    }
+  ]
+}

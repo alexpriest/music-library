@@ -1,0 +1,518 @@
+{
+  "group": "06",
+  "books": [
+    {
+      "id": "raffi-songbook",
+      "title": "Raffi Songbook",
+      "title_confidence": "uncertain",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "easy-to-play piano arrangements with guitar chord boxes",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5584.jpeg"
+      ],
+      "flags": [
+        "Title inferred from facing book (likely a Raffi collection). No page numbers. Confirm title."
+      ],
+      "songs": [
+        {
+          "title": "All I Really Need",
+          "page": null
+        },
+        {
+          "title": "Anana",
+          "page": null
+        },
+        {
+          "title": "Apples And Bananas",
+          "page": null
+        },
+        {
+          "title": "Baby Beluga",
+          "page": null
+        },
+        {
+          "title": "Bathtime",
+          "page": null
+        },
+        {
+          "title": "The Bowling Song",
+          "page": null
+        },
+        {
+          "title": "Brush Your Teeth",
+          "page": null
+        },
+        {
+          "title": "Comin' Down The Chimney",
+          "page": null
+        },
+        {
+          "title": "The Corner Grocery Store",
+          "page": null
+        },
+        {
+          "title": "Daniel",
+          "page": null
+        },
+        {
+          "title": "De Colores",
+          "page": null
+        },
+        {
+          "title": "Down By The Bay",
+          "page": null
+        },
+        {
+          "title": "Eight Piggies In A Row",
+          "page": null
+        },
+        {
+          "title": "Every Little Wish",
+          "page": null
+        },
+        {
+          "title": "Everything Grows",
+          "page": null
+        },
+        {
+          "title": "Fais Dodo",
+          "page": null
+        },
+        {
+          "title": "Goodnight, Irene",
+          "page": null
+        },
+        {
+          "title": "Have Lo Keto",
+          "page": null
+        },
+        {
+          "title": "He's Got The Whole World",
+          "page": null
+        },
+        {
+          "title": "I Wonder If I'm Growing",
+          "page": null
+        },
+        {
+          "title": "I'm In The Mood",
+          "page": null
+        },
+        {
+          "title": "If I Had A Dinosaur",
+          "page": null
+        },
+        {
+          "title": "Just Like The Sun",
+          "page": null
+        },
+        {
+          "title": "Let's Make Some Noise",
+          "page": null
+        },
+        {
+          "title": "Like Me And You",
+          "page": null
+        },
+        {
+          "title": "Michael",
+          "page": null
+        },
+        {
+          "title": "Mr. Sun",
+          "page": null
+        },
+        {
+          "title": "The More We Get Together",
+          "page": null
+        },
+        {
+          "title": "My Way Home",
+          "page": null
+        },
+        {
+          "title": "Oh Me, Oh My",
+          "page": null
+        },
+        {
+          "title": "Old MacDonald Had A Band",
+          "page": null
+        },
+        {
+          "title": "On Christmas Morning",
+          "page": null
+        },
+        {
+          "title": "One Light, One Sun",
+          "page": null
+        },
+        {
+          "title": "Peanut Butter Sandwich",
+          "page": null
+        },
+        {
+          "title": "Popcorn",
+          "page": null
+        },
+        {
+          "title": "Rishe In An Airplane",
+          "page": null
+        },
+        {
+          "title": "Rise And Shine",
+          "page": null
+        },
+        {
+          "title": "Saturday Morning",
+          "page": null
+        },
+        {
+          "title": "Shake My Sillies Out",
+          "page": null
+        },
+        {
+          "title": "The Sharing Song",
+          "page": null
+        },
+        {
+          "title": "Six Little Ducks",
+          "page": null
+        },
+        {
+          "title": "Somewhere In This World",
+          "page": null
+        },
+        {
+          "title": "Teddy Bear Hug",
+          "page": null
+        },
+        {
+          "title": "Thanks A Lot",
+          "page": null
+        },
+        {
+          "title": "This Little Light Of Mine",
+          "page": null
+        },
+        {
+          "title": "This Old Man",
+          "page": null
+        },
+        {
+          "title": "Time To Sing",
+          "page": null
+        },
+        {
+          "title": "Tingalayo",
+          "page": null
+        },
+        {
+          "title": "Walk, Walk, Walk",
+          "page": null
+        },
+        {
+          "title": "Wheels On The Bus",
+          "page": null
+        },
+        {
+          "title": "Willoughby, Wallaby, Woo",
+          "page": null
+        }
+      ],
+      "song_count_captured": 51
+    },
+    {
+      "id": "debussy-japanese-collection",
+      "title": "Debussy: Piano Collection (Japanese Edition)",
+      "title_confidence": "probable",
+      "composer": "Claude Debussy",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5638.jpeg"
+      ],
+      "flags": [
+        "Japanese-edition Debussy collection; exact title not captured."
+      ],
+      "songs": [
+        {
+          "title": "1 ) Deux Arabesques",
+          "page": 5
+        },
+        {
+          "title": "1ère Arabesque",
+          "page": 5
+        },
+        {
+          "title": "2ème Arabesque",
+          "page": 10
+        },
+        {
+          "title": "2 ) Suite Bergamasque",
+          "page": 16
+        },
+        {
+          "title": "Prélude",
+          "page": 16
+        },
+        {
+          "title": "Menuet",
+          "page": 21
+        },
+        {
+          "title": "Clair de lune",
+          "page": 27
+        },
+        {
+          "title": "Passepied",
+          "page": 33
+        },
+        {
+          "title": "3 ) Pour le Piano",
+          "page": 40
+        },
+        {
+          "title": "Sarabande",
+          "page": 50
+        },
+        {
+          "title": "Toccata",
+          "page": 53
+        },
+        {
+          "title": "4 ) Ballade",
+          "page": 65
+        },
+        {
+          "title": "5 ) Rêverie",
+          "page": 73
+        },
+        {
+          "title": "6 ) Valse romantique",
+          "page": 78
+        },
+        {
+          "title": "7 ) Nocturne",
+          "page": 83
+        },
+        {
+          "title": "8 ) Danse",
+          "page": 90
+        },
+        {
+          "title": "9 ) Mazurka",
+          "page": 100
+        },
+        {
+          "title": "10) D'un cahier d'esquisses",
+          "page": 105
+        },
+        {
+          "title": "11) Masques",
+          "page": 109
+        },
+        {
+          "title": "12) Hommage à Haydn",
+          "page": 121
+        },
+        {
+          "title": "13) La plus que lente",
+          "page": 125
+        },
+        {
+          "title": "14) Berceuse héroïque",
+          "page": 131
+        }
+      ],
+      "song_count_captured": 22
+    },
+    {
+      "id": "bach-two-part-inventions-alfred",
+      "title": "J.S. Bach: Two-Part Inventions (Alfred / Palmer)",
+      "title_confidence": "confident",
+      "composer": "J.S. Bach",
+      "series": "An Alfred Masterwork Edition",
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": "Edited by Willard A. Palmer",
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5611.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 15 Two-Part Inventions (BWV 772–786) to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "disney-pixar-soul",
+      "title": "Soul (Disney·Pixar)",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal/Guitar",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5608.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "BORN TO PLAY",
+          "page": null
+        },
+        {
+          "title": "COLLARD GREENS AND CORNBREAD STOUT",
+          "page": null
+        },
+        {
+          "title": "LOOKING AT LIFE",
+          "page": null
+        },
+        {
+          "title": "FRUIT OF THE VINE",
+          "page": null
+        },
+        {
+          "title": "SPIRITUAL CONNECTION",
+          "page": null
+        },
+        {
+          "title": "IT'S ALL RIGHT",
+          "page": null
+        },
+        {
+          "title": "CRISTO REDENTOR",
+          "page": null
+        },
+        {
+          "title": "DANCELAND",
+          "page": null
+        },
+        {
+          "title": "EPISTROPHY",
+          "page": null
+        },
+        {
+          "title": "I LET A SONG GO OUT OF MY HEART",
+          "page": null
+        },
+        {
+          "title": "BLUE RONDO A LA TURK",
+          "page": null
+        },
+        {
+          "title": "EPIPHANY",
+          "page": null
+        },
+        {
+          "title": "PARTING WAYS",
+          "page": null
+        }
+      ],
+      "song_count_captured": 13
+    },
+    {
+      "id": "yann-tiersen-kerber",
+      "title": "Yann Tiersen: Kerber",
+      "title_confidence": "confident",
+      "composer": "Yann Tiersen",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5639.jpeg"
+      ],
+      "flags": [
+        "Identified by tracklist."
+      ],
+      "songs": [
+        {
+          "title": "Introduction",
+          "page": 7
+        },
+        {
+          "title": "Kerlann",
+          "page": 9
+        },
+        {
+          "title": "Ar Maner Kozh",
+          "page": 14
+        },
+        {
+          "title": "Kerdrall",
+          "page": 21
+        },
+        {
+          "title": "Ker Yegu",
+          "page": 28
+        },
+        {
+          "title": "Ker al Loch",
+          "page": 32
+        },
+        {
+          "title": "Kerber",
+          "page": 43
+        },
+        {
+          "title": "Poull Bojer",
+          "page": 56
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "villalobos-manquinha",
+      "title": "Manquinha (Nº 74)",
+      "title_confidence": "confident",
+      "composer": "Heitor Villa-Lobos",
+      "series": "GUIA PRÁTICO",
+      "volume": "1º Volume",
+      "publisher": null,
+      "arranger_editor": "H. Villa-Lobos",
+      "instrumentation": "PIANO",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5665.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Manquinha",
+          "page": null,
+          "composer_printed": "H. Villa-Lobos",
+          "from": "Nº 74 do 1º Volume do \"GUIA PRÁTICO\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

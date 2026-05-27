@@ -1,0 +1,557 @@
+{
+  "group": "13",
+  "books": [
+    {
+      "id": "joy-of-wedding-music",
+      "title": "The Joy of Wedding Music",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": "Denes Agay",
+      "instrumentation": "piano, with words and chord names",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5649.jpeg",
+        "IMG_5650.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Amazing Grace",
+          "page": 9,
+          "composer_printed": "Folk hymn"
+        },
+        {
+          "title": "Arioso",
+          "page": 16,
+          "composer_printed": "Johann Sebastian Bach"
+        },
+        {
+          "title": "Ave Maria",
+          "page": 20,
+          "composer_printed": "Franz Schubert"
+        },
+        {
+          "title": "Because",
+          "page": 28,
+          "composer_printed": "Guy d'Hardelot"
+        },
+        {
+          "title": "Canon",
+          "page": 75,
+          "composer_printed": "Johann Pachelbel"
+        },
+        {
+          "title": "Dedication",
+          "page": 44,
+          "composer_printed": "Robert Schumann"
+        },
+        {
+          "title": "I Love You",
+          "page": 43,
+          "composer_printed": "Edvard Grieg"
+        },
+        {
+          "title": "I Love You Truly",
+          "page": 27,
+          "composer_printed": "Carrie Jacobs Bond"
+        },
+        {
+          "title": "In the Garden from Rustic Wedding Symphony",
+          "page": 26,
+          "composer_printed": "Karl Goldmark",
+          "from": "Rustic Wedding Symphony"
+        },
+        {
+          "title": "Jesu, Joy of Man's Desiring",
+          "page": 23,
+          "composer_printed": "Johann Sebastian Bach"
+        },
+        {
+          "title": "The Lord's Prayer",
+          "page": 32,
+          "composer_printed": "Albert Hay Malotte"
+        },
+        {
+          "title": "Morning Has Broken",
+          "page": 8,
+          "composer_printed": "Gaelic melody"
+        },
+        {
+          "title": "Old Irish Blessing",
+          "page": 54,
+          "composer_printed": "Denes Agay"
+        },
+        {
+          "title": "The Pachelbel Canon",
+          "page": 75,
+          "composer_printed": "Johann Pachelbel"
+        },
+        {
+          "title": "Sheep May Safely Graze",
+          "page": 18,
+          "composer_printed": "Johann Sebastian Bach"
+        },
+        {
+          "title": "Wedding Prayer",
+          "page": 40,
+          "composer_printed": "Fern Glasgow Dunlap"
+        },
+        {
+          "title": "Air from Water Music",
+          "page": 5,
+          "composer_printed": "George Frideric Handel",
+          "from": "Water Music"
+        },
+        {
+          "title": "Bridal Chorus from Lohengrin",
+          "page": 10,
+          "composer_printed": "Richard Wagner",
+          "from": "Lohengrin"
+        },
+        {
+          "title": "Joyful, Joyful We Adore Thee from Ninth Symphony",
+          "page": 3,
+          "composer_printed": "Ludwig van Beethoven",
+          "from": "Ninth Symphony"
+        },
+        {
+          "title": "Love Divine, All Loves Excelling",
+          "page": 17,
+          "composer_printed": "Charles Wesley-John Zundel"
+        },
+        {
+          "title": "Now Thank We All Our God",
+          "page": 80,
+          "composer_printed": "Martin Rinkart-Johann Cruger"
+        },
+        {
+          "title": "O Perfect Love",
+          "page": 6,
+          "composer_printed": "Dorothy F. Gurney-Sir Joseph Barnby"
+        },
+        {
+          "title": "Praise My Soul the King of Heaven",
+          "page": 7,
+          "composer_printed": "Henry F. Lyte-Sir John Goss"
+        },
+        {
+          "title": "Solemn Procession",
+          "page": 14,
+          "composer_printed": "Henry Purcell"
+        },
+        {
+          "title": "Trumpet Tune",
+          "page": 4,
+          "composer_printed": "Henry Purcell"
+        },
+        {
+          "title": "Trumpet Voluntary",
+          "page": 12,
+          "composer_printed": "Jeremiah Clark"
+        },
+        {
+          "title": "Baroque Fanfare",
+          "page": 30,
+          "composer_printed": "Jean Joseph Mouret"
+        },
+        {
+          "title": "Festival Rondo",
+          "page": 74,
+          "composer_printed": "Henry Purcell"
+        },
+        {
+          "title": "Psalm XVIII",
+          "page": 78,
+          "composer_printed": "Benedetto Marcello"
+        },
+        {
+          "title": "Wedding March from A Midsummer Night's Dream",
+          "page": 72,
+          "composer_printed": "Felix Mendelssohn",
+          "from": "A Midsummer Night's Dream"
+        },
+        {
+          "title": "Bridge Over Troubled Water",
+          "page": 62,
+          "composer_printed": "Paul Simon"
+        },
+        {
+          "title": "For You, My Love (solo or duet)",
+          "page": 35,
+          "composer_printed": "Sidney Leif-Denes Agay"
+        },
+        {
+          "title": "I Need You To Turn To",
+          "page": 60,
+          "composer_printed": "Elton John-Bernie Taupin"
+        },
+        {
+          "title": "One Hand-One Heart from West Side Story",
+          "page": 58,
+          "composer_printed": "Stephen Sondheim-Leonard Bernstein",
+          "from": "West Side Story"
+        },
+        {
+          "title": "Since You've Asked",
+          "page": 66,
+          "composer_printed": "Judy Collins"
+        },
+        {
+          "title": "Somewhere from West Side Story",
+          "page": 51,
+          "composer_printed": "Stephen Sondheim-Leonard Bernstein",
+          "from": "West Side Story"
+        },
+        {
+          "title": "We've Only Just Begun",
+          "page": 48,
+          "composer_printed": "Paul Williams-Roger Nichols"
+        },
+        {
+          "title": "A Whiter Shade Of Pale",
+          "page": 69,
+          "composer_printed": "Gary Brooker-Keith Reid"
+        }
+      ],
+      "song_count_captured": 38
+    },
+    {
+      "id": "randy-newman-anthology",
+      "title": "Randy Newman Anthology",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Alfred",
+      "arranger_editor": null,
+      "instrumentation": "Piano/Vocal/Chords",
+      "isbn": "ISBN-13: 978-0-7692-5864-x",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5579.jpeg",
+        "IMG_5580.jpeg"
+      ],
+      "flags": [
+        "Back-cover song list has no page numbers."
+      ],
+      "songs": [
+        {
+          "title": "Baltimore",
+          "page": null
+        },
+        {
+          "title": "Bleeding All Over The Place",
+          "page": null
+        },
+        {
+          "title": "Burn On",
+          "page": null
+        },
+        {
+          "title": "Cowboy",
+          "page": null
+        },
+        {
+          "title": "Davy The Fat Boy",
+          "page": null
+        },
+        {
+          "title": "Dixie Flyer",
+          "page": null
+        },
+        {
+          "title": "Feels Like Home",
+          "page": null
+        },
+        {
+          "title": "Gainesville",
+          "page": null
+        },
+        {
+          "title": "God's Song",
+          "page": null
+        },
+        {
+          "title": "Guilty",
+          "page": null
+        },
+        {
+          "title": "I Love L.A.",
+          "page": null
+        },
+        {
+          "title": "I Love To See You Smile",
+          "page": null
+        },
+        {
+          "title": "I Think It's Going To Rain Today",
+          "page": null
+        },
+        {
+          "title": "I Want You To Hurt Like I Do",
+          "page": null
+        },
+        {
+          "title": "In Germany Before The War",
+          "page": null
+        },
+        {
+          "title": "It's Money That I Love",
+          "page": null
+        },
+        {
+          "title": "Living Without You",
+          "page": null
+        },
+        {
+          "title": "Lonely At The Top",
+          "page": null
+        },
+        {
+          "title": "Louisiana",
+          "page": null
+        },
+        {
+          "title": "Mama Told Me Not To Come",
+          "page": null
+        },
+        {
+          "title": "Marie",
+          "page": null
+        },
+        {
+          "title": "Miami",
+          "page": null
+        },
+        {
+          "title": "Old Man",
+          "page": null
+        },
+        {
+          "title": "One More Hour",
+          "page": null
+        },
+        {
+          "title": "Political Science",
+          "page": null
+        },
+        {
+          "title": "Real Emotional Girl",
+          "page": null
+        },
+        {
+          "title": "Rednecks",
+          "page": null
+        },
+        {
+          "title": "Sail Away",
+          "page": null
+        },
+        {
+          "title": "Same Girl",
+          "page": null
+        },
+        {
+          "title": "Sandman's Coming",
+          "page": null
+        },
+        {
+          "title": "Short People",
+          "page": null
+        },
+        {
+          "title": "Simon Smith",
+          "page": null
+        },
+        {
+          "title": "Song For The Dead",
+          "page": null
+        },
+        {
+          "title": "You Can Leave Your Hat On",
+          "page": null
+        },
+        {
+          "title": "You've Got A Friend In Me",
+          "page": null
+        }
+      ],
+      "song_count_captured": 35
+    },
+    {
+      "id": "bach-two-three-part-schirmer",
+      "title": "Bach: Two- and Three-Part Inventions (Schirmer, Vol. 813)",
+      "title_confidence": "confident",
+      "composer": "J.S. Bach",
+      "series": "Schirmer's Library of Musical Classics",
+      "volume": "Vol. 813",
+      "publisher": "G. Schirmer",
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": true,
+      "source_photos": [
+        "IMG_5616.jpeg"
+      ],
+      "flags": [
+        "Cover only. Canonical 15 Inventions + 15 Sinfonias to be filled in enrichment."
+      ],
+      "songs": [],
+      "song_count_captured": 0
+    },
+    {
+      "id": "super-mario-series-for-piano",
+      "title": "Super Mario Series for Piano",
+      "title_confidence": "confident",
+      "series": "Super Mario Series",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5393.jpeg"
+      ],
+      "flags": [
+        "Only ~12 songs captured — dense two-column contents, low-res. Reshoot for full list."
+      ],
+      "songs": [
+        {
+          "title": "SUPER MARIO BROS.",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO BROS.: The Lost Levels",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO BROS. 2",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO WORLD",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO WORLD 2",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO 64",
+          "page": null
+        },
+        {
+          "title": "MARIO KART 64",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO SUNSHINE",
+          "page": null
+        },
+        {
+          "title": "NEW SUPER MARIO BROS.",
+          "page": null
+        },
+        {
+          "title": "SUPER MARIO GALAXY",
+          "page": null
+        },
+        {
+          "title": "MARIO KART Wii",
+          "page": null
+        },
+        {
+          "title": "NEW SUPER MARIO BROS. Wii",
+          "page": null
+        }
+      ],
+      "song_count_captured": 12
+    },
+    {
+      "id": "bernstein-birds",
+      "title": "Birds",
+      "title_confidence": "confident",
+      "composer": "Seymour Bernstein",
+      "series": null,
+      "volume": null,
+      "publisher": "G. Schirmer, Inc.",
+      "arranger_editor": null,
+      "instrumentation": "for piano solo",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5614.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Purple Finch",
+          "page": 3
+        },
+        {
+          "title": "The Hummingbird",
+          "page": 4
+        },
+        {
+          "title": "The Woodpecker",
+          "page": 5
+        },
+        {
+          "title": "The Sea Gull",
+          "page": 6
+        },
+        {
+          "title": "The Chickadee",
+          "page": 7
+        },
+        {
+          "title": "The Vulture",
+          "page": 8
+        },
+        {
+          "title": "The Penguin",
+          "page": 10
+        },
+        {
+          "title": "The Eagle",
+          "page": 11
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "rainbow-connection",
+      "title": "The Rainbow Connection",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": "Welbeck Music Corp.",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5601.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "The Rainbow Connection",
+          "page": null,
+          "composer_printed": "Lyrics and Music by Paul Williams and Kenny Ascher",
+          "from": "From the ATD Film \"THE MUPPET MOVIE\""
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}

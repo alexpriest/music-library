@@ -1,0 +1,640 @@
+{
+  "group": "10",
+  "books": [
+    {
+      "id": "smta-volume-unconfirmed",
+      "title": "The Singer's Musical Theatre Anthology — (Volume Unconfirmed)",
+      "title_confidence": "uncertain",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5646.jpeg"
+      ],
+      "flags": [
+        "Contents page from an SMTA volume; which voice type/volume unconfirmed (may continue Vol. 2)."
+      ],
+      "songs": [
+        {
+          "title": "You Can't Get a Man With a Gun",
+          "page": null,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "They Say It's Wonderful",
+          "page": null,
+          "from": "ANNIE GET YOUR GUN"
+        },
+        {
+          "title": "Gorgeous",
+          "page": null,
+          "from": "THE APPLE TREE"
+        },
+        {
+          "title": "A Change in Me",
+          "page": null,
+          "from": "BEAUTY AND THE BEAST"
+        },
+        {
+          "title": "So What?",
+          "page": null,
+          "from": "CABARET"
+        },
+        {
+          "title": "Mein Herr",
+          "page": null,
+          "from": "CABARET"
+        },
+        {
+          "title": "Maybe This Time",
+          "page": null,
+          "from": "CABARET"
+        },
+        {
+          "title": "Class",
+          "page": null,
+          "from": "CHICAGO"
+        },
+        {
+          "title": "When You're Good to Mama",
+          "page": null,
+          "from": "CHICAGO"
+        },
+        {
+          "title": "Nothing",
+          "page": null,
+          "from": "A CHORUS LINE"
+        },
+        {
+          "title": "The Ladies Who Lunch",
+          "page": null,
+          "from": "COMPANY"
+        },
+        {
+          "title": "Heads or Tails",
+          "page": null,
+          "from": "COWGIRLS"
+        },
+        {
+          "title": "Don't Call Me Trailer Trash",
+          "page": null,
+          "from": "COWGIRLS"
+        },
+        {
+          "title": "Adventure",
+          "page": null,
+          "from": "DO RE MI"
+        },
+        {
+          "title": "Ah, But Underneath",
+          "page": null,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Uptown, Downtown",
+          "page": null,
+          "from": "FOLLIES"
+        },
+        {
+          "title": "Can You Find It in Your Heart?",
+          "page": null,
+          "from": "FOOTLOOSE"
+        },
+        {
+          "title": "Don't Rain on My Parade",
+          "page": null,
+          "from": "FUNNY GIRL"
+        },
+        {
+          "title": "But Not for Me",
+          "page": null,
+          "from": "GIRL CRAZY"
+        },
+        {
+          "title": "Everything's Coming Up Roses",
+          "page": null,
+          "from": "GYPSY"
+        },
+        {
+          "title": "Rose's Turn",
+          "page": null,
+          "from": "GYPSY"
+        },
+        {
+          "title": "Miss Marmelstein",
+          "page": 159,
+          "from": "I CAN GET IT FOR YOU WHOLESALE"
+        },
+        {
+          "title": "Always a Bridesmaid",
+          "page": 166,
+          "from": "I LOVE YOU, YOU'RE PERFECT, NOW CHANGE"
+        },
+        {
+          "title": "Nothing Really Happened",
+          "page": 174,
+          "from": "IS THERE LIFE AFTER HIGH SCHOOL?"
+        },
+        {
+          "title": "Someone Like You",
+          "page": 181,
+          "from": "JEKYLL & HYDE"
+        },
+        {
+          "title": "A New Life",
+          "page": 186,
+          "from": "JEKYLL & HYDE"
+        },
+        {
+          "title": "My Heart Belongs to Daddy",
+          "page": 192,
+          "from": "LEAVE IT TO ME"
+        },
+        {
+          "title": "I'd Give My Life for You",
+          "page": 196,
+          "from": "MISS SAIGON"
+        },
+        {
+          "title": "My Child Will Forgive Me",
+          "page": 202,
+          "from": "PARADE"
+        },
+        {
+          "title": "You Don't Know This Man",
+          "page": 206,
+          "from": "PARADE"
+        },
+        {
+          "title": "Teaching Third Grade",
+          "page": 210,
+          "from": "RUTHLESS"
+        },
+        {
+          "title": "I Had Myself a True Love",
+          "page": 218,
+          "from": "ST. LOUIS WOMAN"
+        },
+        {
+          "title": "Who Will Love Me As I Am?",
+          "page": 224,
+          "from": "SIDE SHOW"
+        },
+        {
+          "title": "Let Me Finish",
+          "page": 230,
+          "from": "SONG AND DANCE"
+        },
+        {
+          "title": "Third Letter Home",
+          "page": 237,
+          "from": "SONG AND DANCE"
+        },
+        {
+          "title": "Stars and the Moon",
+          "page": 268,
+          "from": "SONGS FOR A NEW WORLD"
+        },
+        {
+          "title": "Honey Bun",
+          "page": 240,
+          "from": "SOUTH PACIFIC"
+        },
+        {
+          "title": "As If We Never Said Goodbye",
+          "page": 244,
+          "from": "SUNSET BOULEVARD"
+        },
+        {
+          "title": "With One Look",
+          "page": 250,
+          "from": "SUNSET BOULEVARD"
+        },
+        {
+          "title": "Just a Housewife",
+          "page": 254,
+          "from": "WORKING"
+        },
+        {
+          "title": "My New Philosophy",
+          "page": 262,
+          "from": "YOU'RE A GOOD MAN, CHARLIE BROWN"
+        }
+      ],
+      "song_count_captured": 41
+    },
+    {
+      "id": "cocktail-jazz",
+      "title": "Cocktail Jazz",
+      "title_confidence": "confident",
+      "series": "Jazz Piano Solos",
+      "volume": "Volume 46",
+      "publisher": "Hal Leonard",
+      "arranger_editor": "Brent Edstrom",
+      "instrumentation": "Piano Solo",
+      "isbn": "978-1-4950-6894-2",
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5387.jpeg",
+        "IMG_5388.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "ALFIE",
+          "page": 2
+        },
+        {
+          "title": "ALL THE WAY",
+          "page": 4
+        },
+        {
+          "title": "AS TIME GOES BY",
+          "page": 8
+        },
+        {
+          "title": "AUTUMN IN NEW YORK",
+          "page": 16
+        },
+        {
+          "title": "BLAME IT ON MY YOUTH",
+          "page": 18
+        },
+        {
+          "title": "CHARADE",
+          "page": 11
+        },
+        {
+          "title": "COME FLY WITH ME",
+          "page": 20
+        },
+        {
+          "title": "CUTE",
+          "page": 24
+        },
+        {
+          "title": "DAYS OF WINE AND ROSES",
+          "page": 32
+        },
+        {
+          "title": "DREAM",
+          "page": 36
+        },
+        {
+          "title": "EASY LIVING",
+          "page": 40
+        },
+        {
+          "title": "I GET A KICK OUT OF YOU",
+          "page": 44
+        },
+        {
+          "title": "I'LL BE SEEING YOU",
+          "page": 29
+        },
+        {
+          "title": "I'VE GOT THE WORLD ON A STRING",
+          "page": 50
+        },
+        {
+          "title": "IF HE WALKED INTO MY LIFE",
+          "page": 54
+        },
+        {
+          "title": "ISN'T IT A PITY?",
+          "page": 59
+        },
+        {
+          "title": "IT COULD HAPPEN TO YOU",
+          "page": 62
+        },
+        {
+          "title": "IT HAD TO BE YOU",
+          "page": 66
+        },
+        {
+          "title": "MEDITATION (MEDITAÇÃO)",
+          "page": 74
+        },
+        {
+          "title": "NANCY WITH THE LAUGHING FACE",
+          "page": 78
+        },
+        {
+          "title": "NEVER NEVER LAND",
+          "page": 82
+        },
+        {
+          "title": "ONCE UPON A TIME",
+          "page": 86
+        },
+        {
+          "title": "SCOTCH AND SODA",
+          "page": 69
+        },
+        {
+          "title": "THE SECOND TIME AROUND",
+          "page": 90
+        },
+        {
+          "title": "SEPTEMBER SONG",
+          "page": 94
+        }
+      ],
+      "song_count_captured": 25
+    },
+    {
+      "id": "taylor-swift-midnights",
+      "title": "Taylor Swift: Midnights",
+      "title_confidence": "probable",
+      "composer": "Taylor Swift",
+      "series": null,
+      "volume": null,
+      "publisher": "Hal Leonard",
+      "arranger_editor": null,
+      "instrumentation": null,
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5609.jpeg"
+      ],
+      "flags": [
+        "Identified from tracklist; no title text on page."
+      ],
+      "songs": [
+        {
+          "title": "Lavender Haze",
+          "page": null
+        },
+        {
+          "title": "Maroon",
+          "page": null
+        },
+        {
+          "title": "Anti-Hero",
+          "page": null
+        },
+        {
+          "title": "Snow On The Beach",
+          "page": null
+        },
+        {
+          "title": "You're On Your Own, Kid",
+          "page": null
+        },
+        {
+          "title": "Midnight Rain",
+          "page": null
+        },
+        {
+          "title": "Question...?",
+          "page": null
+        },
+        {
+          "title": "Vigilante Shit",
+          "page": null
+        },
+        {
+          "title": "Bejeweled",
+          "page": null
+        },
+        {
+          "title": "Labyrinth",
+          "page": null
+        },
+        {
+          "title": "Karma",
+          "page": null
+        },
+        {
+          "title": "Sweet Nothing",
+          "page": null
+        },
+        {
+          "title": "Mastermind",
+          "page": null
+        },
+        {
+          "title": "The Great War",
+          "page": null
+        },
+        {
+          "title": "Bigger Than The Whole Sky",
+          "page": null
+        },
+        {
+          "title": "Paris",
+          "page": null
+        },
+        {
+          "title": "High Infidelity",
+          "page": null
+        },
+        {
+          "title": "Glitch",
+          "page": null
+        },
+        {
+          "title": "Would've, Could've, Should've",
+          "page": null
+        },
+        {
+          "title": "Dear Reader",
+          "page": null
+        }
+      ],
+      "song_count_captured": 20
+    },
+    {
+      "id": "cowboy-bebop",
+      "title": "Cowboy Bebop (Piano Score)",
+      "title_confidence": "confident",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "Piano Solo / Vocal & Piano / Piano Duet (Four Hands)",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5392.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "Tank!",
+          "page": 6,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "WALTZ for ZIZI",
+          "page": 14,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "PIANO BLACK",
+          "page": 18,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "RAIN",
+          "page": 34,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "MEMORY",
+          "page": 40,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "Piano Bar I",
+          "page": 42,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "THE REAL FOLK BLUES",
+          "page": 46,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "Cats on Mars",
+          "page": 55,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "Green Bird",
+          "page": 58,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "ELM",
+          "page": 62,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "The EGG and YOU",
+          "page": 70,
+          "from": "PIANO SOLO"
+        },
+        {
+          "title": "BLUE",
+          "page": 76,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "CALL ME CALL ME",
+          "page": 86,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "FLYING TEAPOT",
+          "page": 92,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "No reply",
+          "page": 102,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "Dijurido",
+          "page": 108,
+          "from": "VOCAL & PIANO"
+        },
+        {
+          "title": "Gotta knock a little harder",
+          "page": 112,
+          "from": "VOCAL & PIANO"
+        }
+      ],
+      "song_count_captured": 17
+    },
+    {
+      "id": "philip-glass-solo-piano",
+      "title": "Philip Glass: Solo Piano",
+      "title_confidence": "confident",
+      "composer": "Philip Glass",
+      "series": null,
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "PIANO - VOCAL - GUITAR",
+      "isbn": null,
+      "is_loose_sheet": false,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5605.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "METAMORPHOSIS",
+          "page": 4
+        },
+        {
+          "title": "Metamorphosis One",
+          "page": 4
+        },
+        {
+          "title": "Metamorphosis Two",
+          "page": 8
+        },
+        {
+          "title": "Metamorphosis Three",
+          "page": 15
+        },
+        {
+          "title": "Metamorphosis Four",
+          "page": 20
+        },
+        {
+          "title": "Metamorphosis Five",
+          "page": 27
+        },
+        {
+          "title": "MAD RUSH",
+          "page": 30
+        },
+        {
+          "title": "WICHITA VORTEX SUTRA",
+          "page": 50
+        }
+      ],
+      "song_count_captured": 8
+    },
+    {
+      "id": "cats-memory",
+      "title": "Memory (from Cats)",
+      "title_confidence": "confident",
+      "series": "CATS",
+      "volume": null,
+      "publisher": null,
+      "arranger_editor": null,
+      "instrumentation": "PIANO/VOCAL/GUITAR",
+      "isbn": null,
+      "is_loose_sheet": true,
+      "fill_canonical": false,
+      "source_photos": [
+        "IMG_5595.jpeg"
+      ],
+      "flags": [],
+      "songs": [
+        {
+          "title": "MEMORY",
+          "page": null,
+          "composer_printed": "Music by ANDREW LLOYD WEBBER; Text by TREVOR NUNN after T.S. ELIOT",
+          "from": "CATS"
+        }
+      ],
+      "song_count_captured": 1
+    }
+  ]
+}
