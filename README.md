@@ -1,6 +1,14 @@
 # Music Library
 
-A searchable database of every song in my physical sheet-music collection, reachable from any Claude (Claude Code, Kit/iMessage, and the Claude apps on web/desktop/mobile) so I can ask for music by **mood, vibe, genre, composer, era, tempo, energy, or difficulty** and get back a specific **book + page** to pull off the shelf.
+An MCP server over 82 physical sheet-music books, so any Claude can answer a request for a mood with a book and a page.
+
+## Status
+
+Shipped — 82 books and 1,567 songs, reachable from any Claude over MCP.
+
+## License
+
+Not licensed for reuse.
 
 ## What's in it
 
